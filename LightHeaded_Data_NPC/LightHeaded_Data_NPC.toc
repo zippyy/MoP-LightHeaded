@@ -1,4 +1,4 @@
-## Interface: 50400
+## Interface: 120000
 ## Author: jnwhiteh
 ## Title: LightHeaded_Data_NPC
 ## Version: 364
