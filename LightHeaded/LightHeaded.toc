@@ -1,20 +1,22 @@
-## Interface: 50400
+## Interface: 120000
 ## Author: jnwhiteh
 ## Title: LightHeaded
-## Version: 364
+## Version: 12.0.0-midnight
 ## Notes: Allows you to view WoWHead comments for quests in-game
 ## License: All Rights Reserved
 ## SavedVariables: LightHeadedDB
 ## OptionalDeps: Dongle
+## IconTexture: Interface\AddOns\LightHeaded\images\wh_icon
 
 ## LoadManagers: AddonLoader
 ## X-LoadOn-Execute: local done = false; LightHeaded = setmetatable({}, {__index = function(t,k) if not done then AddonLoader:LoadAddOn("LightHeaded"); done = true; return _G.LightHeaded[k]; end; end})
-## X-LoadOn-Execute2: do local f = CreateFrame("Frame", nil, QuestLogFrame); f:SetScript("OnShow", function() if not IsAddOnLoaded("LightHeaded") then AddonLoader:LoadAddOn("LightHeaded"); end; f:SetScript("OnShow", nil) end) end;
-## X-LoadOn-Execute3: do local f = CreateFrame("Frame", nil, QuestLogDetailFrame); f:SetScript("OnShow", function() if not IsAddOnLoaded("LightHeaded") then AddonLoader:LoadAddOn("LightHeaded"); end; f:SetScript("OnShow", nil) end) end;
+## X-LoadOn-Execute2: do local f = CreateFrame("Frame", nil, QuestLogFrame or UIParent); f:SetScript("OnShow", function() if not IsAddOnLoaded("LightHeaded") then AddonLoader:LoadAddOn("LightHeaded"); end; f:SetScript("OnShow", nil) end) end;
+## X-LoadOn-Execute3: do local f = CreateFrame("Frame", nil, QuestLogDetailFrame or UIParent); f:SetScript("OnShow", function() if not IsAddOnLoaded("LightHeaded") then AddonLoader:LoadAddOn("LightHeaded"); end; f:SetScript("OnShow", nil) end) end;
 ## X-LoadOn-Slash: /lh, /lightheaded, /lighthead
 
 Data\LH_QIDMap.lua
 
+LightHeaded_MidnightCompat.lua
 Dongle.lua
 LightHeaded.lua
 
