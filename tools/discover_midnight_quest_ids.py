@@ -2,80 +2,136 @@
 
 import re
 from pathlib import Path
+from urllib.parse import urljoin
 
 from playwright.sync_api import TimeoutError as PlaywrightTimeoutError
 from playwright.sync_api import sync_playwright
 
 ROOT = Path(__file__).resolve().parent.parent
 QIDFILE = ROOT / 'tools' / 'midnight_quest_ids.txt'
-WOWHEAD_URL = 'https://www.wowhead.com/quests/midnight'
+BASE_URL = 'https://www.wowhead.com'
+START_URLS = [
+    'https://www.wowhead.com/quests/midnight',
+    'https://www.wowhead.com/beta/quests/midnight',
+]
+MAX_PAGES = 100
+
+QUEST_PATTERNS = [
+    r'(?:quest=|/quest/)(\d+)',
+    r'"id"\s*:\s*(\d+)',
+    r'"questId"\s*:\s*(\d+)',
+]
+
+
+def extract_ids(text, ids):
+    if not text:
+        return
+
+    for pattern in QUEST_PATTERNS:
+        for match in re.findall(pattern, text):
+            qid = int(match)
+            if qid >= 90000:
+                ids.add(qid)
+
+
+def collect_page(page, url, ids, discovered_pages):
+    print(f'[+] Crawling {url}')
+
+    page.goto(url, wait_until='domcontentloaded', timeout=60000)
+
+    try:
+        page.wait_for_selector('a[href]', timeout=15000)
+    except PlaywrightTimeoutError:
+        print('[!] Link selector timeout; continuing with partial DOM')
+
+    page.wait_for_timeout(3000)
+
+    html = page.content()
+    extract_ids(html, ids)
+
+    try:
+        body_text = page.locator('body').inner_text(timeout=10000)
+        extract_ids(body_text, ids)
+    except PlaywrightTimeoutError:
+        pass
+
+    hrefs = []
+
+    try:
+        hrefs = page.eval_on_selector_all(
+            'a[href]',
+            'els => els.map(a => a.getAttribute("href"))'
+        )
+    except Exception:
+        pass
+
+    next_pages = set()
+
+    for href in hrefs or []:
+        if not href:
+            continue
+
+        full = urljoin(BASE_URL, href)
+
+        extract_ids(full, ids)
+
+        if '/quests/midnight' in full:
+            next_pages.add(full.split('#')[0])
+
+        if '/beta/quests/midnight' in full:
+            next_pages.add(full.split('#')[0])
+
+        if 'filter=' in full and '/quests' in full:
+            next_pages.add(full.split('#')[0])
+
+        if 'page=' in full and '/quests' in full:
+            next_pages.add(full.split('#')[0])
+
+    discovered_pages.update(next_pages)
 
 
 def discover_ids():
     ids = set()
-
-    print(f'[+] Opening {WOWHEAD_URL}')
+    discovered_pages = set(START_URLS)
+    crawled = set()
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
-        page = browser.new_page(
+
+        context = browser.new_context(
             user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/125 Safari/537.36',
+            locale='en-US',
+            timezone_id='America/Denver',
             viewport={'width': 1600, 'height': 1200},
         )
 
-        # Do not use networkidle on Wowhead. It keeps analytics/ad/background
-        # requests alive long enough to timeout in GitHub Actions.
-        page.goto(WOWHEAD_URL, wait_until='domcontentloaded', timeout=60000)
+        page = context.new_page()
 
-        # Try to let the Listview render, but do not fail if the selector never
-        # appears. The page may still expose IDs in inline JS/HTML.
-        try:
-            page.wait_for_selector('a[href*="quest="]', timeout=20000)
-        except PlaywrightTimeoutError:
-            print('[!] Quest links did not render before timeout; falling back to page HTML/text')
+        while discovered_pages and len(crawled) < MAX_PAGES:
+            url = discovered_pages.pop()
 
-        page.wait_for_timeout(3000)
+            if url in crawled:
+                continue
 
-        html = page.content()
+            try:
+                collect_page(page, url, ids, discovered_pages)
+                crawled.add(url)
+            except Exception as e:
+                print(f'[!] Failed crawling {url}: {e}')
 
-        try:
-            text = page.locator('body').inner_text(timeout=10000)
-        except PlaywrightTimeoutError:
-            text = ''
-
-        try:
-            hrefs = page.eval_on_selector_all('a[href]', 'els => els.map(a => a.getAttribute("href"))')
-        except Exception:
-            hrefs = []
-
+        page.close()
+        context.close()
         browser.close()
 
-    for source in [html, text, '\n'.join(hrefs or [])]:
-        if not source:
-            continue
+    print(f'[+] Crawled {len(crawled)} Wowhead pages')
+    print(f'[+] Discovered {len(ids)} candidate Midnight quest IDs')
 
-        for match in re.findall(r'(?:quest=|/quest/)(\d+)', source):
-            qid = int(match)
-            if qid >= 90000:
-                ids.add(qid)
-
-        for match in re.findall(r'"id"\s*:\s*(\d+)', source):
-            qid = int(match)
-            if qid >= 90000:
-                ids.add(qid)
-
-        for match in re.findall(r'"questId"\s*:\s*(\d+)', source):
-            qid = int(match)
-            if qid >= 90000:
-                ids.add(qid)
-
-    print(f'[+] Discovered {len(ids)} candidate quest IDs')
     return sorted(ids)
 
 
 def write_seed_file(ids):
     output = []
-    output.append('# Midnight quest IDs discovered from Wowhead JS-rendered quest index.')
+    output.append('# Midnight quest IDs discovered from Wowhead JS-rendered quest pages.')
     output.append('# Generated by tools/discover_midnight_quest_ids.py')
     output.append('# One quest ID per line. Blank lines and # comments are ignored.')
     output.append('')
@@ -91,7 +147,7 @@ def main():
     ids = discover_ids()
 
     if not ids:
-        raise SystemExit('[!] No Midnight quest IDs were discovered. Wowhead layout may have changed or blocked rendering.')
+        raise SystemExit('[!] No Midnight quest IDs were discovered.')
 
     write_seed_file(ids)
 
