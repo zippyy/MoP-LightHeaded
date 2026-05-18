@@ -1,0 +1,50 @@
+name: Discover Midnight Quest IDs
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */12 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+          cache-dependency-path: tools/requirements.txt
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r tools/requirements.txt
+
+      - name: Install Playwright Chromium
+        run: |
+          python -m playwright install chromium
+
+      - name: Discover Midnight quest IDs
+        run: |
+          python tools/discover_midnight_quest_ids.py
+
+      - name: Commit updated quest ID list
+        run: |
+          if git diff --quiet -- tools/midnight_quest_ids.txt; then
+            echo "No quest ID changes discovered."
+            exit 0
+          fi
+
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add tools/midnight_quest_ids.txt
+          git commit -m "Update discovered Midnight quest IDs"
+          git push
