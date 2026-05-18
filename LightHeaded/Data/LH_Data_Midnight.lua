@@ -1,5 +1,10 @@
 LH_Data_Midnight = LH_Data_Midnight or {
 
+[90093] = {
+  "9009318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=90093",
+},
+
 [90094] = {
   "9009418080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=90094",
@@ -53,6 +58,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
 [90482] = {
   "9048218080NPCUnknown0NPCUnknown00",
   "Wowhead050The Clinging Depthsroot grows under the water with the other ingredients you need to gather. It is a two minute buff that gives you water breathing and 125% swim speed. The buff doesn't stack if you eat more than one, but it is pretty common in the area, so you can eat more as needed. Last edited by Zinovia on 2026/03/15 (Patch 12.0.1)",
+},
+
+[90484] = {
+  "9048418080NPCUnknown0NPCUnknown00",
+  "Wowhead050As a goblin, the text for this quest was different to what's listed on this page: <Trishe gasps.> You're my size! You must also be above eleventy five years old! That means you're response-able, too! <Trishe pouts.> My friend Steggy is missing! She was here with me, but then there were all these pretty colors and she ran off after them and I was too slow to follow her. I'm s'posed to watch Steggy. I'm response-able! And now you're response-able for finding her, okay? I assume it'll be the same for gnomes and possibly dwarves. Fun little bit of flavour!",
 },
 
 [90486] = {
@@ -198,6 +208,12 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=90568",
 },
 
+[90569] = {
+  "9056918080NPCUnknown0NPCUnknown00",
+  "Wowhead050It seems to be the spiteful spores and not a bad drop rate, got nothing from the others.",
+  "Wowhead050It seems to be the spiteful spores and not a bad drop rate, got nothing from the others.",
+},
+
 [90570] = {
   "9057018080NPCUnknown0NPCUnknown00",
   "Wowhead050Even as Alliance, you will need to complete the quests 'Twilight Missive' , A Somber Sun , Captured Information and Interrogation from Salandria for this quest to show up for Taelia Fordragon Last edited by DeadlyTitan19 on 2026/04/02 (Patch 12.0.1)",
@@ -267,6 +283,27 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050The Guys are sparkling (and named) to indicate they are the ones to talk to (there are 4 possible shrooms to interact with). The server reset, and after logging in, only 2 guys showed up. I abandoned the quest, restarted it, and there they were.",
 },
 
+[90619] = {
+  "9061918080NPCUnknown0NPCUnknown00",
+  "Wowhead050Currently bugged. Ziny is flagged and grey. Beating them doesn't give credit.",
+  "Wowhead050If some of the mobs are bugged, you need to try to move to another shard. You can do this in several ways: Join another group that is in the same zone Switch Warmode on or off Do instanced content (delve, dungeon, ...) and come back after doing it You're not guaranteed to actually move to another shard and even if you do, the mobs might be bugged in the new shard, but that can help.",
+  "Wowhead050Bummer, this is my only quest left for Sojourner of Harandar and it's bugged... Tried Warmode on and off, tried accepting the quest in warmode and then turning it off, tried accepting the quest out of warmode and turning it on, tried after a delve... Nothing EDIT: I did it! I don't know what solved it, I just gave up - did the whole Voidstorm questlines and came back, could talk to the famous TukTuk finally. Now I have issue with Truth of the Past .... *Sigh* Last edited by RagingPuss on 2026/03/01 (Patch 12.0.1)",
+  "Wowhead050Currently on live this quest is bugged. Current solution is that Brakko is only available to be killed with Warmode on and the other two can be killed with Warmode off. So kill whoever you can in whatever warmode you currently have enabled, toggle it and kill the others.",
+  "Wowhead050Worked for me today to just swap shard, didnt abandon quest, do the delve, turn on warmode or anything else, just swapped shard.",
+  "Wowhead050The fix for me was to join someone's group to get a new phase. Otherwise, Ziny was gray as others were complaining. So if you have tried everything else, try that. Hopefully this bug is resolved soon.",
+  "Wowhead050not sure if this quest was now fixed but i was able to finish it",
+  "Wowhead050Still broken 2/ 28/ 26",
+  "Wowhead050Seems to be fixed :D 1/ 03/ 26 - Frostmourne OCE 10:05AM",
+  "Wowhead050Tried everything, abandoned quest, nothing would work. What worked for me: I abandoned the sparring quest, did the delve, picked it back up and it worked for me after.",
+  "Wowhead050I abandoned and retook the quest, enabled PVP, went and spoke to Tuktuk > Ziny > Brakko and fought all 3 at the same time and it worked Idk if enabling pvp did it or the order but i tried like 3-4 times and this is the only way i got it working with all 3 Last edited by Durolan on 2026/02/27 (Patch 12.0.1)",
+  "Wowhead050Broken as on 2/ 28/ 2026. However it got fixed by just relogging",
+  "Wowhead05028/ 2/ 26- Was still bugged for me when I attempted to try this quest. I tried relogging, reloading and doing a delve due to what was recommended to me here! The delve partially worked. I could fight two out of three, However I still could not battle TukTuk. What fixed that was going in to Warmode specifically for TukTuk. I hope this mish mash of what worked for me will work for someone else. Good luck!",
+  "Wowhead050Can kill Brakko and Ziny with WM on, have to turn off WM to kill Tuktuk, then turn back on to turn in with XP bonus.",
+  "Wowhead050So, for those saying it's still bugged - It is, on some levels. I did the Delve last night after some suggestions here, and was able to duel both Brakko and Ziny. Could not even see Tuktuk, let alone duel. I held on to the quest, and seemingly reset 'fixed' it, as now I flew over here just to check and see (WITHOUT DROPPING THE QUEST), and Tuktuk is here and able to finish it. So, I advise that if you're finding it still bugged after being able to duel Brakko and Ziny, DO NOT ABANDON THE QUEST, hold it until after server reset, and see if that fixes it - if it hasn't already been fixed by Blizz.",
+  "Wowhead050Try logging out and then back in. I had given up on this, I wasn't able to engage TukTuk... and moved onto other things. When I logged back in the next day, it worked fine.",
+  "Wowhead050Ziny is now interactable and can be dueled, along with Brackko. Tuktuk is still bugged. :(",
+},
+
 [90620] = {
   "9062018080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=90620",
@@ -285,6 +322,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
 [90669] = {
   "9066918080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=90669",
+},
+
+[90671] = {
+  "9067118080NPCUnknown0NPCUnknown00",
+  "Wowhead050Grummle vendors & portal to Kun-Lai Summit at 53, 38 Alliance Uncle Tallywhistle at 52, 38 Alliance by the large coffee roaster in the center can pinpoint on the neighborhood map where important activities are located. Overkafanated Gryphons 44, 52 Alliance Kun-Lai Summit The best place for K Berries is inside the cake at 37, 78. You can rapidly gather enough berries to turn in for coffee to feed to sleepy neighbors and to eat, which is 3 for 1 endeavors. Last edited by Beriberi on 2026/01/23 (Patch 12.0.1)",
 },
 
 [90690] = {
@@ -396,6 +438,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
 [90749] = {
   "9074918080NPCUnknown0NPCUnknown00",
   "Wowhead050You may end up like me. I got the quest and flew into Atal'Aman only to find Lady Liadrin was not there or with me. I went back to where she was and nothing. Went back to Zul'Jan and Zul'Jarra logged out and back in. Still nothing. Tried walking literally right up to Zul'Jan and the Lady spawned. I could then turn this in and carry on. Not sure if it was a little buggy, I did it wrong, or whatever, but if this ends up helping someone else, then it was time well spent. Last edited by iceman2541 on 2026/03/21 (Patch 12.0.1)",
+},
+
+[90751] = {
+  "9075118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=90751",
 },
 
 [90754] = {
@@ -543,6 +590,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050I finished the storyline and got Sojourner of Voidstorm without this quest being flagged as complete.",
 },
 
+[90844] = {
+  "9084418080NPCUnknown0NPCUnknown00",
+  "Wowhead050This quest sucked (my personal opinion) and the coordinates above only got my 1/ 8 the way thru the quest. I seems to just be another grind quest that should probably been paired with another quest to not be boring or frustrating.",
+},
+
 [90845] = {
   "9084518080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=90845",
@@ -551,6 +603,21 @@ LH_Data_Midnight = LH_Data_Midnight or {
 [90847] = {
   "9084718080NPCUnknown0NPCUnknown00",
   "Wowhead050Questioner Xen'daan is inside the building, despite the quest circle making it seem like they'll spawn at the entrance",
+},
+
+[90848] = {
+  "9084818080NPCUnknown0NPCUnknown00",
+  "Wowhead050Turn in @ 37.67, 48.45",
+},
+
+[90849] = {
+  "9084918080NPCUnknown0NPCUnknown00",
+  "Wowhead050Prerequisite: complete [The Gate], the tenth quest in the introductory chain. If you try to come here before you do the \"shoot-em-up and rescue the lost\" quest on the dragonhawk, you will be auto-ported back into the main area. Completing [TheGate] bot unlocks this objective AND unlocks the area so you can get to the objective zone.",
+},
+
+[90851] = {
+  "9085118080NPCUnknown0NPCUnknown00",
+  "Wowhead050Just in case you were confused like I was, you can see this quest inside the Shadowguard Point delve but you cannot complete it in the delve, it is completed on the outside.",
 },
 
 [90852] = {
@@ -647,6 +714,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050Speak with Farmer Bruvk to accept this quest. Once accepted, you’ve got an orc grunt that follows you. They’ll carry all those pumpkins so you don’t break a sweat killing enemies and carrying the weight of four pumpkins on your back. Orcs were made for that kind of stuff. Unless your character is an orc, then maybe you’re just too weak to carry the pumpkins. Either way, the pumpkins are sparce within the field, coveted by kobolds, but you should be able to find enough of them in a short amount of time. I think their respawn is pretty timely. Once your helper is carrying all four pumpkins, return to Thrall .",
 },
 
+[90886] = {
+  "9088618080NPCUnknown0NPCUnknown00",
+  "Wowhead050Speak with Thrall for this quest. Head into the Go’Shek Farm and start killing any of the Kobold Pillager and Ogre Destroyer for their poorly written plans, which is either making fun of them for not being able to write that well, or for making terrible plans to begin with. I believe the plans are a 100% drop rate, but if not, then it’s a pretty darn high drop rate. You might also be able to find a Stuck Ogre. Apparently they’re too large to fit through a household doorway and get stuck. If you help pull them out, they’ll give you one of their plans as a thanks. After acquiring all seven, get back with Thrall .",
+},
+
 [90887] = {
   "9088718080NPCUnknown0NPCUnknown00",
   "Wowhead050This quest is supposed to award a class-specific chest slot item and cape. However, after playing through the catch-up chain on all classes I found that the quest is bugged and fails to award the chest slot item to mages, priests, warlocks or shaman.",
@@ -667,15 +739,30 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050Oh wow yeah you were right",
 },
 
+[90890] = {
+  "9089018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=90890",
+},
+
 [90893] = {
   "9089318080NPCUnknown0NPCUnknown00",
   "Wowhead050You acquire this quest from Thrall . For this quest, you’ll notice there’s a bar that needs to be filled up. There are several different ways to increase the bar to 100%. The first is to interact with the catapult supplies in the area. This is one of the easiest things to do as long as no enemies are nearby and increases the bar by 8%. The other three ways are to defeat the enemies scattered about. Ogre Bashers will give a 7% increase to the bar. Gnoll Biters give 4%. The Ettin Crushers are elite mobs and give a whopping 25%, so clearly, you know what to aim for. Just know that they do take longer to kill than the normal mobs, and also hit harder. There may be other enemies, and if there are, I didn’t attack them. Once you’ve hit 100%, turn in the quest to Thrall just outside Ar’gorok.",
+},
+
+[90895] = {
+  "9089518080NPCUnknown0NPCUnknown00",
+  "Wowhead050Obtain this quest from Lady Jaina Proudmoore . Up ahead is an area that's patrolled by ogres and ettins, which might actually cause you some grief if you get into combat with them, due to them being elite. Perhaps they won't end you, but it might take some time to end them, depending. There are catapults within this area, and you'll need to destroy all four of them. Return to Lady Jaina for the quest hand-in, only this time she's just outside Ar'gorok.",
 },
 
 [90896] = {
   "9089618080NPCUnknown0NPCUnknown00",
   "Wowhead050This quest is supposed to award a class-specific shoulder slot item and helm. However, after playing through the catch-up chain on all classes I found that the quest is bugged and fails to award the shoulder slot item to warlocks.",
   "Wowhead050Speak with Thrall to accept this quest. Head into Ar’gorok where a bunch of ogres that should be guarding the area are frozen in chunks of ice. Clearly a frost mage’s handiwork. Ro’grok will be in the tall, important looking center building, where two chunks of ice preside. He does cast every once in a while, as well as melee attack, so interrupting his casts might benefit you. One of those casts is Shadow Bolt, while the other is Desecrate, where he targets a circular area on the ground that you’ll need to move out of. Otherwise, he’s fairly easy to defeat. Not an elite or anything. When you’ve downed him, speak with Thrall .",
+},
+
+[90897] = {
+  "9089718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=90897",
 },
 
 [90898] = {
@@ -786,6 +873,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050bummer to see this is unavailable to those who race changes to Haranir. Hopefully it'll get patched soon, it's the last questline I need in the zone.",
 },
 
+[90958] = {
+  "9095818080NPCUnknown0NPCUnknown00",
+  "Wowhead050Go to / way 36.62, 25.15 and click on a thing on the ground. It kind of looks like a shield. Orweyna is standing right next to it . Last edited by Fluffnutter on 2026/04/01 (Patch 12.0.1)",
+},
+
 [90959] = {
   "9095918080NPCUnknown0NPCUnknown00",
   "Wowhead050Outsider found goto / way 35.71, 27.54 Outsider rescued kill the Vicious Saptor Outsider directed to safety / way 35.61, 7.90 Click on Alton Parsons Turn in quest / way 34.04, 26.93 Youtube video for quest found if you need it. https:// www.youtube.com/ watch?v=6ngOqpK3vEw Last edited by Fluffnutter on 2026/04/01 (Patch 12.0.1)",
@@ -819,6 +911,16 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91022",
 },
 
+[91023] = {
+  "9102318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91023",
+},
+
+[91024] = {
+  "9102418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91024",
+},
+
 [91038] = {
   "9103818080NPCUnknown0NPCUnknown00",
   "Wowhead050The scorched poster that is the source of this quest is located in Dornogal, Khaz Algar, at / way 49, 63 on the roof of the building where the blacksmithing and engineering professions are housed. Last edited by Milax on 2025/07/02 (Patch 11.1.7)",
@@ -838,6 +940,12 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050To obtain the Echo of Aln'sharan mount, you need to collect 500 No Mysterious Skyshards , with which you can cast Skyshard Entreaty and obtain the achievement Herald of the Goddess . To unlock these you need to do the questline starting with Tales of the Sky , which is given by Kuri , at / way 67.78 24.79 . She is not inside a building or cave. Kuri won't offer you the quest until you've completed the brief quest chain starting with The Blooming Lattice which is offered by Su'meera . TomTom Coordinates: / way #2413 67.78 24.79 Kuri - questgiver for Tales of the Sky Note that when doing the next quest chain, which starts with The Blooming Lattice , when you reach Behind the Falls , the NPC Su'meera is in a cave behind a waterfall - it's not easy to find the correct entrance, but it's at 55.82 26.08. / way #2413 55.82 26.08 Entrance to Su'Meera's cave for quest \"Behind The Falls \"",
 },
 
+[91065] = {
+  "9106518080NPCUnknown0NPCUnknown00",
+  "Wowhead050The well-worn ladle is not located in the water, but on the platform above. Last edited by Shanody on 2026/03/03 (Patch 12.0.1)",
+  "Wowhead050Ladle on platform above water @ / way 55.33, 28.31 Drill @ / way 54.56, 28.31 Scroll on table @ / way 54.85, 32.10 Gourd on table under pavilion @ / way 55.33, 30.63 Last edited by jvriffel on 2026/03/07 (Patch 12.0.1)",
+},
+
 [91070] = {
   "9107018080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91070",
@@ -853,6 +961,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
 [91085] = {
   "9108518080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91085",
+},
+
+[91086] = {
+  "9108618080NPCUnknown0NPCUnknown00",
+  "Wowhead050Kazat in hut/ tree/ vine/ whatever it is entrance @ / way 54.90, 31.13",
 },
 
 [91087] = {
@@ -882,6 +995,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050You complete this by doing world quests, chests, rares etc in the zone you picked (red crystal on the map). While you're at it the boss will spawn on you from time to time and then disappears until you done enough and can kill it.",
 },
 
+[91097] = {
+  "9109718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91097",
+},
+
 [91098] = {
   "9109818080NPCUnknown0NPCUnknown00",
   "Wowhead050After picking up this quest, she shows up randomly and ambushes me when I am questing in Eversong woods. When I get her health down she disappears in a puff of smoke and leaves behind some Remnant of Anguish . She has showed up several times now while I was questing. Last edited by Hildur on 2026/02/28 (Patch 12.0.1)",
@@ -891,9 +1009,26 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050Cave entrance is a little hard to see. / way 34.70 44.74",
 },
 
+[91099] = {
+  "9109918080NPCUnknown0NPCUnknown00",
+  "Wowhead050where is he? he doesnt show up on the map and clicking on the crystal at the top of my screen doesn't show him",
+  "Wowhead050This started for me in Eversong Woods, but I had to go to Zul'Aman to receive credit and complete the quest.",
+  "Wowhead050Complete World Activities in the map that you picked the Hunt ( Mordril Shadowfell is in Zul'Aman ) Theres a Hunt Progress icon in your Enconter Bar section at Edit Mode. It fills and shine in red when you complete a World Quest , Kill Rares or Open Treasures . During the process, the boss will ambush and give you a hint of what you'll face! After knocking the boss, he/ she'll run and leave a Remnant of Anguish behind. You can also find traps to disarm and increase your prey bar. As long as you progress, new quests will show up. Once you're done, a final quest becomes available revealing the boss location . Kill it and you're done. Last edited by Schnaider on 2026/03/02 (Patch 12.0.1)",
+},
+
+[91100] = {
+  "9110018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91100",
+},
+
 [91101] = {
   "9110118080NPCUnknown0NPCUnknown00",
   "Wowhead050Cave entrance is at / way 34.68, 44.76 .",
+},
+
+[91102] = {
+  "9110218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91102",
 },
 
 [91103] = {
@@ -901,10 +1036,35 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91103",
 },
 
+[91104] = {
+  "9110418080NPCUnknown0NPCUnknown00",
+  "Wowhead050Complete World Activities in the map that you picked the Hunt ( Zadu, Fist of Nalorakk is in Voidstorm ) Theres a Hunt Progress icon in your Enconter Bar section at Edit Mode. It fills and shine in red when you complete a World Quest , Kill Rares or Open Treasures . During the process, the boss will ambush and give you a hint of what you'll face! After knocking the boss, he/ she'll run and leave a Remnant of Anguish behind. You can also find traps to disarm and increase your prey bar. As long as you progress, new quests will show up. Once you're done, a final quest becomes available revealing the boss location . Kill it and you're done.",
+},
+
+[91105] = {
+  "9110518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91105",
+},
+
+[91106] = {
+  "9110618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91106",
+},
+
 [91107] = {
   "9110718080NPCUnknown0NPCUnknown00",
   "Wowhead050this one is 100% broken. Supposedly this dude is in Harandar... but then quest says to go to silver moon... then voidstorm, then silvermoon, then harandar... the loop continues.. it's broken.",
   "Wowhead050If you chose Harandar (Normal) and still can’t find the Hunt Crystal, check the coordinates 55:59. As soon as you see the big map label THE DEN, look at the bottom‑right side of the letters. From the small lake nearby, go in the 1 o’clock direction—the crystal is right by the cliff. Just a heads‑up: finding the crystal doesn’t seem to complete the quest, since it still asks you to finish World Quests and defeat Powerful Enemies in Harandar.",
+},
+
+[91108] = {
+  "9110818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91108",
+},
+
+[91109] = {
+  "9110918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91109",
 },
 
 [91110] = {
@@ -916,9 +1076,34 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050Currently linked to the completion of campaign quest at Atal'Aman, this is causing phase issues when summoning Lamyne of the Undercroft at the crystal. Two options that you may do: 1. Complete the story campaign at Atal'Aman so the phasing does not happen. 2. If you have completed the campaign on another toon, you go to the Visage of Jan'alai to skip that part of the campaign. ( Visage of Jan'alai ) This will make Lamyne of the Undercroft spawn when summoned at the crystal.",
 },
 
+[91111] = {
+  "9111118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91111",
+},
+
+[91112] = {
+  "9111218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91112",
+},
+
 [91113] = {
   "9111318080NPCUnknown0NPCUnknown00",
   "Wowhead050I took this quest before I hit level 90. This guy will clap you if you are a DPS with no pets or good heals. He does two types of encounters from what I can tell on \"Normal.\"This could change as difficulty increases. Firstly, he will attack you at the WORST possible time. The key however is to make sure that after you defeat him, he will stay in a phase where you need to run up to him and click to do some sort of finishing move. Stick with the simple quests around the area, WQ's might be OK if they don't have overwhelming amounts of mobs. Sometimes the icon for \"Minor Coalescing Anguish\", or blood mist will be visible on the map. That usually indicates he is there. Once you get about 1/ 2 way trough beating what spawns, the Praetor will spawn. He will disappear when you almost have him dead and it will leave a red spore of \"Remnant of Anguish.\" Click on that and continue the hunt. Both of these events will fill up a crystal that's an indicator of how much you have to keep doing until he is fully revealed. You will eventually get a pop up from the quest giver saying, \" Oh, how close they are now. Can you taste their fear?\" I can--and it is exquisite.\" After you get this pop up, an actual location will come up on your map, once you fly to it there will be a \"Charged Anguish Crystal\" for you to interact with. Be prepared, he has a new uninterruptible attack called \"Gravity Well\" and its a DOT that if you don't get out of within 2 seconds you are dead. Good luck! **EDIT** These seems to be able to be done in groups. As I was writing this at the final location I saw a three man group come in and finish the quest. Last edited by EddieNevada on 2026/03/14 (Patch 12.0.1)",
+},
+
+[91114] = {
+  "9111418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91114",
+},
+
+[91115] = {
+  "9111518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91115",
+},
+
+[91116] = {
+  "9111618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91116",
 },
 
 [91117] = {
@@ -937,6 +1122,21 @@ LH_Data_Midnight = LH_Data_Midnight or {
 [91119] = {
   "9111918080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91119",
+},
+
+[91120] = {
+  "9112018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91120",
+},
+
+[91121] = {
+  "9112118080NPCUnknown0NPCUnknown00",
+  "Wowhead050Please review the video from Bue on YouTube titled \"Prey: Thornspeaker Edgath (Normal), WoW Midnight\" that was posted a month ago. This is a really good video showing the mechanics to get him to show up. Note, I am currently in Fairbreeze Village and the traps to lure him out spawn sporadically here but in Bue's video, they were questing in the Voidstorm. He is not a one fight boss so you have to release the traps laying around and fight the hostile NPC's to trigger him. He will \"ambush\" you and as you fight, he will drop the Remnant of Anguish. After you collect so many, then his final location will spawn and you fight him to complete the quest. Last edited by Nicanna on 2026/03/28 (Patch 12.0.1)",
+},
+
+[91122] = {
+  "9112218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91122",
 },
 
 [91123] = {
@@ -993,6 +1193,26 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050The quest is located at 43,67 and can be picked up by Elder Doru",
 },
 
+[91207] = {
+  "9120718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91207",
+},
+
+[91210] = {
+  "9121018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91210",
+},
+
+[91211] = {
+  "9121118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91211",
+},
+
+[91212] = {
+  "9121218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91212",
+},
+
 [91213] = {
   "9121318080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91213",
@@ -1003,9 +1223,39 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050If you are chasing him in Voidstorm the cave entrance is at 34.72, 44.69",
 },
 
+[91215] = {
+  "9121518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91215",
+},
+
+[91216] = {
+  "9121618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91216",
+},
+
+[91217] = {
+  "9121718080NPCUnknown0NPCUnknown00",
+  "Wowhead050/ way #2405 32.51 48.51 Trap / way #2405 31.45 45.89 Trap / way #2405 29.62 48.43 Major Coalescing Anguish / way #2405 27.79 51.24 Major Coalescing Anguish",
+},
+
+[91218] = {
+  "9121818080NPCUnknown0NPCUnknown00",
+  "Wowhead050Voidstorm cave entrance is / way #2405 34.6 44.7 . It wasn't close to the map point of the boss.",
+},
+
 [91219] = {
   "9121918080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91219",
+},
+
+[91220] = {
+  "9122018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91220",
+},
+
+[91221] = {
+  "9122118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91221",
 },
 
 [91222] = {
@@ -1018,9 +1268,63 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91223",
 },
 
+[91224] = {
+  "9122418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91224",
+},
+
 [91225] = {
   "9122518080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91225",
+},
+
+[91226] = {
+  "9122618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91226",
+},
+
+[91227] = {
+  "9122718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91227",
+},
+
+[91228] = {
+  "9122818080NPCUnknown0NPCUnknown00",
+  "Wowhead050the entrance is a very small cave in the ground 35,45",
+  "Wowhead050This hunt is currently bugged. Every time you get ambushed or go into combat in the zone, you get locked into combat. This causes you to not be able to mount. I don't know how to fix it. I kept dying to leave combat hoping the huunt would finally end but its honestly just going on and on. Doesn't seem to be registering the hunt progress accurately either.",
+},
+
+[91229] = {
+  "9122918080NPCUnknown0NPCUnknown00",
+  "Wowhead050This is not fun. A bit too much. Thanks Blizz.",
+  "Wowhead050Tactics? I die by this NPC very quickly as a warlock. Even after he already has disappeared. It's the Bloody Debt spell I think. Does 44k damage each time. I do use my void walker as tank. Maybe Nightmare mode is more for the plate wearers? Last edited by Noctula 27 days ago (Patch 12.0.5)",
+},
+
+[91230] = {
+  "9123018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91230",
+},
+
+[91231] = {
+  "9123118080NPCUnknown0NPCUnknown00",
+  "Wowhead050I don't know when my screenshot will post, but to help anyone who has blond moments or ends up getting frustrated with trying to figure it out, go all the way to the ground look for a group of dead animals, the cave entrance is not that far from those bodies",
+  "Wowhead050Cave entrance @59.69-44.13",
+},
+
+[91232] = {
+  "9123218080NPCUnknown0NPCUnknown00",
+  "Wowhead050I think this is bugged. The hatchlings keep disappearing.",
+  "Wowhead050Ran into a lot of the ground traps in Lightbloom Ath'Ran just south of Fairbreeze.",
+},
+
+[91233] = {
+  "9123318080NPCUnknown0NPCUnknown00",
+  "Wowhead050/ way #2437 46.05 37.94 Major Coalescing Anguish",
+},
+
+[91234] = {
+  "9123418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91234",
 },
 
 [91235] = {
@@ -1054,15 +1358,41 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050also there are traps here / way #2437 42.16 33.41",
 },
 
+[91241] = {
+  "9124118080NPCUnknown0NPCUnknown00",
+  "Wowhead050Cave entrance: / way 34.71 44.76",
+  "Wowhead050I had to abandon this quest from the randomized Nightmare hunt! Too hard of a fight with the adds spawning. I'm a level 90 Subtlety rogue with ilevel 245 (patch 12.0.1) - tried stunning her and killing them but she added more instantly, but if I used my stuns on the adds she kept adding more! Probably a skill issue (I am a permanent noob). My class's defense and hp is low so I can't really take sustained damage - plus Vanish doesn't work in solo fights because it resets the encounter! Every other fight on Nightmare mode has been pretty smooth; potions, flasks and food didn't help. Are there any guides or places I can find the spells the enemy uses for this Nightmare Prey fight? Or any advice? Thanks! Last edited by xheartzxx on 2026/04/10 (Patch 12.0.1)",
+},
+
 [91242] = {
   "9124218080NPCUnknown0NPCUnknown00",
   "Wowhead050cave entrance is at 34.69,44.81",
   "Wowhead050Cave entrance / way 34.69, 44.81",
 },
 
+[91243] = {
+  "9124318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91243",
+},
+
 [91244] = {
   "9124418080NPCUnknown0NPCUnknown00",
   "Wowhead050I got stuck in three gravity wells but was able to pop enough cooldowns on a blood DK to survive - but barely. This is obvious, but run away from the gravity wells because if he casts two on top of eachother, you get permanently stuck if you enter it and it becomes a DPS race to kill him before you die, unless your class has some mechanic to escape.",
+},
+
+[91245] = {
+  "9124518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91245",
+},
+
+[91246] = {
+  "9124618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91246",
+},
+
+[91247] = {
+  "9124718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91247",
 },
 
 [91248] = {
@@ -1080,6 +1410,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91250",
 },
 
+[91251] = {
+  "9125118080NPCUnknown0NPCUnknown00",
+  "Wowhead050Trap Areas / way #2437 33.90 81.06 / way #2437 23.22 63.38",
+},
+
 [91252] = {
   "9125218080NPCUnknown0NPCUnknown00",
   "Wowhead050Cave location for mob: 34.71, 44.74 in Voidstorm",
@@ -1088,14 +1423,29 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050The entrance is est. 150 metres southwest of the circle near a red plant. Last edited by Moin on 2026/03/09 (Patch 12.0.1)",
 },
 
+[91253] = {
+  "9125318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91253",
+},
+
 [91254] = {
   "9125418080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91254",
 },
 
+[91255] = {
+  "9125518080NPCUnknown0NPCUnknown00",
+  "Wowhead050Cave entrance at 34.69 44.74",
+},
+
 [91256] = {
   "9125618080NPCUnknown0NPCUnknown00",
   "Wowhead050/ way #2405 62.58 60.23 Major Coalescing Anguish / way #2405 54.00 80.83 Major Coalescing Anguish / way #2405 63.70 71.36 Minor Coalescing Anguish / way #2405 58.99 79.35 Minor Coalescing Anguish / way #2405 49.83 77.90 Minor Coalescing Anguish / way #2405 58.38 60.49 Minor Coalescing Anguish / way #2405 61.28 61.79 Trap / way #2405 65.79 61.71 Trap / way #2405 32.69 44.65 Trap / way #2405 46.37 72.03 Trap / way #2405 59.53 62.77 Trap / way #2405 58.95 60.90 Trap Last edited by geekySmurfer 18 days ago (Patch 12.0.5)",
+},
+
+[91257] = {
+  "9125718080NPCUnknown0NPCUnknown00",
+  "Wowhead050/ way #2405 43.04 68.07 Minor Coalescing Anguish / way #2405 48.59 67.12 Minor Coalescing Anguish / way #2405 57.12 67.09 Minor Coalescing Anguish / way #2405 30.90 57.67 Trap / way #2405 49.24 65.10 Trap / way #2405 49.90 84.45 Trap",
 },
 
 [91258] = {
@@ -1111,6 +1461,16 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050The single most annoying fight I've experienced in Nightmare, by far. It felt like half the time, my interrupts and stuns weren't working on his Gravity Wells, he refused to move out of the center of his wells most of the time, and he was simply casting too many to interrupt. By the end of the battle, I was caught in a vortex and literally thrown from side to side like a bartender shaking a martini. I suppose this can be countered with better placement of his purple circles of badness, but I will never fight this jerk again.",
 },
 
+[91260] = {
+  "9126018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91260",
+},
+
+[91261] = {
+  "9126118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91261",
+},
+
 [91262] = {
   "9126218080NPCUnknown0NPCUnknown00",
   "Wowhead050What are his coordinates for Nightmare? The quest tracker is bugged and not telling me where he is when I have finished the stupid thing.",
@@ -1118,9 +1478,32 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050Nightmare: If the quest isn't showing his location once you've finished the hunt, go to: Eversong Woods: / way #2395 53.8 86.6 Knight-Errant Bloodshatter Zul'aman: / way #2437 31.6 16.2 Knight-Errant Bloodshatter",
 },
 
+[91263] = {
+  "9126318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91263",
+},
+
 [91264] = {
   "9126418080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91264",
+},
+
+[91265] = {
+  "9126518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91265",
+},
+
+[91266] = {
+  "9126618080NPCUnknown0NPCUnknown00",
+  "Wowhead050Worst nightmare hunt of them all. Even the slightest bit of lag gets you rooted & then an ion cannon dropped on your head.",
+  "Wowhead050Cave location for mob: 59.64 44.14 in Voidstorm. Small cave opening, down once you're inside.",
+  "Wowhead050This guy was easy on a 252 prot paladin. I just stood in his face and punched him a lot. He was very frustrating on a 246 marksman hunter. You can only interrupt every 2nd or 3rd cast of his bolt attack. You can't interrupt his aoe. You can't avoid taking damage from his aoe. Self healing is very limited. I used a health pot, bandage, vers flask, weapon oil, whenever I could. Lust is only available every 4th pull or so. He melees from about 15 yards away. The only way to bandage is to frost trap him, and you still only get a couple ticks off because reasons. Pots are only available every 2nd pull or so. Frost traps to help my other cds come back was definitely helpful, but it's still a dps race. General chat yielded no help, despite dozens of other people clearly running the quest. There don't seem to be any custom groups for it in the group finder. I spent about 800g on repairs and another 200-300g buying some cheap gems and enchants to help out. The strategy is a combination of do it until your eyes bleed and pure RNG luck on procs. Or come back with another 10 or 15 ilevel. I finally killed him and I just feel... anguish.",
+  "Wowhead050/ way #2437 32.45 41.05 Major Coalesced Anguish / way #2437 35.38 33.79 Major Coalesced Anguish / way #2437 32.42 41.04 Major Coalesced Anguish / way #2437 53.74 65.15 Major Coalesced Anguish / way #2437 52.64 66.56 Minor Coalesced Anguish / way #2437 52.15 71.74 Minor Coalesced Anguish",
+},
+
+[91267] = {
+  "9126718080NPCUnknown0NPCUnknown00",
+  "Wowhead050For a Frost Mage, this isn't too difficult; however, if you can't interrupt and stay far from the Thorn-Witch Liset Nightmare, it can be quite tenuous. Stay close to Thorn-Witch Liset Nightmare and use slowing defensives and step aside when it uses its spells. It won't take long then.",
 },
 
 [91268] = {
@@ -1131,6 +1514,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050Absolutely annoying. They guy is fine, but the nonsense where Alistor wants you to kill something random or kills you himself is utterly annoying and pointless. Sometimes it procs where there is nothing to kill, so you inevitably die. Makes the whole quest inconceivably annoying. Not challenging, just annoying. I'm on the verge of just dropping it and moving on.",
   "Wowhead050As a BM Hunter, level 241, I was able to kill him, but only after 16 attempts. I finally figured out that by staying close to him I was (barely) able to kill his stanky arse.",
   "Wowhead050So, what item level should I have to get this done? Also, what I need to do so as not to die for no reason.",
+},
+
+[91269] = {
+  "9126918080NPCUnknown0NPCUnknown00",
+  "Wowhead050/ way #2413 59.29 35.79 Trap",
 },
 
 [91270] = {
@@ -1172,6 +1560,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050What a name for a quest.",
 },
 
+[91340] = {
+  "9134018080NPCUnknown0NPCUnknown00",
+  "Wowhead050Don't go down right away like I did. Mobs are on ground level.",
+},
+
 [91341] = {
   "9134118080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91341",
@@ -1185,6 +1578,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
 [91343] = {
   "9134318080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91343",
+},
+
+[91345] = {
+  "9134518080NPCUnknown0NPCUnknown00",
+  "Wowhead050Storyline on the right side is missing To the Central Tower , you will need to do this also to get to See a mana 'bout a wyrm it is picked up from the same NPC as this quest",
 },
 
 [91346] = {
@@ -1209,6 +1607,14 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050Spawn rate is quite low for the mobs; expect to fly around a bit to find them as they spawn. I found the best place was at 59.50, 29.60, around which two packs spawn occasionally. Took me about 12 minutes to complete. Last edited by Dramaq on 2026/03/08 (Patch 12.0.1)",
 },
 
+[91360] = {
+  "9136018080NPCUnknown0NPCUnknown00",
+  "Wowhead050When you pick up the quest it will show the far eastern part of the map as a place where you can pull weeds. This area is NOT where you want to be. head west. Weeds will show up on your minimap. Pull them there.",
+  "Wowhead050They'll show up as yellow dots on your mini-map.",
+  "Wowhead050When I pull the weeds, I don't get credit. Seems broken?",
+  "Wowhead050More weeds around the river western side (if you somehow only look in the eastern side)",
+},
+
 [91361] = {
   "9136118080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91361",
@@ -1222,6 +1628,26 @@ LH_Data_Midnight = LH_Data_Midnight or {
 [91375] = {
   "9137518080NPCUnknown0NPCUnknown00",
   "Wowhead050In order to move in the quest chain, you first need to complete Tell the People What You Have Seen . Otherwise, Little Monsters won't be available.",
+},
+
+[91376] = {
+  "9137618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91376",
+},
+
+[91377] = {
+  "9137718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91377",
+},
+
+[91378] = {
+  "9137818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91378",
+},
+
+[91379] = {
+  "9137918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91379",
 },
 
 [91380] = {
@@ -1351,6 +1777,32 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050If Arator's not present for turning in, fly away and return to the same point.",
 },
 
+[91430] = {
+  "9143018080NPCUnknown0NPCUnknown00",
+  "Wowhead050This quest shows up within the Abundance event and requires you to stomp five Runaway Crystals. There are a handful (lol) of Runaway Hands wandering around the event, but I couldn't figure out any way to interact with them, or to get crystals to show up. Help? Last edited by Angmaro on 2026/03/08 (Patch 12.0.1)",
+  "Wowhead050This quest has to be bugged. I did close to 20 runs and tried everything to 'stomp' on the crystals, didn't get credit for even one.",
+  "Wowhead050I went in outside of a raid, but still could not complete the quest. Definitely bugged.",
+  "Wowhead050I've chased them and run over them, and they disappear, but I suspect I'm not getting credit because I'm in a raid. Will have to try out of a raid.",
+},
+
+[91437] = {
+  "9143718080NPCUnknown0NPCUnknown00",
+  "Wowhead050LEAVE ME ALONE, ETERNUS",
+  "Wowhead050I logged in with no infinite research quests active and had this quest added to my log automatically, so I presume this is just to remind you to pick up some research quests.",
+  "Wowhead050This is so annyoing spams message when daily log in.",
+  "Wowhead050God Eternus, why are you so obsessed with me",
+  "Wowhead050Every character. Every time I log on. Three, four, five, six times per day. Please make it stop! I know where to go!",
+  "Wowhead050Apparently, you can get this quest more than once. I completed it yesterday, but when I logged in today, it was back in my quest log.",
+  "Wowhead050I've completed this quest several times now and had the message that it is completed but it keeps coming back. Trying the script shows false, so obviously it is not actually being completed. Darn bug.",
+  "Wowhead050It is so exciting to get to do this EVERY DAY! This helps to add to my overall number of quests completed. By my estimation, in 2739 years, 8 months, and 23 days, I will have done this quest 1 million times! LET THE GRIND BEGIN!",
+  "Wowhead050Ignore this or abandon. Its repeated a lot and rewards NOTHING. it is designed to waste your time by making you go to dalaran to turn it in. That is all it does....nothing. Bllizzard are good at wasting your time",
+},
+
+[91450] = {
+  "9145018080NPCUnknown0NPCUnknown00",
+  "Wowhead050<After accepting We Ready Now > Tuktuk : We say name together! Brakko : The Ringcaps! Ziny : The Sporesworn! Tuktuk : The Puffguard! Wait, what? Brakko : You both say wrong name. Tuktuk : I say right name, Puffguard. You both say other names! Ziny : I say... we need help, <NAME>. All want different name! Lol! This actually made me audibly laugh. How cute! :)",
+},
+
 [91452] = {
   "9145218080NPCUnknown0NPCUnknown00",
   "Wowhead050When 'returning' the books to the library, a special action button will appear when you are standing in the proper place. You need to activate the special action button to return the books to their proper locations on the shelves. (in a flurry of flying books) After this, there will be a book on the ground that you need to click on to 'Read Arcanist Taemin's Favourite' entry. After accomplishing these tasks, you can THEN click on Arcanist Taemin to complete the quest.",
@@ -1365,9 +1817,33 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050The carved tiles - you just need to click all the tiles except the one in the middle which hexes you into a frog. Once the tiles are all clicked the \"door\" opens.",
 },
 
+[91458] = {
+  "9145818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91458",
+},
+
+[91464] = {
+  "9146418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91464",
+},
+
+[91465] = {
+  "9146518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91465",
+},
+
 [91475] = {
   "9147518080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91475",
+},
+
+[91490] = {
+  "9149018080NPCUnknown0NPCUnknown00",
+  "Wowhead050In case you can't find the fires, look up at the roots. Simply fly through them to douse them. You might find switching to Steady Flight mode easier. Edit: just discovered I'd missed that Blizzard removed the Pathfinder requirement for unlocking Steady Flight in Midnight! Last edited by Tequima on 2026/04/17 (Patch 12.0.1)",
+  "Wowhead050So...fly through the fires to douse them. This seems obvious, but I wasted some time looking for quest giver or mount that would give me some sort of fire fighting toolbar, As it turns out, just use your normal flying mount and fly through the fires is all that is required.",
+  "Wowhead050Weird, this Midnight WQ shows up on the map for a level 80 doing TWW quests in the Ringing Deeps. Going to the map location, no quest there.",
+  "Wowhead050You're not going to like this quest / world quest at all if you suffer from motion sickness. In fact, you'll probably think you don't have this problem until you start looking for fires in the roots... One of the quests that has made me feel most dizzy out of all the ones I've done so far. I got to 17/ 18 fires and had to stop for a moment, get up from my chair and come back a few minutes later...",
+  "Wowhead050If you are looking for the fires in the quest zone and can't see them, just fly up into the roots (I know, roots are down, not up but wow follows no rules) and as you fly through, the fires will be put out without any prompting from the player.",
 },
 
 [91492] = {
@@ -1395,6 +1871,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050You turn this in at the Reliquary of the Zur'ashri at / way 54/ 19 53.11 which is the building above the Den.",
 },
 
+[91507] = {
+  "9150718080NPCUnknown0NPCUnknown00",
+  "Wowhead050\"You fighter with the brain! Come quick want peace words.\" Russla say stop splatting, but shrooms no hear, plants no hear, nobody stop to listen! Coughs in veteran of the fourth war",
+},
+
 [91508] = {
   "9150818080NPCUnknown0NPCUnknown00",
   "Wowhead050Even if it's just a wire untangling puzzle similar to those you've seen before, the 'Bind the Roots to Ruilla's Will' section is a bit of a visual mess. Best advice I can offer is focus on the flickering lines. If the swap you made makes them worse, reverse and try a different one until they start disappearing.",
@@ -1407,6 +1888,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050This wasn't immediately apparent to me, but you need to mount up and fly along WITH Awe'ohna. At first, it seemed it was one of those quests where you take control of the critter and fly it. I was jumping up and down trying to make the bird fly, lol. Yeah, dumb, I know.",
 },
 
+[91523] = {
+  "9152318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91523",
+},
+
 [91533] = {
   "9153318080NPCUnknown0NPCUnknown00",
   "Wowhead050I was hoping that I could do the Sojourner achievments while levelling alts, but no, Blizzard doesn't agree. You need to have done the campaign to see this quest :(",
@@ -1415,9 +1901,24 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050If you cant see this q you need progress campaign to see it, you dont need just level 90 :)",
 },
 
+[91535] = {
+  "9153518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91535",
+},
+
+[91536] = {
+  "9153618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91536",
+},
+
 [91537] = {
   "9153718080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91537",
+},
+
+[91541] = {
+  "9154118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91541",
 },
 
 [91542] = {
@@ -1428,6 +1929,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050And Everyone's Voice.",
   "Wowhead050Sideras seems to be bugged (at least Lordaeron/ Blackmoore EU Realm) you can not interact with him. E: After finishing the rest of the Quests, Sideras was interactable. Last edited by Mosur on 2026/03/01 (Patch 12.0.1)",
   "Wowhead050Not only is he bugged, the entire quest Layout seems flawed. The part of \"Sideras tea credit\" has no value, it's just descriptive in its code",
+},
+
+[91543] = {
+  "9154318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91543",
 },
 
 [91544] = {
@@ -1458,6 +1964,16 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050The orphans in Mereldar were much better hiders than these kids",
 },
 
+[91551] = {
+  "9155118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91551",
+},
+
+[91552] = {
+  "9155218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91552",
+},
+
 [91553] = {
   "9155318080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91553",
@@ -1485,6 +2001,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "9155818080NPCUnknown0NPCUnknown00",
   "Wowhead050Lady Darkglen is located at 35.89, 48.29. Although I could see the quest icon on the map, I couldn't see it on the minimap till I was standing where the NPC was located. / way 35.89, 48.29",
   "Wowhead050This may seem obvious, but don't stand in the water!",
+},
+
+[91559] = {
+  "9155918080NPCUnknown0NPCUnknown00",
+  "Wowhead050Rubbish drop rate, any tips? Also note that the pools give you a DoT. Last edited by chrisweston on 2026/04/05 (Patch 12.0.1)",
 },
 
 [91560] = {
@@ -1540,6 +2061,16 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050The frothing frillfish have a tendency to evade and then reset to full health. What worked for me: —— better kill rate in the upper part of the pond ——fight in the water. (They reset if you stay on land.)",
 },
 
+[91586] = {
+  "9158618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91586",
+},
+
+[91587] = {
+  "9158718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91587",
+},
+
 [91588] = {
   "9158818080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91588",
@@ -1550,9 +2081,39 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91589",
 },
 
+[91590] = {
+  "9159018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91590",
+},
+
+[91591] = {
+  "9159118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91591",
+},
+
+[91592] = {
+  "9159218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91592",
+},
+
+[91594] = {
+  "9159418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91594",
+},
+
+[91595] = {
+  "9159518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91595",
+},
+
 [91596] = {
   "9159618080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91596",
+},
+
+[91597] = {
+  "9159718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91597",
 },
 
 [91598] = {
@@ -1570,11 +2131,26 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91600",
 },
 
+[91601] = {
+  "9160118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91601",
+},
+
+[91602] = {
+  "9160218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91602",
+},
+
 [91603] = {
   "9160318080NPCUnknown0NPCUnknown00",
   "Wowhead050If you don't see the NPC to turn the quest to, it means you did not take and complete another quest from the second dominaar at the arena entrance. Go back at / way 53 25",
   "Wowhead050Despite the quest text on this page, the quest giver (Ziadan) says they want to observe Ziadan's weaknesses up close. I found that interesting.",
   "Wowhead050If you're doing the Sojourner achievement and the NPC appears to be zoned out Go back to where you picked the quest up and accept the other quest and complete it. The NPC will now appear at the top of the stairs. turn in both quest and you will be given Clearing House. After completion you will have earned Breaking the Triad.",
+},
+
+[91604] = {
+  "9160418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91604",
 },
 
 [91605] = {
@@ -1585,6 +2161,16 @@ LH_Data_Midnight = LH_Data_Midnight or {
 [91606] = {
   "9160618080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91606",
+},
+
+[91612] = {
+  "9161218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91612",
+},
+
+[91613] = {
+  "9161318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91613",
 },
 
 [91627] = {
@@ -1648,6 +2234,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050The rares will spawn after the Stormarion Assault event, which occurs every 30 minutes.",
 },
 
+[91713] = {
+  "9171318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91713",
+},
+
 [91750] = {
   "9175018080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91750",
@@ -1658,6 +2249,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050The spores are the round orange ones with yellow nameplates floating just above the ground, often in groups of 2 or 3. Those who did delves in TWW might have 'fond' memories. Last edited by Noctula on 2026/03/30 (Patch 12.0.1)",
   "Wowhead050There's something wrong with the zoning. One phases out of the \"quest area\" even when in the middle of it.",
   "Wowhead050Tip: make macro for / tar lightbloomed spore .",
+},
+
+[91786] = {
+  "9178618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91786",
 },
 
 [91796] = {
@@ -1801,6 +2397,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050Dirty deeps, done dirt cheap! Dirty deeps and they're done dirt cheap!",
 },
 
+[91834] = {
+  "9183418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91834",
+},
+
 [91835] = {
   "9183518080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91835",
@@ -1837,6 +2438,31 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "9184318080NPCUnknown0NPCUnknown00",
   "Wowhead050Bugged Quest I submitted a bug report I couldn’t move or hearth or even close my game. Had to use an alternative method to close out the game. Dang it!",
   "Wowhead050If you get bugged do not restart, it takes to right back to the beginning. I was trapped in Tazavesh (door was closed and wouldn't open - even after relog and reloadui). And not restarting it... it can do one!",
+},
+
+[91844] = {
+  "9184418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91844",
+},
+
+[91846] = {
+  "9184618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91846",
+},
+
+[91847] = {
+  "9184718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91847",
+},
+
+[91848] = {
+  "9184818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91848",
+},
+
+[91849] = {
+  "9184918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91849",
 },
 
 [91863] = {
@@ -1928,6 +2554,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91874",
 },
 
+[91875] = {
+  "9187518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91875",
+},
+
 [91876] = {
   "9187618080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91876",
@@ -1941,6 +2572,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
 [91885] = {
   "9188518080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91885",
+},
+
+[91886] = {
+  "9188618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91886",
 },
 
 [91887] = {
@@ -1992,6 +2628,12 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91933",
 },
 
+[91937] = {
+  "9193718080NPCUnknown0NPCUnknown00",
+  "Wowhead050There is a Legendary entity to be photographed, called \"Misty Hellasaur\", at: / way 61.15, 52.43",
+  "Wowhead050If you manage to complete the ride without 100% it is very difficult to find Bo'ke again to restart the sequence. Bo'ke is located at / way #2413 62.6 48.8 Bo'ke .",
+},
+
 [91958] = {
   "9195818080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91958",
@@ -2027,6 +2669,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050Previous: Welcome Home Next: Feathering the Nest Last edited by Eillesthis on 2026/02/22 (Patch 12.0.1)",
 },
 
+[91970] = {
+  "9197018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91970",
+},
+
 [91972] = {
   "9197218080NPCUnknown0NPCUnknown00",
   "Wowhead050If you see a group of Diseased Flayer to the right after talking to Bloodguard Nelric and accepting the assignment, do not walk over and kill them! Stand next to Bloodguard Nelric and wait for them to come over. I got stuck in an infinite loop of mobs only spawning there and not making any progress. After killing some adds on the right, some will come from straight ahead, and eventually a Reanimated Colossus will come running in from the left. Killing the Reanimated Colossus will complete the quest and make it ready to turn in.",
@@ -2059,6 +2706,16 @@ LH_Data_Midnight = LH_Data_Midnight or {
 [91979] = {
   "9197918080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91979",
+},
+
+[91980] = {
+  "9198018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91980",
+},
+
+[91981] = {
+  "9198118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91981",
 },
 
 [91982] = {
@@ -2157,9 +2814,22 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050If a Void Strike is up in the area when you go to do this quest, you can still get it done, but you have to go to the south side of the quest area where the void strike does not overlap with it. I found two Daggerspine Infuser s there, which respawned quickly.",
 },
 
+[91996] = {
+  "9199618080NPCUnknown0NPCUnknown00",
+  "Wowhead050You need to collect 5 Iridescent Mana Silk scattered around the quest area. Then it will spawn a mob to kill but mobs don't drop this item. Once you collect all 5 items you can craft the Bolt of Mana Silk at the Unoccupied Mana Loom in the same quest area.",
+  "Wowhead050You don't need to be a tailor to do this. Just pick up spools of thread lying around the area & then interact with the loom to create the bolt of cloth.",
+  "Wowhead050If you are quick you can mount up before the worm spawns and fly away, BUT unlike most mobs this worm will be attacking you immediately when you fly back into the area. The only way to actually loose agro is to either log out, or fly north into Silvermoon (a different zone) and come back.",
+  "Wowhead050Picked this quest up on a low level character with random quests started and couldn't see the quest items. Feels like some random quest phases it out.",
+},
+
 [91997] = {
   "9199718080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91997",
+},
+
+[91998] = {
+  "9199818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=91998",
 },
 
 [92000] = {
@@ -2186,6 +2856,26 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "9200618080NPCUnknown0NPCUnknown00",
   "Wowhead050If anyone's on this quest and the vendors aren't there, just a bunch of purple fire where they should be... it's due to a questline that's a part of the campaign. The vendors phased in once I completed \"The Missing Magister\" quest",
   "Wowhead050All found in Tranquillien: Bloodthistle Brandy Master Chef Mouldier / way 47.66 67.75 Mana Burner Eralan / way 48.84 65.53 Sun-Kissed Tranquilla Inn Keeper Kalarin / way 48.96 68.53",
+},
+
+[92007] = {
+  "9200718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92007",
+},
+
+[92010] = {
+  "9201018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92010",
+},
+
+[92012] = {
+  "9201218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92012",
+},
+
+[92013] = {
+  "9201318080NPCUnknown0NPCUnknown00",
+  "Wowhead050I'm level 90 and after completing Harandar I do not have a wanted quest available.",
 },
 
 [92021] = {
@@ -2224,6 +2914,18 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92025",
 },
 
+[92034] = {
+  "9203418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92034",
+},
+
+[92062] = {
+  "9206218080NPCUnknown0NPCUnknown00",
+  "Wowhead050Seems like i cant interact with Withered Plant, i am not sure if its bugged atm Last edited by Moudi on 2026/02/27 (Patch 12.0.1)",
+  "Wowhead050My problem was finding the mushrooms (invasive fungi). Look behind the main building for some easily missed.",
+  "Wowhead050When pulling the roots, be sure to pull toward the friendly NPCs in the area. They help you kill the resulting baddie that comes form the root pull; and in very quick fashion.",
+},
+
 [92063] = {
   "9206318080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92063",
@@ -2238,6 +2940,21 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050They clearly dont need pest control because there barely any !@#$ing vermin",
   "Wowhead050To complete the quest Claw Enforcement , dismount from your own mount (to save being kicked - it's a known bug), mount the Swift Grimlynx at / way #2413 52.90 52.25 Swift Grimlynx above The Den , and run over 20 No Scurrying Vermin . The more you run over, the faster the mount will run. Coordinates for TomTom users: / way #2413 52.90 52.25 Swift Grimlynx above The Den Last edited by NessieMo 2 days ago (Patch 12.0.5)",
   "Wowhead050One of the MENSA members at Blizzard decided it was a good idea to make the Scurrying Vermin you have crush shared between all players. If you're running behind a player, change your path, or they'll gobble up all the vermin in front of you.",
+},
+
+[92086] = {
+  "9208618080NPCUnknown0NPCUnknown00",
+  "Wowhead050Bugged out for me, I flew away and back twice, and it completed the second time I came back.",
+},
+
+[92099] = {
+  "9209918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92099",
+},
+
+[92119] = {
+  "9211918080NPCUnknown0NPCUnknown00",
+  "Wowhead050The flowers don't sparkle very brightly. They are the ivory colored blooms on the ground. Find herbs doesn't put them on the map. No gold dots from the game UI either.",
 },
 
 [92121] = {
@@ -2294,6 +3011,16 @@ LH_Data_Midnight = LH_Data_Midnight or {
 [92146] = {
   "9214618080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92146",
+},
+
+[92153] = {
+  "9215318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92153",
+},
+
+[92155] = {
+  "9215518080NPCUnknown0NPCUnknown00",
+  "Wowhead050Blizzard, you've gone too far this time WHERE IS MY CHAIR MOUNT?",
 },
 
 [92156] = {
@@ -2393,6 +3120,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
 [92182] = {
   "9218218080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92182",
+},
+
+[92184] = {
+  "9218418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92184",
 },
 
 [92195] = {
@@ -2572,6 +3304,12 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92492",
 },
 
+[92496] = {
+  "9249618080NPCUnknown0NPCUnknown00",
+  "Wowhead050Go around to the right as you enter. There is a forcefield keeping you from the target if you go left. Last edited by aparrott 22 days ago (Patch 12.0.5)",
+  "Wowhead050You are able to pull Deathchanter Mish’mosh through the force field. After he dies, the force field drops. Last edited by RosyBijou on 2026/03/16 (Patch 12.0.1)",
+},
+
 [92497] = {
   "9249718080NPCUnknown0NPCUnknown00",
   "Wowhead050If you're here because of the purple wall, go around, down the stairs. You're welcome.",
@@ -2715,6 +3453,16 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050Looked around for a while without any luck, then finally found a bunch of them at 36.26,81.82. Gathered all of them up and took them out, but there were only 6 so I had to wait for respawns to get the last 2.",
 },
 
+[92547] = {
+  "9254718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92547",
+},
+
+[92549] = {
+  "9254918080NPCUnknown0NPCUnknown00",
+  "Wowhead050Fly through the rings in the air. The quest description through me off. Have fun!",
+},
+
 [92560] = {
   "9256018080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92560",
@@ -2724,6 +3472,21 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "9256318080NPCUnknown0NPCUnknown00",
   "Wowhead050I don't remember how I got this quest.",
   "Wowhead050I can't find how to get this quest after 20+ lvl80 on Remix. If anyone have any clue about how to trigger it please let me know!",
+},
+
+[92566] = {
+  "9256618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92566",
+},
+
+[92569] = {
+  "9256918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92569",
+},
+
+[92571] = {
+  "9257118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92571",
 },
 
 [92572] = {
@@ -2794,6 +3557,18 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92603",
 },
 
+[92605] = {
+  "9260518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92605",
+},
+
+[92606] = {
+  "9260618080NPCUnknown0NPCUnknown00",
+  "Wowhead050I'm glad I trained at Nar'thalas Academy !",
+  "Wowhead050There are three separate dashed circles on the ground in front pf the quest giver if you look from an above camera angle you will see them. Just walk in the direction that they are moving. Last edited by RavusUrsin on 2026/03/06 (Patch 12.0.1)",
+  "Wowhead050Must be one 'elluva scary crack in your wall!",
+},
+
 [92607] = {
   "9260718080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92607",
@@ -2817,9 +3592,29 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050This is just another example of Blizzard giving us crappy things to do with rewards that aren't worth the time spent doing them. \"Player Engagement\" for their stockholder's, slap in the face for their CUSTOMERS!",
 },
 
+[92616] = {
+  "9261618080NPCUnknown0NPCUnknown00",
+  "Wowhead050The mobs are NOT located at the outside Grunge Pit or in the Grunge Pit Delve. They are in the surrounding area nearby: / way 69 69 Hover over the mobs here to see which ones will complete which portion of the \"Tiny Hero's Journey\" quests. Either Foraging Sporeglider or Grazing Root Drifter, I don't remember which, sorry :D",
+},
+
 [92617] = {
   "9261718080NPCUnknown0NPCUnknown00",
   "Wowhead050These are NOT inside the Grudge Pit, they are larger mobs found around the pit. Last edited by Shadelis on 2026/03/30 (Patch 12.0.1)",
+},
+
+[92618] = {
+  "9261818080NPCUnknown0NPCUnknown00",
+  "Wowhead050Will shoot poison again. So much poison. Everywhere. - Tuktuk :3",
+},
+
+[92636] = {
+  "9263618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92636",
+},
+
+[92641] = {
+  "9264118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92641",
 },
 
 [92657] = {
@@ -2846,6 +3641,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
 [92660] = {
   "9266018080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92660",
+},
+
+[92661] = {
+  "9266118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92661",
 },
 
 [92662] = {
@@ -2959,9 +3759,81 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050Turn in at 41.69, 67.75.",
 },
 
+[92737] = {
+  "9273718080NPCUnknown0NPCUnknown00",
+  "Wowhead050WILL YOU CULL THIS HEARD?",
+  "Wowhead050As of writing this the Potatoad's for this quest have a super low spawn rate. You may have to wait a bit to get all 12. Harandar Quests 🤝 Low Spawn Rates",
+},
+
+[92738] = {
+  "9273818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92738",
+},
+
 [92739] = {
   "9273918080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92739",
+},
+
+[92746] = {
+  "9274618080NPCUnknown0NPCUnknown00",
+  "Wowhead050Simple float and collect quest.",
+  "Wowhead050Careful if you're doing Prey at the same time. An Echo of Perdition knocked me out of float and I fell to my death and lost all the anguish I had collected.",
+},
+
+[92761] = {
+  "9276118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92761",
+},
+
+[92764] = {
+  "9276418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92764",
+},
+
+[92766] = {
+  "9276618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92766",
+},
+
+[92771] = {
+  "9277118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92771",
+},
+
+[92772] = {
+  "9277218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92772",
+},
+
+[92781] = {
+  "9278118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92781",
+},
+
+[92783] = {
+  "9278318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92783",
+},
+
+[92790] = {
+  "9279018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92790",
+},
+
+[92796] = {
+  "9279618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92796",
+},
+
+[92798] = {
+  "9279818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92798",
+},
+
+[92807] = {
+  "9280718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92807",
 },
 
 [92848] = {
@@ -3027,6 +3899,21 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92885",
 },
 
+[92890] = {
+  "9289018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92890",
+},
+
+[92891] = {
+  "9289118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92891",
+},
+
+[92892] = {
+  "9289218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92892",
+},
+
 [92926] = {
   "9292618080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92926",
@@ -3062,10 +3949,21 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=92948",
 },
 
+[93013] = {
+  "9301318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93013",
+},
+
 [93043] = {
   "9304318080NPCUnknown0NPCUnknown00",
   "Wowhead050do i need to be level 90 or something?",
   "Wowhead050Not sure what the objective is here. I'm not able to attack. Edit: Dropped the quest and picked it up again, then I was able to attack and turn it in. Last edited by Ehayen on 2026/03/22 (Patch 12.0.1)",
+},
+
+[93046] = {
+  "9304618080NPCUnknown0NPCUnknown00",
+  "Wowhead050Is it just me or are there only three out of four nests to click? The first three showed up as yellow dots on my minimap and were highlighted in the world. I've been searching this small area for 15 minutes and can't find the fourth.",
+  "Wowhead050Funny how some world quests are like \"kill the whole area twice and click 17 of the 5 things we placed there in competition to other players\", and this one is like \"yo, click 4 nest or whatever, killing anything is totally unnessecary\". Done with a druid in 10 sec...",
 },
 
 [93047] = {
@@ -3108,9 +4006,39 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050Be careful if you have any fragile pets (like a mage's Mirror Images). If he kills one, it counts as you losing and you'll have to retrigger the fight.",
 },
 
+[93053] = {
+  "9305318080NPCUnknown0NPCUnknown00",
+  "Wowhead050The acorns aren't in the underground den that you teleport to (at least I couldn't see any) but at ground level above the den. They are also very small!",
+  "Wowhead050Surprisingly it's not inside the den but upstairs on the ground surface.",
+  "Wowhead050The interact range seems to be 30 meters for some reason.",
+  "Wowhead050It's quite confusing since when you teleport to Harandar you are teleported to the den and the world quest pops up. It is however the outside part the den which is also called the den, where you find the acorns. Last edited by Pingone on 2026/04/08 (Patch 12.0.1)",
+  "Wowhead0501130 gold 74 silver in war mode. Quests like these make me feel I'm really earning my golds. Love it. Now if only they'd stop the inflation. Then we'd all be rich!",
+},
+
+[93055] = {
+  "9305518080NPCUnknown0NPCUnknown00",
+  "Wowhead050Not sure what's going on with this quest. It says talk to Khadgar (complete), talk to Eternus (complete) but I can't seem to turn it in to either npc. It may be a Khadgar related phasing issue. edit: I randomly left the new vendor island and came back and the quest complete showed up on the npc Moratari. Last edited by Futrid on 2025/10/09 (Patch 11.2.5)",
+  "Wowhead050If, like me, you are not able to locate Khadgar. He is in the Violet Citadel. West area of Dalaran.",
+  "Wowhead050If you see Khadgar, but he only has ! over his head. Click on him and if he has a quest called Uniting the Isle click on that and accept it. It will immediately be completed and then you also will get the Khadgar part of Extracurriculars completed.",
+  "Wowhead050If you're a DH and can't see the dialogue option at Eternus, try doing The Future of The Fel Hammer from Moratari at Krasus' Landing first. Doing just that one quest fixed it for me.",
+  "Wowhead050For some reason, I don't have the option to speak with Eternus about Dalaran, despite completing this quest just fine on other alts. I'm guessing I must have clicked that dialogue option on Eternus before picking up this quest, and now I can't complete it. So I'd advise to leave that dialogue option alone until you get this quest. Last edited by ahunter8056 on 2025/11/18 (Patch 11.2.5)",
+  "Wowhead050You have to be level 30 to get this quest in the remix after that it is warband unlocked for all remix alts.",
+  "Wowhead050What did this quest accomplish, did it unlock something, just an excuse to give us another box?",
+},
+
+[93056] = {
+  "9305618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93056",
+},
+
 [93057] = {
   "9305718080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93057",
+},
+
+[93071] = {
+  "9307118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93071",
 },
 
 [93086] = {
@@ -3196,9 +4124,104 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93261",
 },
 
+[93270] = {
+  "9327018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93270",
+},
+
+[93271] = {
+  "9327118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93271",
+},
+
+[93272] = {
+  "9327218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93272",
+},
+
+[93278] = {
+  "9327818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93278",
+},
+
+[93279] = {
+  "9327918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93279",
+},
+
+[93284] = {
+  "9328418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93284",
+},
+
+[93285] = {
+  "9328518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93285",
+},
+
+[93286] = {
+  "9328618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93286",
+},
+
+[93290] = {
+  "9329018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93290",
+},
+
+[93293] = {
+  "9329318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93293",
+},
+
+[93294] = {
+  "9329418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93294",
+},
+
+[93295] = {
+  "9329518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93295",
+},
+
+[93301] = {
+  "9330118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93301",
+},
+
+[93302] = {
+  "9330218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93302",
+},
+
+[93304] = {
+  "9330418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93304",
+},
+
+[93305] = {
+  "9330518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93305",
+},
+
+[93306] = {
+  "9330618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93306",
+},
+
+[93365] = {
+  "9336518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93365",
+},
+
 [93372] = {
   "9337218080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93372",
+},
+
+[93377] = {
+  "9337718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93377",
 },
 
 [93384] = {
@@ -3298,6 +4321,12 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050I had a mtg card named this",
 },
 
+[93433] = {
+  "9343318080NPCUnknown0NPCUnknown00",
+  "Wowhead050When I arrived at the quest marker for Elder Vu'lona , the Elder was nowhere in sight. Relogging at the quest marker spawned her in. Last edited by Noxbag on 2026/03/08 (Patch 12.0.1)",
+  "Wowhead050/ way 34.48, 24.47 Elder Shimarra / way 20.53, 13.95 Eagletender Rhyd / way 25.49, 66.99 Elder Thak / way 34.46, 66.14 Elder Vu'lona",
+},
+
 [93435] = {
   "9343518080NPCUnknown0NPCUnknown00",
   "Wowhead050I was having an issue with Zungam not spawning in his correct location (inside the hut). In stead he was spawning about 150yds away but was evading every spell cast at him. The solution was to go back to Silvermoon and activate warmode, which caused him to back in his proper place and attackable.",
@@ -3361,6 +4390,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050How did Reno do that? Didn't know he was a mage.",
 },
 
+[93514] = {
+  "9351418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93514",
+},
+
 [93519] = {
   "9351918080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93519",
@@ -3376,6 +4410,16 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93525",
 },
 
+[93540] = {
+  "9354018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93540",
+},
+
+[93544] = {
+  "9354418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93544",
+},
+
 [93566] = {
   "9356618080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93566",
@@ -3384,6 +4428,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
 [93569] = {
   "9356918080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93569",
+},
+
+[93571] = {
+  "9357118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93571",
 },
 
 [93573] = {
@@ -3420,9 +4469,31 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050Alts that the Warband have completed the story lines can pick this up straight away with no other progress at / way 44.13 34.49 from Kul'amara the Fierce .",
 },
 
+[93577] = {
+  "9357718080NPCUnknown0NPCUnknown00",
+  "Wowhead050There is a legendary Harrower that lands on the dead trigore about 20 seconds in.",
+  "Wowhead050This WQ is broken, tells me to portal to Silvermoon from Voidstorm and when I get to Silvermoon it tells me to Portal to Voidstorm from Silvermoon",
+  "Wowhead050This world quest icon shows up on the map, but when I enter the area nothing happens. No talking head. Nothing. Flew around for way too long and then gave up.",
+},
+
 [93578] = {
   "9357818080NPCUnknown0NPCUnknown00",
   "Wowhead050This WQ will award you reputation with the Slayer's Duellum alongside The Singularity.",
+},
+
+[93579] = {
+  "9357918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93579",
+},
+
+[93581] = {
+  "9358118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93581",
+},
+
+[93641] = {
+  "9364118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93641",
 },
 
 [93647] = {
@@ -3451,6 +4522,16 @@ LH_Data_Midnight = LH_Data_Midnight or {
 [93691] = {
   "9369118080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93691",
+},
+
+[93692] = {
+  "9369218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93692",
+},
+
+[93693] = {
+  "9369318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93693",
 },
 
 [93694] = {
@@ -3490,6 +4571,12 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93744",
 },
 
+[93745] = {
+  "9374518080NPCUnknown0NPCUnknown00",
+  "Wowhead050i cant find the npc to turn this in. The marker is here but no NPC. anybody else having this issue?",
+  "Wowhead050I completed this quest today (3/ 5/ 2026) with no problem. The NPC was present and accepted the turn-in, but there was no subsequent quest. I thought this was just a breadcrumb quest to lead us to something more, but it's bugged as of this date (Level 90 Warlock with Pathfinder)",
+},
+
 [93751] = {
   "9375118080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93751",
@@ -3513,6 +4600,16 @@ LH_Data_Midnight = LH_Data_Midnight or {
 [93755] = {
   "9375518080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93755",
+},
+
+[93756] = {
+  "9375618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93756",
+},
+
+[93757] = {
+  "9375718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93757",
 },
 
 [93758] = {
@@ -3558,6 +4655,13 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050Don't be like me and look for Hagara in Har'kuai as the quest tracking text says. It's a typo. Find Hagara inside the main building in Har'mara.",
 },
 
+[93776] = {
+  "9377618080NPCUnknown0NPCUnknown00",
+  "Wowhead050I thought this quest would lead to another quest but it doesn't. Just a dead end.",
+  "Wowhead050This quest can be completed before the quests actually appear, so if the quests aren't there, return later when you have progressed further into the campaign.",
+  "Wowhead050I never picked up this quest when it was available (I think during the main storyline of harandar) and I couldn't find a way to pick up the quest. However, completing the storyline Spot Light ending with O.K. Bloomer auto-completed this quest for me. Last edited by Moof2 on 2026/04/18 (Patch 12.0.1)",
+},
+
 [93792] = {
   "9379218080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93792",
@@ -3582,6 +4686,16 @@ LH_Data_Midnight = LH_Data_Midnight or {
 [93816] = {
   "9381618080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93816",
+},
+
+[93823] = {
+  "9382318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93823",
+},
+
+[93824] = {
+  "9382418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93824",
 },
 
 [93850] = {
@@ -3626,6 +4740,13 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050The quest says to participate in \"Zul'Aman's\" Abundance Harvest, but you can complete the Abundance eventw in any zone to get credit.",
 },
 
+[93891] = {
+  "9389118080NPCUnknown0NPCUnknown00",
+  "Wowhead050This is undoable by alts. Only first toon per week will be able to complete. Please submit a bug report if you are reading this.",
+  "Wowhead050The weekly repeatable quest is at 54, 53 in Harandar inside the building. / way 54 53",
+  "Wowhead050Was looking for a comment on how to even start this quest and there's literally zero comments lol. SO Here's i what Mr. Grok has to say about the matter: To begin the quest Midnight: Legends of the Haranir in World of Warcraft (from the Midnight expansion), note that this appears to be a meta/ achievement-style quest tied to the broader Legends of the Haranir world event and lore exploration in the Harandar zone. The event itself involves weekly relic-based scenarios to learn Haranir history via enchanted paintings/ memories. The core way to start engaging with this content (and likely unlock/ progress the quest) is through the Legends of the Haranir weekly world event in Harandar: Prerequisites: Reach level 90 (or the relevant max level in Midnight). Complete the main Harandar campaign/ storyline (part of the Midnight level-up content, often tied to unlocking the Haranir allied race and building renown/ reputation with the Hara'ti faction). Some sources mention needing renown/ glory level 8 with the Hara'ti (or similar faction progress) for full access. Starting the event: Travel to The Den in Harandar (coordinates around ~50, 50 or specifically 54.2, 53.0 for the key spot). Speak to Naynar (NPC at/ near The Den) and accept the prerequisite quest Legendary Prosperity (this gates access to the event for many players). Head east/ slightly nearby to the Reliquary of the Zur'ashar (coords 54.2, 53.0). Speak to Zur'ashar Kassameh and accept the weekly quest Lost Legends. Behind/ near this NPC, interact with/ select one of the displayed relics (glowing items or visionstones; there are several, with some initially locked/ unlocked over time or progress). This triggers a relic-specific follow-up quest (e.g., something like \"Wey'nan's Ward\" or \"The Empty Cradle\"), leading into a short solo scenario where you step into memories/ paintings to experience Haranir lore and history. Completing the scenario and turning in the quests (back to Zur'ashar Kassameh, then often Naynar) grants rewards like reputation, a cache, decor/ housing items, and progresses lore discovery. The event is weekly, with one legend per week (not replayable on demand), and ties into achievements like learning about Haranir legends. If you're seeing \"Midnight: Legends of the Haranir\" specifically as a quest title (level 90 meta quest), it may auto-pop or become available in Silvermoon City after broader progress (e.g., involving enchanted paintings there, ending at an NPC like Lady Liadrin), but most players start via the Harandar NPC chain above. Check Wowhead for the exact NPC/ quest links (e.g., search \"Lost Legends\" or \"Zur'ashar Kassameh\") for any hotfixes or updates, as Midnight content has seen adjustments post-launch. If you've already done the campaign but it's not appearing, ensure renown requirements are met or look for glowing interactables behind the NPC. Enjoy diving into the Haranir lore—it's a highlight for many in the expansion!",
+},
+
 [93892] = {
   "9389218080NPCUnknown0NPCUnknown00",
   "Wowhead050Learned the hard way that this, like many other quests, cannot be completed while in a raid group.",
@@ -3640,6 +4761,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050how do you get out of the pit without hearthing?",
   "Wowhead050So basically don't do this quest if you're a pet class, or at least not a BM Hunter. (edit: or maybe dismiss first) After jumping down into the pit my pets disappear. Don't think anything of it. I come back up and now I can't summon any pets. I've reset UI, I've changed zones, I've exited and re-launched the game. No pets. No error messages either, it just does the spell but no pet comes out. I went to a Stable Master and after putting a pet in and out of stable I was able to summon one. Then I dismissed and tried again. Nope, back to broken. So I stabled all of my pets. Grabbed a random one, and it worked. So then I grabbed my main pet, which was The Kurken. Nope, will not call. I grab Uvulos out of my stable, and he calls. I try all the other pets I had equipped at the time and they all work, except the main pet I had summoned, The Kurken. He's basically *broken* now. Last edited by pocketsVFX on 2026/03/02 (Patch 12.0.1)",
   "Wowhead050The world quest triggers around / way 47.97, 78.56",
+},
+
+[93905] = {
+  "9390518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93905",
 },
 
 [93907] = {
@@ -3663,6 +4789,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "9391118080NPCUnknown0NPCUnknown00",
   "Wowhead050Tried to complete this but didn't get credit for completing any dungeon. And I did all the Midnight dungeons.",
   "Wowhead050To check which dungeons are seasonal, go to the adventure log and click on the dungeons tab. It would appear that heroic dungeons are all \"seasonal\".",
+},
+
+[93912] = {
+  "9391218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=93912",
 },
 
 [93913] = {
@@ -3720,9 +4851,19 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94005",
 },
 
+[94010] = {
+  "9401018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94010",
+},
+
 [94052] = {
   "9405218080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94052",
+},
+
+[94055] = {
+  "9405518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94055",
 },
 
 [94056] = {
@@ -3733,6 +4874,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
 [94057] = {
   "9405718080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94057",
+},
+
+[94058] = {
+  "9405818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94058",
 },
 
 [94210] = {
@@ -3795,6 +4941,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94390",
 },
 
+[94391] = {
+  "9439118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94391",
+},
+
 [94393] = {
   "9439318080NPCUnknown0NPCUnknown00",
   "Wowhead050This is a breadcrumb quest to the \"How to Train Your Protegee\" questline.",
@@ -3834,6 +4985,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94418",
 },
 
+[94423] = {
+  "9442318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94423",
+},
+
 [94425] = {
   "9442518080NPCUnknown0NPCUnknown00",
   "Wowhead050This seems like a lot of work compared to most world quests, but for the same reward (adventurer item)",
@@ -3871,9 +5027,48 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050Yup finally got 10 veterans quest and have 2 Epic helms one 240+ and one lw 230s and now going to obtain an Epic Neck from the Amani Tribe Renown Reward from doing the Abundance event you are tasked to complete so I hope they fix this and the thousand or so other issues this expansion has nad yes this is y far the worst and most buggy/ glitched launch that I have had the displeasure of playiing.",
 },
 
+[94444] = {
+  "9444418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94444",
+},
+
+[94445] = {
+  "9444518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94445",
+},
+
 [94446] = {
   "9444618080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94446",
+},
+
+[94450] = {
+  "9445018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94450",
+},
+
+[94451] = {
+  "9445118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94451",
+},
+
+[94452] = {
+  "9445218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94452",
+},
+
+[94453] = {
+  "9445318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94453",
+},
+
+[94455] = {
+  "9445518080NPCUnknown0NPCUnknown00",
+  "Wowhead050On the live servers, I did not get this quest to pop up for some reason. Last edited by Freppi on 2025/12/03 (Patch 11.2.7)",
+  "Wowhead050For some reason, the Blingtron dailies flag this quest as completed too.",
+  "Wowhead050There is no house even after reload of game.",
+  "Wowhead050I enter my house repeatedly and it still says 0/ 1 progress. Tried moving house etc. Abandoned and now it doesn't appear at all. Hopefully it's not important? Last edited by Demonette on 2026/02/01 (Patch 12.0.0)",
+  "Wowhead050Previous: My First Home Next, if you choose the Decor Tutorial: Welcome Home",
 },
 
 [94457] = {
@@ -3889,14 +5084,39 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050So I used a boost I had to level a Haranir to get this achievement. I didn't immediately get this achievement. There is a last step that you need to do on your Haranir. Once they are leveled, you need to go to Harandar. When you portal there, you just fly up through the hole in the center of the cave. Go here and talk to Orweyna, and that will give you the achievement. You have to be on your Haranir to turn this in. She is up on a ledge platform. / way #2413 50.86 53.06 Orweyna",
 },
 
+[94469] = {
+  "9446918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94469",
+},
+
+[94470] = {
+  "9447018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94470",
+},
+
+[94471] = {
+  "9447118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94471",
+},
+
 [94492] = {
   "9449218080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94492",
 },
 
+[94580] = {
+  "9458018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94580",
+},
+
 [94581] = {
   "9458118080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94581",
+},
+
+[94582] = {
+  "9458218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94582",
 },
 
 [94623] = {
@@ -3939,6 +5159,21 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94743",
 },
 
+[94783] = {
+  "9478318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94783",
+},
+
+[94784] = {
+  "9478418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94784",
+},
+
+[94786] = {
+  "9478618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94786",
+},
+
 [94790] = {
   "9479018080NPCUnknown0NPCUnknown00",
   "Wowhead050Even though I've maxed out the console with 7 Uncontaminated Void Samples, this quest is still available and rewards another one (also a bit of gold). Might as well do it if you are planning on completing WQs in Voidstorm I guess.",
@@ -3957,6 +5192,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94794",
 },
 
+[94795] = {
+  "9479518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94795",
+},
+
 [94815] = {
   "9481518080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94815",
@@ -3968,6 +5208,26 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050You can buy it on a second char, while no longer able to accept the quest, and then you cannot vendor it anymore. 1600 points down the drain. That + the event being extremely bugged is a job well done, Blizzard.",
   "Wowhead050This quest unlocks Blessings of Abundance for your warband . Last edited by DarkShade on 2026/03/17 (Patch 12.0.1)",
   "Wowhead050You can resell the item immediately after accepting the quest and you will get your currency back without losing the quest.",
+},
+
+[94835] = {
+  "9483518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94835",
+},
+
+[94836] = {
+  "9483618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94836",
+},
+
+[94837] = {
+  "9483718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94837",
+},
+
+[94838] = {
+  "9483818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94838",
 },
 
 [94839] = {
@@ -3997,6 +5257,21 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94845",
 },
 
+[94848] = {
+  "9484818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94848",
+},
+
+[94849] = {
+  "9484918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94849",
+},
+
+[94855] = {
+  "9485518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94855",
+},
+
 [94866] = {
   "9486618080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94866",
@@ -4005,6 +5280,16 @@ LH_Data_Midnight = LH_Data_Midnight or {
 [94867] = {
   "9486718080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94867",
+},
+
+[94868] = {
+  "9486818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94868",
+},
+
+[94869] = {
+  "9486918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94869",
 },
 
 [94871] = {
@@ -4032,11 +5317,41 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050ehh I completed the story in prerelease, have the campaign skip unlocked and a bunch of my chars used the skip already, yet I did not do this quest",
 },
 
+[94995] = {
+  "9499518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=94995",
+},
+
 [95175] = {
   "9517518080NPCUnknown0NPCUnknown00",
   "Wowhead050This won't seem to complete for me. It's stuck at 66%. Done the event 2 times now.",
   "Wowhead050It gave me credit for this while in a raid.",
   "Wowhead050If you stuck at 66%, just abandon and repick the quest.",
+},
+
+[95220] = {
+  "9522018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=95220",
+},
+
+[95221] = {
+  "9522118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=95221",
+},
+
+[95232] = {
+  "9523218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=95232",
+},
+
+[95235] = {
+  "9523518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=95235",
+},
+
+[95237] = {
+  "9523718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=95237",
 },
 
 [95268] = {
@@ -4133,6 +5448,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=95482",
 },
 
+[95835] = {
+  "9583518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=95835",
+},
+
 [95842] = {
   "9584218080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=95842",
@@ -4152,6 +5472,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050Cannot join as a group through group finder, but can queue in person, accept quest, and the quest completes in the event.",
 },
 
+[96253] = {
+  "9625318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=96253",
+},
+
 [96388] = {
   "9638818080NPCUnknown0NPCUnknown00",
   "Wowhead050Jeju refers to the female freedivers from Jeju Island, South Korea. Very cool!",
@@ -4162,9 +5487,614 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050I was able to / tar a Sunken Relic.",
 },
 
+[96410] = {
+  "9641018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=96410",
+},
+
+[96746] = {
+  "9674618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=96746",
+},
+
 [96936] = {
   "9693618080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=96936",
+},
+
+[100993] = {
+  "10099318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=100993",
+},
+
+[101272] = {
+  "10127218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=101272",
+},
+
+[103844] = {
+  "10384418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=103844",
+},
+
+[103927] = {
+  "10392718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=103927",
+},
+
+[109023] = {
+  "10902318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=109023",
+},
+
+[109208] = {
+  "10920818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=109208",
+},
+
+[109617] = {
+  "10961718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=109617",
+},
+
+[111813] = {
+  "11181318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=111813",
+},
+
+[112413] = {
+  "11241318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=112413",
+},
+
+[113103] = {
+  "11310318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=113103",
+},
+
+[114496] = {
+  "11449618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=114496",
+},
+
+[115771] = {
+  "11577118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=115771",
+},
+
+[115897] = {
+  "11589718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=115897",
+},
+
+[119288] = {
+  "11928818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=119288",
+},
+
+[119767] = {
+  "11976718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=119767",
+},
+
+[120698] = {
+  "12069818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=120698",
+},
+
+[121072] = {
+  "12107218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=121072",
+},
+
+[121107] = {
+  "12110718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=121107",
+},
+
+[121520] = {
+  "12152018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=121520",
+},
+
+[122560] = {
+  "12256018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=122560",
+},
+
+[122653] = {
+  "12265318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=122653",
+},
+
+[123048] = {
+  "12304818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=123048",
+},
+
+[124367] = {
+  "12436718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=124367",
+},
+
+[131890] = {
+  "13189018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=131890",
+},
+
+[132821] = {
+  "13282118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=132821",
+},
+
+[135127] = {
+  "13512718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=135127",
+},
+
+[138276] = {
+  "13827618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=138276",
+},
+
+[138357] = {
+  "13835718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=138357",
+},
+
+[138843] = {
+  "13884318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=138843",
+},
+
+[141441] = {
+  "14144118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=141441",
+},
+
+[143573] = {
+  "14357318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=143573",
+},
+
+[144255] = {
+  "14425518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=144255",
+},
+
+[144852] = {
+  "14485218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=144852",
+},
+
+[147055] = {
+  "14705518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=147055",
+},
+
+[149825] = {
+  "14982518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=149825",
+},
+
+[149926] = {
+  "14992618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=149926",
+},
+
+[156065] = {
+  "15606518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=156065",
+},
+
+[156712] = {
+  "15671218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=156712",
+},
+
+[156850] = {
+  "15685018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=156850",
+},
+
+[157520] = {
+  "15752018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=157520",
+},
+
+[160781] = {
+  "16078118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=160781",
+},
+
+[167287] = {
+  "16728718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=167287",
+},
+
+[168086] = {
+  "16808618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=168086",
+},
+
+[172561] = {
+  "17256118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=172561",
+},
+
+[179229] = {
+  "17922918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=179229",
+},
+
+[179253] = {
+  "17925318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=179253",
+},
+
+[179333] = {
+  "17933318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=179333",
+},
+
+[179339] = {
+  "17933918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=179339",
+},
+
+[179353] = {
+  "17935318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=179353",
+},
+
+[179366] = {
+  "17936618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=179366",
+},
+
+[179374] = {
+  "17937418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=179374",
+},
+
+[179375] = {
+  "17937518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=179375",
+},
+
+[179384] = {
+  "17938418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=179384",
+},
+
+[179386] = {
+  "17938618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=179386",
+},
+
+[179388] = {
+  "17938818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=179388",
+},
+
+[179971] = {
+  "17997118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=179971",
+},
+
+[179975] = {
+  "17997518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=179975",
+},
+
+[179978] = {
+  "17997818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=179978",
+},
+
+[179990] = {
+  "17999018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=179990",
+},
+
+[179996] = {
+  "17999618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=179996",
+},
+
+[180141] = {
+  "18014118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=180141",
+},
+
+[180142] = {
+  "18014218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=180142",
+},
+
+[180143] = {
+  "18014318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=180143",
+},
+
+[180169] = {
+  "18016918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=180169",
+},
+
+[180328] = {
+  "18032818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=180328",
+},
+
+[180339] = {
+  "18033918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=180339",
+},
+
+[181993] = {
+  "18199318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=181993",
+},
+
+[184827] = {
+  "18482718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=184827",
+},
+
+[192181] = {
+  "19218118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=192181",
+},
+
+[193602] = {
+  "19360218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=193602",
+},
+
+[196168] = {
+  "19616818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=196168",
+},
+
+[199960] = {
+  "19996018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=199960",
+},
+
+[207596] = {
+  "20759618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=207596",
+},
+
+[215489] = {
+  "21548918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=215489",
+},
+
+[219400] = {
+  "21940018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=219400",
+},
+
+[222897] = {
+  "22289718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=222897",
+},
+
+[224635] = {
+  "22463518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=224635",
+},
+
+[231984] = {
+  "23198418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=231984",
+},
+
+[234543] = {
+  "23454318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=234543",
+},
+
+[241306] = {
+  "24130618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=241306",
+},
+
+[242600] = {
+  "24260018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=242600",
+},
+
+[244138] = {
+  "24413818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=244138",
+},
+
+[245578] = {
+  "24557818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=245578",
+},
+
+[246122] = {
+  "24612218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=246122",
+},
+
+[246714] = {
+  "24671418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=246714",
+},
+
+[253142] = {
+  "25314218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=253142",
+},
+
+[254721] = {
+  "25472118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=254721",
+},
+
+[259289] = {
+  "25928918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=259289",
+},
+
+[271648] = {
+  "27164818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=271648",
+},
+
+[274936] = {
+  "27493618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=274936",
+},
+
+[282154] = {
+  "28215418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=282154",
+},
+
+[287791] = {
+  "28779118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=287791",
+},
+
+[288062] = {
+  "28806218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=288062",
+},
+
+[293616] = {
+  "29361618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=293616",
+},
+
+[295216] = {
+  "29521618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=295216",
+},
+
+[296934] = {
+  "29693418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=296934",
+},
+
+[299648] = {
+  "29964818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=299648",
+},
+
+[325546] = {
+  "32554618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=325546",
+},
+
+[329004] = {
+  "32900418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=329004",
+},
+
+[329486] = {
+  "32948618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=329486",
+},
+
+[329490] = {
+  "32949018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=329490",
+},
+
+[337905] = {
+  "33790518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=337905",
+},
+
+[351802] = {
+  "35180218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=351802",
+},
+
+[351804] = {
+  "35180418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=351804",
+},
+
+[352835] = {
+  "35283518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=352835",
+},
+
+[394015] = {
+  "39401518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=394015",
+},
+
+[396409] = {
+  "39640918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=396409",
+},
+
+[396416] = {
+  "39641618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=396416",
+},
+
+[402451] = {
+  "40245118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=402451",
+},
+
+[402549] = {
+  "40254918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=402549",
+},
+
+[402551] = {
+  "40255118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=402551",
+},
+
+[402656] = {
+  "40265618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=402656",
+},
+
+[408137] = {
+  "40813718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=408137",
+},
+
+[410040] = {
+  "41004018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=410040",
+},
+
+[410046] = {
+  "41004618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=410046",
+},
+
+[410049] = {
+  "41004918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=410049",
+},
+
+[411273] = {
+  "41127318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=411273",
+},
+
+[427435] = {
+  "42743518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=427435",
+},
+
+[443049] = {
+  "44304918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=443049",
 },
 
 [443128] = {
@@ -4172,14 +6102,139 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=443128",
 },
 
+[443232] = {
+  "44323218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=443232",
+},
+
+[445910] = {
+  "44591018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=445910",
+},
+
+[448707] = {
+  "44870718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=448707",
+},
+
+[448709] = {
+  "44870918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=448709",
+},
+
+[448959] = {
+  "44895918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=448959",
+},
+
+[453215] = {
+  "45321518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=453215",
+},
+
 [458405] = {
   "45840518080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=458405",
 },
 
+[464079] = {
+  "46407918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=464079",
+},
+
+[473033] = {
+  "47303318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=473033",
+},
+
+[473410] = {
+  "47341018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=473410",
+},
+
+[492268] = {
+  "49226818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=492268",
+},
+
+[521249] = {
+  "52124918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=521249",
+},
+
+[545275] = {
+  "54527518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=545275",
+},
+
+[552970] = {
+  "55297018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=552970",
+},
+
+[558285] = {
+  "55828518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=558285",
+},
+
+[558294] = {
+  "55829418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=558294",
+},
+
+[558336] = {
+  "55833618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=558336",
+},
+
+[584759] = {
+  "58475918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=584759",
+},
+
+[585201] = {
+  "58520118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=585201",
+},
+
+[595201] = {
+  "59520118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=595201",
+},
+
+[603071] = {
+  "60307118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=603071",
+},
+
+[603357] = {
+  "60335718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=603357",
+},
+
+[621456] = {
+  "62145618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=621456",
+},
+
+[636584] = {
+  "63658418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=636584",
+},
+
+[640119] = {
+  "64011918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=640119",
+},
+
 [752457] = {
   "75245718080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=752457",
+},
+
+[764359] = {
+  "76435918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=764359",
 },
 
 [767163] = {
@@ -4190,6 +6245,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
 [778577] = {
   "77857718080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=778577",
+},
+
+[783461] = {
+  "78346118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=783461",
 },
 
 [785778] = {
@@ -4210,6 +6270,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
 [790866] = {
   "79086618080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=790866",
+},
+
+[793727] = {
+  "79372718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=793727",
 },
 
 [796021] = {
@@ -4247,9 +6312,19 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=815608",
 },
 
+[828709] = {
+  "82870918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=828709",
+},
+
 [834266] = {
   "83426618080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=834266",
+},
+
+[844131] = {
+  "84413118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=844131",
 },
 
 [856456] = {
@@ -4257,9 +6332,114 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=856456",
 },
 
+[867504] = {
+  "86750418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=867504",
+},
+
+[868860] = {
+  "86886018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=868860",
+},
+
+[870861] = {
+  "87086118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=870861",
+},
+
+[872049] = {
+  "87204918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=872049",
+},
+
+[875151] = {
+  "87515118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=875151",
+},
+
+[875800] = {
+  "87580018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=875800",
+},
+
+[877719] = {
+  "87771918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=877719",
+},
+
+[885793] = {
+  "88579318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=885793",
+},
+
+[892501] = {
+  "89250118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=892501",
+},
+
+[892530] = {
+  "89253018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=892530",
+},
+
+[892954] = {
+  "89295418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=892954",
+},
+
+[903670] = {
+  "90367018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=903670",
+},
+
+[903883] = {
+  "90388318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=903883",
+},
+
+[904971] = {
+  "90497118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=904971",
+},
+
 [906699] = {
   "90669918080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=906699",
+},
+
+[910866] = {
+  "91086618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=910866",
+},
+
+[912600] = {
+  "91260018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=912600",
+},
+
+[932406] = {
+  "93240618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=932406",
+},
+
+[933107] = {
+  "93310718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=933107",
+},
+
+[933109] = {
+  "93310918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=933109",
+},
+
+[946237] = {
+  "94623718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=946237",
+},
+
+[985905] = {
+  "98590518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=985905",
 },
 
 [989148] = {
@@ -4272,9 +6452,29 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=989983",
 },
 
+[1001056] = {
+  "100105618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1001056",
+},
+
+[1002617] = {
+  "100261718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1002617",
+},
+
 [1002619] = {
   "100261918080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1002619",
+},
+
+[1002621] = {
+  "100262118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1002621",
+},
+
+[1002636] = {
+  "100263618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1002636",
 },
 
 [1002639] = {
@@ -4287,9 +6487,29 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1002766",
 },
 
+[1002792] = {
+  "100279218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1002792",
+},
+
+[1002794] = {
+  "100279418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1002794",
+},
+
+[1004655] = {
+  "100465518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1004655",
+},
+
 [1004892] = {
   "100489218080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1004892",
+},
+
+[1005761] = {
+  "100576118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1005761",
 },
 
 [1006162] = {
@@ -4307,6 +6527,16 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1009004",
 },
 
+[1011592] = {
+  "101159218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1011592",
+},
+
+[1017847] = {
+  "101784718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1017847",
+},
+
 [1018491] = {
   "101849118080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1018491",
@@ -4322,6 +6552,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1018738",
 },
 
+[1021315] = {
+  "102131518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1021315",
+},
+
 [1021316] = {
   "102131618080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1021316",
@@ -4332,9 +6567,19 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1021547",
 },
 
+[1023068] = {
+  "102306818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1023068",
+},
+
 [1024202] = {
   "102420218080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1024202",
+},
+
+[1025095] = {
+  "102509518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1025095",
 },
 
 [1027285] = {
@@ -4357,6 +6602,86 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1027301",
 },
 
+[1028204] = {
+  "102820418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1028204",
+},
+
+[1028230] = {
+  "102823018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1028230",
+},
+
+[1035965] = {
+  "103596518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1035965",
+},
+
+[1038971] = {
+  "103897118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1038971",
+},
+
+[1040280] = {
+  "104028018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1040280",
+},
+
+[1040732] = {
+  "104073218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1040732",
+},
+
+[1040800] = {
+  "104080018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1040800",
+},
+
+[1040883] = {
+  "104088318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1040883",
+},
+
+[1040887] = {
+  "104088718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1040887",
+},
+
+[1040901] = {
+  "104090118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1040901",
+},
+
+[1041780] = {
+  "104178018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1041780",
+},
+
+[1041854] = {
+  "104185418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1041854",
+},
+
+[1041972] = {
+  "104197218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1041972",
+},
+
+[1042376] = {
+  "104237618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1042376",
+},
+
+[1043206] = {
+  "104320618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1043206",
+},
+
+[1044163] = {
+  "104416318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1044163",
+},
+
 [1047508] = {
   "104750818080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1047508",
@@ -4372,14 +6697,64 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1049305",
 },
 
+[1049331] = {
+  "104933118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1049331",
+},
+
 [1049710] = {
   "104971018080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1049710",
 },
 
+[1049719] = {
+  "104971918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1049719",
+},
+
+[1049720] = {
+  "104972018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1049720",
+},
+
+[1049722] = {
+  "104972218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1049722",
+},
+
+[1051501] = {
+  "105150118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1051501",
+},
+
+[1051965] = {
+  "105196518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1051965",
+},
+
+[1052142] = {
+  "105214218080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1052142",
+},
+
+[1054694] = {
+  "105469418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1054694",
+},
+
+[1054881] = {
+  "105488118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1054881",
+},
+
 [1055630] = {
   "105563018080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1055630",
+},
+
+[1057540] = {
+  "105754018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1057540",
 },
 
 [1062328] = {
@@ -4390,6 +6765,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
 [1063025] = {
   "106302518080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1063025",
+},
+
+[1063360] = {
+  "106336018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1063360",
 },
 
 [1066581] = {
@@ -4492,9 +6872,24 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1121441",
 },
 
+[1121920] = {
+  "112192018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1121920",
+},
+
 [1126338] = {
   "112633818080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1126338",
+},
+
+[1134257] = {
+  "113425718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1134257",
+},
+
+[1136971] = {
+  "113697118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1136971",
 },
 
 [1137841] = {
@@ -4580,6 +6975,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
 [1145073] = {
   "114507318080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1145073",
+},
+
+[1151350] = {
+  "115135018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1151350",
 },
 
 [1152504] = {
@@ -4712,6 +7112,16 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1181616",
 },
 
+[1181816] = {
+  "118181618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1181816",
+},
+
+[1182728] = {
+  "118272818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1182728",
+},
+
 [1183456] = {
   "118345618080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1183456",
@@ -4732,9 +7142,19 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1189600",
 },
 
+[1190680] = {
+  "119068018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1190680",
+},
+
 [1191126] = {
   "119112618080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1191126",
+},
+
+[1197756] = {
+  "119775618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1197756",
 },
 
 [1201066] = {
@@ -4757,6 +7177,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1226723",
 },
 
+[1226777] = {
+  "122677718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1226777",
+},
+
 [1227116] = {
   "122711618080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1227116",
@@ -4770,6 +7195,21 @@ LH_Data_Midnight = LH_Data_Midnight or {
 [1239156] = {
   "123915618080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1239156",
+},
+
+[1249405] = {
+  "124940518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1249405",
+},
+
+[1250945] = {
+  "125094518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1250945",
+},
+
+[1255053] = {
+  "125505318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1255053",
 },
 
 [1255841] = {
@@ -4810,6 +7250,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
 [1264756] = {
   "126475618080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1264756",
+},
+
+[1266415] = {
+  "126641518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1266415",
 },
 
 [1266444] = {
@@ -5027,6 +7472,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1278059",
 },
 
+[1278937] = {
+  "127893718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1278937",
+},
+
 [1279110] = {
   "127911018080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1279110",
@@ -5102,6 +7552,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1280184",
 },
 
+[1280246] = {
+  "128024618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1280246",
+},
+
 [1280317] = {
   "128031718080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1280317",
@@ -5122,9 +7577,24 @@ LH_Data_Midnight = LH_Data_Midnight or {
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1281119",
 },
 
+[1282710] = {
+  "128271018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1282710",
+},
+
 [1283693] = {
   "128369318080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1283693",
+},
+
+[1284249] = {
+  "128424918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1284249",
+},
+
+[1285003] = {
+  "128500318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1285003",
 },
 
 [1285300] = {
@@ -5170,6 +7640,11 @@ LH_Data_Midnight = LH_Data_Midnight or {
 [1285727] = {
   "128572718080NPCUnknown0NPCUnknown00",
   "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1285727",
+},
+
+[1285728] = {
+  "128572818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No parsed comments available yet. Wowhead URL: https://www.wowhead.com/quest=1285728",
 },
 
 }
