@@ -64,13 +64,6 @@ local function GetSelectedQuestID()
                 return questID
             end
         end
-
-        if C_QuestLog.GetLogIndexForQuestID and C_QuestLog.GetSelectedQuest then
-            local selectedQuestID = C_QuestLog.GetSelectedQuest()
-            if selectedQuestID and selectedQuestID ~= 0 then
-                return selectedQuestID
-            end
-        end
     end
 
     if QuestMapFrame and QuestMapFrame.DetailsFrame and QuestMapFrame.DetailsFrame.questID then
@@ -110,7 +103,8 @@ GetQuestLink = GetQuestLink or function(index)
     end
 
     if questID then
-        return ("|cffffff00|Hquest:%d:0|h[%s]|h|r"):format(questID, C_QuestLog and C_QuestLog.GetTitleForQuestID and C_QuestLog.GetTitleForQuestID(questID) or tostring(questID))
+        local title = C_QuestLog and C_QuestLog.GetTitleForQuestID and C_QuestLog.GetTitleForQuestID(questID) or tostring(questID)
+        return ("|cffffff00|Hquest:%d:0|h[%s]|h|r"):format(questID, title)
     end
 end
 
@@ -174,16 +168,10 @@ end
 -- Chat edit box changed names over time.
 ChatFrameEditBox = ChatFrameEditBox or DEFAULT_CHAT_FRAME and DEFAULT_CHAT_FRAME.editBox
 
--- Some old texture/object APIs were renamed.
-do
-    local frame = CreateFrame("Frame")
-    local mt = getmetatable(frame).__index
-    if mt and not mt.SetMinResize and mt.SetResizeBounds then
-        mt.SetMinResize = function(self, minWidth, minHeight)
-            self:SetResizeBounds(minWidth, minHeight)
-        end
-    end
-end
+-- Do not patch global widget metatables here. Global frame metatable patches
+-- taint unrelated Blizzard UI paths, especially nameplates/health bars in
+-- Midnight. Any object API compatibility has to be handled inside LightHeaded
+-- code itself.
 
 -- Keep diagnostics simple in-game.
 _G.LightHeaded_MidnightCompat = true
