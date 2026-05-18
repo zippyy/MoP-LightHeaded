@@ -1,0 +1,8 @@
+## Interface: 120000
+## Author: zippyy
+## Title: LightHeaded_Data_Midnight
+## Version: 12.0.0-midnight
+## Notes: Load on demand data addon for LightHeaded containing Midnight quest data
+## LoadOnDemand: 1
+
+..\LightHeaded\Data\LH_Data_Midnight.lua
