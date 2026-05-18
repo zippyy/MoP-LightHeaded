@@ -1,0 +1,5 @@
+# Midnight quest IDs to scrape.
+# One quest ID per line. Blank lines and # comments are ignored.
+# Add IDs discovered in-game, from Wowhead URLs, or exported quest logs.
+
+92995
