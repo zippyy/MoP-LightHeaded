@@ -3,6 +3,7 @@
 import re
 from pathlib import Path
 
+from playwright.sync_api import TimeoutError as PlaywrightTimeoutError
 from playwright.sync_api import sync_playwright
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -18,21 +19,42 @@ def discover_ids():
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         page = browser.new_page(
-            user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/125 Safari/537.36'
+            user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/125 Safari/537.36',
+            viewport={'width': 1600, 'height': 1200},
         )
-        page.goto(WOWHEAD_URL, wait_until='networkidle', timeout=120000)
 
-        # Give Wowhead's client-side listview a little extra time if needed.
-        page.wait_for_timeout(5000)
+        # Do not use networkidle on Wowhead. It keeps analytics/ad/background
+        # requests alive long enough to timeout in GitHub Actions.
+        page.goto(WOWHEAD_URL, wait_until='domcontentloaded', timeout=60000)
+
+        # Try to let the Listview render, but do not fail if the selector never
+        # appears. The page may still expose IDs in inline JS/HTML.
+        try:
+            page.wait_for_selector('a[href*="quest="]', timeout=20000)
+        except PlaywrightTimeoutError:
+            print('[!] Quest links did not render before timeout; falling back to page HTML/text')
+
+        page.wait_for_timeout(3000)
 
         html = page.content()
-        text = page.locator('body').inner_text(timeout=30000)
-        hrefs = page.eval_on_selector_all('a[href]', 'els => els.map(a => a.getAttribute("href"))')
+
+        try:
+            text = page.locator('body').inner_text(timeout=10000)
+        except PlaywrightTimeoutError:
+            text = ''
+
+        try:
+            hrefs = page.eval_on_selector_all('a[href]', 'els => els.map(a => a.getAttribute("href"))')
+        except Exception:
+            hrefs = []
 
         browser.close()
 
     for source in [html, text, '\n'.join(hrefs or [])]:
-        for match in re.findall(r'(?:quest=|/quest/|/quest=)(\d+)', source):
+        if not source:
+            continue
+
+        for match in re.findall(r'(?:quest=|/quest/)(\d+)', source):
             qid = int(match)
             if qid >= 90000:
                 ids.add(qid)
@@ -47,6 +69,7 @@ def discover_ids():
             if qid >= 90000:
                 ids.add(qid)
 
+    print(f'[+] Discovered {len(ids)} candidate quest IDs')
     return sorted(ids)
 
 
