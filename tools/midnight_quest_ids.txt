@@ -1,5 +1,6 @@
 # Midnight quest IDs to scrape.
-# One quest ID per line. Blank lines and # comments are ignored.
-# Add IDs discovered in-game, from Wowhead URLs, or exported quest logs.
+# Initial broad beta seed range based around observed Midnight quest IDs.
+# One quest ID or inclusive range per line. Blank lines and # comments are ignored.
+# Invalid/non-quest pages are skipped by the generator.
 
-92995
+92900-95000
