@@ -5,6 +5,8 @@ _G.LightHeaded = LH
 local frame
 local pages = {}
 local page = 1
+local currentQID
+local currentURL
 
 local function msg(text)
     DEFAULT_CHAT_FRAME:AddMessage("|cff33ff99LightHeaded:|r " .. tostring(text))
@@ -46,6 +48,10 @@ local function questData(qid)
     end
 end
 
+local function escapePattern(text)
+    return tostring(text or ""):gsub("([%%%^%$%(%)%.%[%]%*%+%-%?])", "%%%1")
+end
+
 local qinfoPattern = "([^\031]*)\031([^\031]*)\031([^\031]*)\031([^\031]*)\031([^\031]*)\031([^\031]*)\031([^\031]*)\031([^\031]*)\031([^\031]*)\031([^\031]*)\031([^\031]*)\031([^\031]*)\031([^\030]-)\030"
 local commentPattern = string.rep("([^\031]*)\031", 6) .. "$"
 
@@ -69,25 +75,73 @@ local function selectedQuestID()
     end
 end
 
+local function showURLBox(url)
+    StaticPopupDialogs.LIGHTHEADED_URL = StaticPopupDialogs.LIGHTHEADED_URL or {
+        text = "Copy this Wowhead URL",
+        button1 = CLOSE,
+        hasEditBox = true,
+        editBoxWidth = 420,
+        timeout = 0,
+        whileDead = true,
+        hideOnEscape = true,
+        OnShow = function(self)
+            local editBox = self.editBox or _G[self:GetName() .. "EditBox"]
+            if editBox then
+                editBox:SetText(currentURL or "")
+                editBox:SetFocus()
+                editBox:HighlightText()
+            end
+        end,
+        EditBoxOnEscapePressed = function(self) self:GetParent():Hide() end,
+    }
+    currentURL = url
+    StaticPopup_Show("LIGHTHEADED_URL")
+end
+
+local function fallbackPage(qid)
+    local title = C_QuestLog and C_QuestLog.GetTitleForQuestID and C_QuestLog.GetTitleForQuestID(qid) or questName(qid)
+    local url = "https://www.wowhead.com/quest=" .. tostring(qid)
+    currentURL = url
+    return table.concat({
+        "|cffffd100" .. tostring(title or qid) .. "|r",
+        "Quest ID: " .. tostring(qid),
+        "",
+        "No embedded LightHeaded data exists for this quest yet.",
+        "",
+        "This is expected for Midnight/new retail quests because the bundled LightHeaded data is from the old MoP-era database.",
+        "",
+        "Wowhead:",
+        url,
+        "",
+        "Click the Wowhead button below to copy the URL.",
+        "",
+        "For true in-game comments, generate a new data pack and add it as LightHeaded_Data_Midnight. WoW addons cannot fetch live web pages directly while the game is running."
+    }, "\n")
+end
+
 local function render()
     if not frame then return end
     frame.body:SetText(pages[page] or "No data.")
     frame.pager:SetText("Page " .. tostring(page) .. " / " .. tostring(#pages))
     frame.prev:SetEnabled(page > 1)
     frame.next:SetEnabled(page < #pages)
+    frame.wowhead:SetEnabled(currentURL ~= nil)
 end
 
 local function build(qid)
     wipe(pages)
     qid = tonumber(qid)
+    currentQID = qid
+    currentURL = qid and ("https://www.wowhead.com/quest=" .. tostring(qid)) or nil
+
     if not qid then
-        pages[1] = "No quest selected. Use /lh <questID>."
+        pages[1] = "No quest selected. Use /lh <questID> or select a quest first."
         return
     end
 
     local data = questData(qid)
     if not data then
-        pages[1] = "No LightHeaded data found for quest ID " .. qid .. "."
+        pages[1] = fallbackPage(qid)
         return
     end
 
@@ -99,6 +153,8 @@ local function build(qid)
     if sname and sname ~= "" then table.insert(info, "Starts: " .. sname) end
     if ename and ename ~= "" then table.insert(info, "Ends: " .. ename) end
     if exp and exp ~= "" then table.insert(info, "Experience: " .. exp) end
+    table.insert(info, "")
+    table.insert(info, "Wowhead: " .. currentURL)
     pages[1] = table.concat(info, "\n")
 
     for i = 2, #data do
@@ -110,10 +166,43 @@ local function build(qid)
     end
 end
 
+local function search(query)
+    wipe(pages)
+    query = tostring(query or ""):match("^%s*(.-)%s*$")
+    if query == "" then
+        pages[1] = "Search is empty. Use /lh <questID> or /lh <quest name>."
+        return
+    end
+
+    local names = loadNames()
+    if not names then
+        pages[1] = "Quest name data is unavailable. Try /lh <questID>."
+        return
+    end
+
+    local lower = names:lower()
+    local result = {}
+    local pattern = string.format("(\031[^\030]+)\030([^\030]-%s[^\030]-)\030", escapePattern(query:lower()))
+    for qidList in lower:gmatch(pattern) do
+        for qid in qidList:gmatch("\031(%d+)") do
+            table.insert(result, qid .. " - " .. questName(qid))
+            if #result >= 50 then break end
+        end
+        if #result >= 50 then break end
+    end
+
+    if #result == 0 then
+        pages[1] = "No embedded quest-name matches for: " .. query .. "\n\nTry /lh <questID>. New Midnight quests will need a generated data pack."
+    else
+        pages[1] = "Search results for: " .. query .. "\n\n" .. table.concat(result, "\n") .. "\n\nOpen one with /lh <questID>."
+    end
+    currentURL = "https://www.wowhead.com/search?q=" .. query:gsub(" ", "+")
+end
+
 local function createUI()
     if frame then return end
     frame = CreateFrame("Frame", "LightHeadedMidnightFrame", UIParent, "BackdropTemplate")
-    frame:SetSize(520, 440)
+    frame:SetSize(560, 460)
     frame:SetPoint("CENTER")
     frame:SetFrameStrata("DIALOG")
     frame:EnableMouse(true)
@@ -132,30 +221,36 @@ local function createUI()
 
     local scroll = CreateFrame("ScrollFrame", nil, frame, "UIPanelScrollFrameTemplate")
     scroll:SetPoint("TOPLEFT", 22, -52)
-    scroll:SetPoint("BOTTOMRIGHT", -36, 58)
+    scroll:SetPoint("BOTTOMRIGHT", -36, 82)
     local child = CreateFrame("Frame", nil, scroll)
-    child:SetSize(440, 1)
+    child:SetSize(480, 1)
     scroll:SetScrollChild(child)
     frame.body = child:CreateFontString(nil, "ARTWORK", "GameFontHighlight")
     frame.body:SetPoint("TOPLEFT")
-    frame.body:SetWidth(430)
+    frame.body:SetWidth(470)
     frame.body:SetJustifyH("LEFT")
     frame.body:SetJustifyV("TOP")
 
     frame.pager = frame:CreateFontString(nil, "ARTWORK", "GameFontNormal")
-    frame.pager:SetPoint("BOTTOM", 0, 25)
+    frame.pager:SetPoint("BOTTOM", 0, 53)
 
     frame.prev = CreateFrame("Button", nil, frame, "UIPanelButtonTemplate")
     frame.prev:SetSize(90, 24)
     frame.prev:SetText("Previous")
-    frame.prev:SetPoint("BOTTOMLEFT", 22, 18)
+    frame.prev:SetPoint("BOTTOMLEFT", 22, 46)
     frame.prev:SetScript("OnClick", function() if page > 1 then page = page - 1; render() end end)
 
     frame.next = CreateFrame("Button", nil, frame, "UIPanelButtonTemplate")
     frame.next:SetSize(90, 24)
     frame.next:SetText("Next")
-    frame.next:SetPoint("BOTTOMRIGHT", -22, 18)
+    frame.next:SetPoint("BOTTOMRIGHT", -22, 46)
     frame.next:SetScript("OnClick", function() if page < #pages then page = page + 1; render() end end)
+
+    frame.wowhead = CreateFrame("Button", nil, frame, "UIPanelButtonTemplate")
+    frame.wowhead:SetSize(130, 24)
+    frame.wowhead:SetText("Copy Wowhead URL")
+    frame.wowhead:SetPoint("BOTTOM", 0, 18)
+    frame.wowhead:SetScript("OnClick", function() if currentURL then showURLBox(currentURL) end end)
     frame:Hide()
 end
 
@@ -167,14 +262,37 @@ local function show(qid)
     frame:Show()
 end
 
+local function showSearch(query)
+    createUI()
+    search(query)
+    page = 1
+    render()
+    frame:Show()
+end
+
 LH.ShowQuest = show
+LH.Search = showSearch
+LH.OpenWowhead = function(qid) showURLBox("https://www.wowhead.com/quest=" .. tostring(qid or currentQID or selectedQuestID() or "")) end
 
 SLASH_LIGHTHEADED1 = "/lh"
 SLASH_LIGHTHEADED2 = "/lightheaded"
 SLASH_LIGHTHEADED3 = "/lighthead"
 SlashCmdList.LIGHTHEADED = function(input)
     input = input and input:match("^%s*(.-)%s*$") or ""
-    show(tonumber(input) or selectedQuestID())
+    if input == "" then
+        show(selectedQuestID())
+        return
+    end
+    if input == "wowhead" or input == "url" then
+        LH.OpenWowhead()
+        return
+    end
+    local qid = tonumber(input)
+    if qid then
+        show(qid)
+    else
+        showSearch(input)
+    end
 end
 
-msg("Midnight-safe runtime loaded. Use /lh <questID>.")
+msg("Midnight-safe runtime loaded. Use /lh, /lh <questID>, /lh <search>, or /lh wowhead.")
