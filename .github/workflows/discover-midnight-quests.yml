@@ -11,10 +11,19 @@ permissions:
 jobs:
   discover:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Show checked out commit
+        run: |
+          git rev-parse HEAD
+          grep -n "wait_until" tools/discover_midnight_quest_ids.py || true
+          grep -n "networkidle" tools/discover_midnight_quest_ids.py || true
 
       - name: Set up Python
         uses: actions/setup-python@v5
