@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 import html
-import json
 import re
 import time
 from pathlib import Path
@@ -33,13 +32,24 @@ def lua_escape(text: str) -> str:
 
 
 def load_ids():
-    ids = []
+    ids = set()
+
     for line in QIDFILE.read_text(encoding='utf-8').splitlines():
         line = line.strip()
+
         if not line or line.startswith('#'):
             continue
-        ids.append(int(line))
-    return ids
+
+        if '-' in line:
+            start, end = line.split('-', 1)
+            start = int(start.strip())
+            end = int(end.strip())
+            for qid in range(start, end + 1):
+                ids.add(qid)
+        else:
+            ids.add(int(line))
+
+    return sorted(ids)
 
 
 def fetch_wowhead(qid: int):
@@ -47,14 +57,32 @@ def fetch_wowhead(qid: int):
     print(f'[+] Fetching {url}')
 
     r = requests.get(url, headers=HEADERS, timeout=30)
-    r.raise_for_status()
+
+    if r.status_code != 200:
+        print(f'[-] HTTP {r.status_code} for {qid}')
+        return None
 
     soup = BeautifulSoup(r.text, 'html.parser')
 
-    title = None
     h1 = soup.find('h1')
-    if h1:
-        title = clean(h1.get_text())
+    title = clean(h1.get_text()) if h1 else None
+
+    invalid_markers = [
+        'database error',
+        'not found',
+        'this quest doesn\'t exist',
+        'page not found',
+    ]
+
+    body_text = clean(soup.get_text(' ')[:5000]).lower()
+
+    if not title:
+        print(f'[-] No title for {qid}')
+        return None
+
+    if any(marker in body_text for marker in invalid_markers):
+        print(f'[-] Invalid quest page for {qid}')
+        return None
 
     comments = []
 
@@ -62,6 +90,7 @@ def fetch_wowhead(qid: int):
         text = clean(comment.get_text('\n'))
         if len(text) < 20:
             continue
+
         comments.append({
             'user': 'Wowhead',
             'date': '',
@@ -70,7 +99,7 @@ def fetch_wowhead(qid: int):
 
     return {
         'id': qid,
-        'title': title or f'Quest {qid}',
+        'title': title,
         'comments': comments,
         'url': url,
     }
@@ -127,13 +156,19 @@ def write_pack(entries):
 def main():
     entries = []
 
-    for qid in load_ids():
+    ids = load_ids()
+    print(f'[+] Loaded {len(ids)} quest IDs')
+
+    for qid in ids:
         try:
-            entries.append(fetch_wowhead(qid))
-            time.sleep(2)
+            result = fetch_wowhead(qid)
+            if result:
+                entries.append(result)
+            time.sleep(1)
         except Exception as e:
             print(f'[!] Failed {qid}: {e}')
 
+    print(f'[+] Valid quests collected: {len(entries)}')
     write_pack(entries)
 
 
