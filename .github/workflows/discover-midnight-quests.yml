@@ -11,7 +11,10 @@ permissions:
 jobs:
   discover:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 60
+
+    env:
+      LH_DISCOVER_MAX_PAGES: 250
 
     steps:
       - name: Checkout repository
