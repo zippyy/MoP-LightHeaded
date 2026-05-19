@@ -36,11 +36,11 @@ for term in SEARCH_TERMS:
     START_URLS.append(f'https://www.wowhead.com/beta/search?q={quote_plus(term)}')
 
 QUEST_PATTERNS = [
-    r'(?:quest=|/quest/)(\d+)',
-    r'"id"\s*:\s*(\d+)',
-    r'"questId"\s*:\s*(\d+)',
-    r'\bid\s*:\s*(\d+)',
-    r'\bquestId\s*:\s*(\d+)',
+    r'(?:quest=|/quest/)(\\d+)',
+    r'\"id\"\\s*:\\s*(\\d+)',
+    r'\"questId\"\\s*:\\s*(\\d+)',
+    r'\\bid\\s*:\\s*(\\d+)',
+    r'\\bquestId\\s*:\\s*(\\d+)',
 ]
 
 
@@ -64,6 +64,29 @@ def extract_ids(text, ids, source_name='page'):
     if found:
         print(f'[+] Found {found} new quest IDs from {source_name}')
     return found
+
+
+def dump_relevant_globals(page):
+    try:
+        return page.evaluate("""
+            () => {
+                const keys = ['g_quests', 'g_listviews', 'g_pageInfo'];
+                const chunks = [];
+
+                for (const key of keys) {
+                    try {
+                        if (window[key]) {
+                            chunks.push(key + '=' + JSON.stringify(window[key]).slice(0, 250000));
+                        }
+                    } catch (e) {}
+                }
+
+                return chunks.join('\\n');
+            }
+        """) || ''
+    except Exception as e:
+        print(f'[!] Global dump failed: {e}')
+        return ''
 
 
 def should_crawl(full_url: str) -> bool:
@@ -118,6 +141,7 @@ def click_possible_next_pages(page, ids):
                     locator.click(timeout=3000)
                     page.wait_for_timeout(1500)
                     extract_ids(page.content(), ids, 'client-side paged list')
+                    extract_ids(dump_relevant_globals(page), ids, 'client-side globals')
                     clicked = True
                     break
             except Exception:
@@ -146,6 +170,8 @@ def collect_page(page, url, ids, discovered_pages):
         extract_ids(body_text, ids, f'text {url}')
     except PlaywrightTimeoutError:
         pass
+
+    extract_ids(dump_relevant_globals(page), ids, f'window globals {url}')
 
     click_possible_next_pages(page, ids)
 
@@ -210,7 +236,7 @@ def write_seed_file(ids):
     for qid in ids:
         output.append(str(qid))
 
-    QIDFILE.write_text('\n'.join(output) + '\n', encoding='utf-8')
+    QIDFILE.write_text('\\n'.join(output) + '\\n', encoding='utf-8')
     print(f'[+] Wrote {len(ids)} quest IDs to {QIDFILE}')
 
 
