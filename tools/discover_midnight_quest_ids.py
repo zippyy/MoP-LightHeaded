@@ -68,7 +68,7 @@ def extract_ids(text, ids, source_name='page'):
 
 def dump_relevant_globals(page):
     try:
-        return page.evaluate("""
+        result = page.evaluate("""
             () => {
                 const keys = ['g_quests', 'g_listviews', 'g_pageInfo'];
                 const chunks = [];
@@ -83,7 +83,9 @@ def dump_relevant_globals(page):
 
                 return chunks.join('\\n');
             }
-        """) || ''
+        """)
+
+        return result or ''
     except Exception as e:
         print(f'[!] Global dump failed: {e}')
         return ''
