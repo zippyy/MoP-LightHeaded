@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import html
+import json
 import re
 import time
 from pathlib import Path
@@ -50,7 +51,54 @@ def load_ids():
     return sorted(ids)
 
 
-def parse_quest_html(qid: int, url: str, raw_html: str):
+def dump_relevant_globals(page):
+    try:
+        result = page.evaluate("""
+            () => {
+                const keys = ['g_quests', 'g_listviews', 'g_pageInfo'];
+                const chunks = [];
+
+                for (const key of keys) {
+                    try {
+                        if (window[key]) {
+                            chunks.push(JSON.stringify(window[key]).slice(0, 500000));
+                        }
+                    } catch (e) {}
+                }
+
+                return chunks.join('\\n');
+            }
+        """)
+
+        return result or ''
+    except Exception:
+        return ''
+
+
+def extract_comments_from_globals(blob):
+    comments = []
+
+    if not blob:
+        return comments
+
+    try:
+        for match in re.findall(r'"body":"(.*?)"', blob):
+            body = clean(match)
+            if len(body) < 20:
+                continue
+
+            comments.append({
+                'user': 'Wowhead',
+                'date': '',
+                'body': body,
+            })
+    except Exception:
+        pass
+
+    return comments[:25]
+
+
+def parse_quest_html(qid: int, url: str, raw_html: str, globals_blob: str = ''):
     if not raw_html:
         return None
 
@@ -81,6 +129,11 @@ def parse_quest_html(qid: int, url: str, raw_html: str):
     body_text = clean(soup.get_text(' ')[:8000]).lower()
 
     if not title:
+        title_match = re.search(r'"name":"([^"]+)"', globals_blob)
+        if title_match:
+            title = clean(title_match.group(1))
+
+    if not title:
         print(f'[-] No title for {qid}')
         return None
 
@@ -101,6 +154,9 @@ def parse_quest_html(qid: int, url: str, raw_html: str):
             'body': text,
         })
 
+    if not comments:
+        comments = extract_comments_from_globals(globals_blob)
+
     return {
         'id': qid,
         'title': title,
@@ -117,14 +173,18 @@ def fetch_wowhead_page(context, qid: int):
 
     try:
         page.goto(url, wait_until='domcontentloaded', timeout=60000)
+
         try:
             page.wait_for_selector('h1', timeout=15000)
         except PlaywrightTimeoutError:
             print(f'[!] No h1 rendered quickly for {qid}; using current page content')
 
-        page.wait_for_timeout(1500)
+        page.wait_for_timeout(2500)
+
         raw_html = page.content()
-        return parse_quest_html(qid, url, raw_html)
+        globals_blob = dump_relevant_globals(page)
+
+        return parse_quest_html(qid, url, raw_html, globals_blob)
 
     except PlaywrightTimeoutError:
         print(f'[-] Timeout for {qid}')
