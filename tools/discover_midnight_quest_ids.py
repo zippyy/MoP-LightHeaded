@@ -36,11 +36,11 @@ for term in SEARCH_TERMS:
     START_URLS.append(f'https://www.wowhead.com/beta/search?q={quote_plus(term)}')
 
 QUEST_PATTERNS = [
-    r'(?:quest=|/quest/)(\\d+)',
-    r'\"id\"\\s*:\\s*(\\d+)',
-    r'\"questId\"\\s*:\\s*(\\d+)',
-    r'\\bid\\s*:\\s*(\\d+)',
-    r'\\bquestId\\s*:\\s*(\\d+)',
+    r'(?:quest=|/quest/)(\d+)',
+    r'"id"\s*:\s*(\d+)',
+    r'"questId"\s*:\s*(\d+)',
+    r'\bid\s*:\s*(\d+)',
+    r'\bquestId\s*:\s*(\d+)',
 ]
 
 
@@ -238,7 +238,7 @@ def write_seed_file(ids):
     for qid in ids:
         output.append(str(qid))
 
-    QIDFILE.write_text('\\n'.join(output) + '\\n', encoding='utf-8')
+    QIDFILE.write_text('\n'.join(output) + '\n', encoding='utf-8')
     print(f'[+] Wrote {len(ids)} quest IDs to {QIDFILE}')
 
 
