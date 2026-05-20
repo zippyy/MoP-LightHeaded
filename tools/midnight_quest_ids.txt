@@ -1,5 +1,5 @@
 # Midnight quest IDs
-# Includes Wago metadata-derived quest IDs
+# Includes Wago.tools-derived quest IDs
 
 88018
 88064
