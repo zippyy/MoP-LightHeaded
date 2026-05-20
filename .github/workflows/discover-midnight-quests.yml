@@ -44,6 +44,10 @@ jobs:
         run: |
           python -m playwright install chromium
 
+      - name: Import QuestV2 DB2 IDs
+        run: |
+          python tools/import_questv2_db2.py || true
+
       - name: Discover Midnight quest IDs
         run: |
           python tools/discover_midnight_quest_ids.py
