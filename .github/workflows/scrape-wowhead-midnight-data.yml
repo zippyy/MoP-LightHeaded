@@ -2,6 +2,15 @@ name: Scrape Wowhead Midnight Data
 
 on:
   workflow_dispatch:
+    inputs:
+      start_index:
+        description: 'Start index into midnight_quest_ids.txt'
+        required: false
+        default: '0'
+      max_quests:
+        description: 'Maximum quests to scrape this run'
+        required: false
+        default: '750'
 
 permissions:
   contents: write
@@ -9,7 +18,11 @@ permissions:
 jobs:
   scrape-wowhead:
     runs-on: ubuntu-latest
-    timeout-minutes: 360
+    timeout-minutes: 120
+
+    env:
+      LH_START_INDEX: ${{ github.event.inputs.start_index || '0' }}
+      LH_MAX_QUESTS: ${{ github.event.inputs.max_quests || '750' }}
 
     steps:
       - name: Checkout repository
