@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import re
+import struct
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -29,11 +30,9 @@ def load_existing_ids():
     return ids
 
 
-def extract_candidate_ids(blob: bytes):
+def extract_ascii_ids(blob: bytes):
     ids = set()
 
-    # DB2 files contain many integer references.
-    # We scan for plausible quest ID clusters directly from the binary.
     for match in re.findall(rb'(9\d{4})', blob):
         try:
             qid = int(match.decode())
@@ -44,6 +43,28 @@ def extract_candidate_ids(blob: bytes):
             ids.add(qid)
 
     return ids
+
+
+def extract_binary_uint32_ids(blob: bytes):
+    ids = set()
+
+    aligned_length = len(blob) - (len(blob) % 4)
+
+    for (value,) in struct.iter_unpack('<I', blob[:aligned_length]):
+        if MIN_QID <= value <= MAX_QID:
+            ids.add(value)
+
+    return ids
+
+
+def extract_candidate_ids(blob: bytes):
+    ascii_ids = extract_ascii_ids(blob)
+    binary_ids = extract_binary_uint32_ids(blob)
+
+    print(f'[+] ASCII candidate IDs: {len(ascii_ids)}')
+    print(f'[+] Binary uint32 candidate IDs: {len(binary_ids)}')
+
+    return ascii_ids | binary_ids
 
 
 def main():
