@@ -1,3856 +1,4006 @@
 LH_Data_Midnight = LH_Data_Midnight or {
 
-[88018] = {
-  "8801818080NPCUnknown0NPCUnknown00",
+[90759] = {
+  "9075918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88064] = {
-  "8806418080NPCUnknown0NPCUnknown00",
+[90760] = {
+  "9076018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88109] = {
-  "8810918080NPCUnknown0NPCUnknown00",
+[90761] = {
+  "9076118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88137] = {
-  "8813718080NPCUnknown0NPCUnknown00",
+[90762] = {
+  "9076218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88154] = {
-  "8815418080NPCUnknown0NPCUnknown00",
+[90763] = {
+  "9076318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88159] = {
-  "8815918080NPCUnknown0NPCUnknown00",
+[90764] = {
+  "9076418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88652] = {
-  "8865218080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[90765] = {
+  "9076518080NPCUnknown0NPCUnknown00",
+  "Wowhead050The cultist cowl is laying on the ground. Click it.",
+  "Wowhead050You have to complete the quest line with Kiro in Grommash Hold or you'll be fazed and can't do the quest.",
+  "Wowhead050Additional line for shadow/ void users (shadow priests, warlocks, devourer demon hunters): Cult activity in the area has risen significantly. While we are gathering troops, you secure a cultist disguise and infiltrate their nearby training grounds. Find out anything you can about the Twilight's Blade and their goals. I will maintain security here. Do not actually join the Twlight's Blade. If you do, be assured our forces here will end your Void dealings permanently.",
+  "Wowhead050If you have a phasing problem on a horde character where you can't find the mobs or items you are loooking for, you probably started the vulpera race unlock quest chain but didn't complete it with that character. Those are the characters that will need to complete Kiro's twilight highlands quests to phase back out to the present time zone. You don't need to finish the whole vulpera unlock questline. After you turn in \"Job's Done\" back in Orgrimmar, go back to Twilight Highlands and you'll be back to the correct phase. Last edited by xbrcs on 2026/01/28 (Patch 12.0.0)",
+  "Wowhead050If you are having trouble with being phased for this quest and the Vulpera questline is not the issue, you may be phased from the cataclysm zone questline(s). I was up to \"Twilight Skies\" Twilight Skies , in Azshara, and this phases you. By the time I was on Muddied Waters, I was seeing the rares spawn again, and able to complete the prepatch questline.",
+  "Wowhead050Go the area marked on the map as Dunwald Ruins, just north of the Twilight Ascension quest givers. Kill cultists until one drops cultist robes. Only then will you be able to collect the cultist cowl on the dead cultist at 47.2, 72.9 and the dagger at 46.5, 72.",
+  "Wowhead050I too, am phased out of this quest. I have completed the Vulpera questline already. I tried logging in on an alt and it would even let me do the cleft of shadows quest with the suspicious citizens.",
+  "Wowhead050This quest is a little callback to Silithus in vanilla, where Twilight Cultists would drop their mantle, cowl, and robe . Wearing them enabled you to summon rares. One of the pre-patch vendors, Materialist Ophinell , sells this original ensemble set: Ensemble: Well-Worn Twilight Cultist's Attire . Last edited by Tyrsenus on 2026/01/27 (Patch 12.0.0)",
+  "Wowhead050so... I have completed the Vulpera Questline and I am phased out of this quest entirely. Any thoughts?",
+  "Wowhead050Phased and can’t see the cultists in Twilight Highlands? Progress Kiro’s chain (A Little Goodwill → Jobs Done) If you are phased in this area in Twilight Highlands and the cultists are missing, what fixed it for me was progressing Kiro ’s questline. What worked for me 1) Find Kiro 2) Do A Little Goodwill 3) Continue the chain until you complete Jobs Done After completing the chain up through Jobs Done my phasing updated and I could see the cultists again.",
+  "Wowhead050As people have mentioned, if you can't see the mobs you're somewhere in the Vulpera Questline. I had gotten up to Kiros' Quests in Twilight Highlands, but never picked them up. Picking up A Little Goodwill and Worthwhile Repairs allowed me to see the cultist mobs - *while* doing them. I am finishing them in case it affects the drop rate of the quest items. EDIT: Update: I could see *SOME* of the mobs when I had those quests. I *DID* get the robes to drop. But I had to turn in Job's Done to get the Cowl. When getting the Cowl I could see that there were several other twilight mobs I was not able to see. Last edited by Vile on 2026/01/29 (Patch 12.0.0)",
+  "Wowhead050I see no mobs. There is no Vulpera. Either near the quest or in Gommash Hold.",
+  "Wowhead050On my Pandaren Shaman: no mobs, no vulpera quests, likely cause I unlocked them ages ago, and have done the quest on quite a few characters so far, jsut this shaman that has issues.",
+  "Wowhead050I did this quest late last night and didn't think to check, but does anyone know if the complete outfit that you end up wearing for the quest is available for transmog?",
+  "Wowhead050When working through this I wasn't appropriately phased but had the quest ' Worthwhile Repairs ' available (and visible on my map). Once I completed that change, I was in the proper phase to pickup the cowl.",
 },
 
-[88653] = {
-  "8865318080NPCUnknown0NPCUnknown00",
-  "Wowhead050The eggs don't respawn, there are multiple cave systems. Once you've cleared out one, go to the other.",
+[90766] = {
+  "9076618080NPCUnknown0NPCUnknown00",
+  "Wowhead050Am I the only one that was confused about whether or not to accept this quest given what Umbric just said?",
 },
 
-[88655] = {
-  "8865518080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[90767] = {
+  "9076718080NPCUnknown0NPCUnknown00",
+  "Wowhead050Quests like this tend to assure me that the Heroes of Azeroth are NOT the dumbest beings on the planet....",
 },
 
-[88662] = {
-  "8866218080NPCUnknown0NPCUnknown00",
+[90768] = {
+  "9076818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
-},
-
-[88663] = {
-  "8866318080NPCUnknown0NPCUnknown00",
-  "Wowhead050Helpful tip I've learned to save a little time on doing this quest and the quest \"Nagrandification\". Start the robot's analysis of the snakes before planting any of the Dreaming Glories. Then go and plant the Dreaming Glories in all of the spots marked with a blue-ish outline. By the time you finish planting, the robot from earlier should be finished with its analysis. The robot will not phase out or stop its analysis as long as you remain within the Atrium. This essentially lets you complete both quests at the same time. Hope this helps!",
-  "Wowhead050Since when do snakes get pregnant?",
-  "Wowhead050MAY YER AIM BE TRUE HAPPY HUNTIN MAY YER AIM BE TRUE HAPPY HUNTIN MAY YER AIM BE TRUE HAPPY HUNTIN MAY YER AIM BE TRUE HAPPY HUNTIN MAY YER AIM BE TRUE HAPPY HUNTIN MAY YER AIM BE TRUE HAPPY HUNTIN MAY YER AIM BE TRUE HAPPY HUNTIN MAY YER AIM BE TRUE HAPPY HUNTIN MAY YER AIM BE TRUE HAPPY HUNTIN MAY YER AIM BE TRUE HAPPY HUNTIN MAY YER AIM BE TRUE HAPPY HUNTIN",
 },
 
-[88672] = {
-  "8867218080NPCUnknown0NPCUnknown00",
+[90769] = {
+  "9076918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88679] = {
-  "8867918080NPCUnknown0NPCUnknown00",
+[90770] = {
+  "9077018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88696] = {
-  "8869618080NPCUnknown0NPCUnknown00",
-  "Wowhead050I skipped the campaign somehow and now I cant see Muster point. When I go there, I get dismounted and everything. As if I were at the NPCs. But I cant see anything, cant talk to nobody. Switched Warmode on/ off. Abandoned and Accepted quest again. Tried everything. Anyone with the same bug? Anyone who can help?",
+[90772] = {
+  "9077218080NPCUnknown0NPCUnknown00",
+  "Wowhead050Janalai wont spawn after the cinematic if there is an event at the temple.",
 },
 
-[88697] = {
-  "8869718080NPCUnknown0NPCUnknown00",
+[90773] = {
+  "9077318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88698] = {
-  "8869818080NPCUnknown0NPCUnknown00",
-  "Wowhead050You cannot turn in, pick up, or otherwise complete this quest if you have completed the Raid. The phased version of the world you enter post-raid removes these NPCs entirely from the game.",
-  "Wowhead050Had some issues with turning it in, since I didn't realize it'd bug after doing the Raid, but a / reload and just closing and reopening the dialogue seemed to fix it. Was able to turn it and its sister quest in and move on with the story.",
-},
-
-[88699] = {
-  "8869918080NPCUnknown0NPCUnknown00",
-  "Wowhead050This quest appears to be bugged if you do it AFTER completing the raid. The intractable prisons simply do not exist and there is nothing to interact with to free them.;",
-  "Wowhead050The amount of adds trash with that *teleports behind you* $%^& in this zone is unnecissary.",
-},
-
-[88700] = {
-  "8870018080NPCUnknown0NPCUnknown00",
-  "Wowhead050This kept bugging, and I couldn't fly. Suit up, and if you can't move, shoot the ground. Leave the Warframe and jump back in, and you should be good to go.",
-  "Wowhead050Only with steady flying it worked to lift of the warframe. Did take the quest 4 times with dragon flying and it didn't work. Last edited by wolframwow on 2026/03/11 (Patch 12.0.1)",
-  "Wowhead050I got stuck in the robot. The specific action buttons came up, but the thing wouldn't move. Getting out of the vehicle didn't clear the bug. A / reload didn't clear the bug. Shooting the ground this clear the bug. Dismounting the robot, and flying away 400-500 yards, and then coming back actually did clear the bug.",
-  "Wowhead050It is bugged. Get out and in again; worked for me.",
-  "Wowhead050You know I was just thinking the other day \"what if Bliz could somehow make vehicle quests even more $%^&ty.\" Question answered.",
-  "Wowhead050This quest is bigtime bugged. If your warframe actually starts flying but you don't get a hotbar with the warframe abilities, just wait like 10 seconds for it to keep progressing, and suddenly your HUD updates.",
+[90774] = {
+  "9077418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No comments scraped yet.",
 },
 
-[88701] = {
-  "8870118080NPCUnknown0NPCUnknown00",
-  "Wowhead050Fortune, fame Mirror, vain Gone insane But the memory remains",
-  "Wowhead050The trash mobs don't agro. Don't waste your time attacking.",
+[90775] = {
+  "9077518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No comments scraped yet.",
 },
 
-[88702] = {
-  "8870218080NPCUnknown0NPCUnknown00",
-  "Wowhead050If the packs aren't responding to you, look around for any nearby packs of Incessant Voidspawn (the little ones.) Clearing a three-pack of them triggered the waves needed for each of the stuck packs for me. The last wave should consist of a relentless Uldradon.",
-  "Wowhead050Click on the kneeling scout and fight three waves of mobs, don't fly away like me :)",
+[90776] = {
+  "9077618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No comments scraped yet.",
 },
 
-[88703] = {
-  "8870318080NPCUnknown0NPCUnknown00",
-  "Wowhead050When handing this quest in on a hunter, the completion text changes to: ‘We have a need to hunt, and they send me a hunter. Perfect.’ Just a cool bit of added flavour.",
-  "Wowhead050If you are unable to interact with the voidstalker when you reach the camp. You may need to abandon the quest and pick it back up. That seemed to be the only fix for me.",
+[90777] = {
+  "9077718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No comments scraped yet.",
 },
 
-[88704] = {
-  "8870418080NPCUnknown0NPCUnknown00",
+[90778] = {
+  "9077818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88705] = {
-  "8870518080NPCUnknown0NPCUnknown00",
+[90779] = {
+  "9077918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88706] = {
-  "8870618080NPCUnknown0NPCUnknown00",
+[90780] = {
+  "9078018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88708] = {
-  "8870818080NPCUnknown0NPCUnknown00",
+[90781] = {
+  "9078118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88709] = {
-  "8870918080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[90782] = {
+  "9078218080NPCUnknown0NPCUnknown00",
+  "Wowhead050This quest has unique dialogue and interactions for draenei. Main quest description: <The man calls out to you in your native tongue. His accent is unfamiliar to you.> A brother of Argus! Kin of mine! Lost to us for ages, surely you hail from the... no, my questions can wait. There are more pressing matters. These domanaar kidnapped us from our world. Portals opened, and they poured forth from the sky. They force us to fight and die in their arenas for their amusement! I escaped, only to be captured again trying to help my people. My elder sister, Tul'amar, has a plan to get us home. Set me free, and I'll take you to meet her. Upon being released from the cell, Juras says (in draenei): Follow me. When you get to the cave, Juras says (in draenei): Look at what I've brought us! Long lost kin of ours! He saved me. Juras gestures towards you. Tul'amar eyes you carefully as the other refugees murmur in awe. There is an option to talk to Tul'amar: <I don't recognize your accent, sister.> Thousands of years separated from our kin on the Genedar has a way of carving rifts between us. I should explain. Many of us followed our Prophet Velen in his great flight away from Sargeras's Legion. Perhaps you know the many worlds we sought refuge upon. Perhaps you stepped foot upon some of them yourself, as we did: worlds of snow and ice, of mist and bush, of endless oceans--no world we could settle for long. The Legion came, as always, and I and others who could not promptly return to our dimensional ship were left behind. We watched the Genedar drift into the sky until it was nothing more than a glimmering dot. And then, gone. Since then, we have survived in the Great Dark Beyond. Alone. <Tell her about Draenor, Azeroth, and Sargeras's defeat.> <Tul'amar listens carefully as you explain the history of the draenei since she had been separated.> I had heard news of our victory on Argus. We have stumbled upon fel-scarred kin seeking redemption in greater number than ever before as of late. I regret that we were not there to join you. There is so much more for us to discuss, brother. I hope there will be time to, but we are in danger here. My people need to go home. <Return to Azeroth with us. Be with your people.> I... I will consider it. But you must understand, these people--my people--we already have a home. They have families--loved ones who were stolen away from them. Imagine doing the same: leaving everything behind to join with us, and hope that a new world is safer than the one you already know and love. We can discuss this more later, but we're in danger as we stand here and speak. Quest completion text: I am filled with cautious hope to see kin of ours in this hellish place, and I owe you for rescuing my younger brother. But I have more to ask of you.",
+  "Wowhead050Here's the Mage with arcane linguist version: <You sense a familiar buzz of arcane in the air around Tul'amar. She, like you, seems capable of understanding allies' languages with Arcane Linguist. She smiles in recognition of your abilities.> A fellow mage. Convenient. That makes this simpler. I am Tul'amar. It is my duty to guard my people, the Nethersent, and see them home. <Ask about her familiarity with Arcane Linguist.> <Tul'amar demonstrates her magic. Your combined fluency in the arcane allows you to communicate normally.> I trained in the glimmering halls seated in Eredath. This is a rare technique among my people. Wherever you hail from, your magic clearly ought not to be underestimated.",
+  "Wowhead050She has a unique dialog for warlock (since she also has one for draenei, I wonder what it is for draenei warlock): <The mage sniffs the air at your approach and then narrows her good eye at you. After a moment of hesitation, she reluctantly speaks in fluent Eredun.> You stink of fel. I will save us the indignity of grunting at one another, but do not mistake me for man'ari. We are draenei. Exiles. Survivors. I am Tul'amar. It is my duty to guard my people, the Nethersent, and see them home. (Demonic) Let us speak freely, eredar. I am an eredar, but ahead of that, I am draenei. I spit on the demonkind, who chased my people across the cosmos. Tyrants, man'ari... but they are not the monsters that threaten my people as we speak. My people need your help, warlock. I ask for it. <Point out the fel-tainted among her ranks.> As if I can forget! Krokul, Sargerei defectors, and other origins you could scarcely believe! We are survivors, one and all. They too are draenei, and I stnd behind my kin with pride! We have been alone in the cold, incaring Great Dark Beyond for thousands years, left behind by our kin and by the Light! Protecting one another from ethereal kidnappers, from parasitic aberrations, and from the monstrosities of the Void who harry us even as we speak. And yet, we have forged a home we cherish. It is where we must return. Very well.",
+  "Wowhead050The turn-in is in an underground hole/ cave thing, whose entrance is at / way 40.2 49.1",
+  "Wowhead050In addition to ther dialogue for Demon Hunters and Warlocks, Draenei, red-skinned Draenei, and players who don't understand Demonic or Draenei, there's also dialogue for Mages with Arcane Linguist here. Someone spent a lot of time making several variations of this quest!",
+  "Wowhead050I love the amount of detail put into this questline. So far there's been unique dialogue for draenei, warlocks, and Man'ari. I may very well just make a lightforged draenei (or hell a lightforged warlock) to see if those have unique dialogue as well.",
+  "Wowhead050This is initiated by rescuing Juras from a cage. He can be found here: Juras the Nethersent . / way #2405 56.2 71.8 Juras the Nethersent",
+  "Wowhead050There's obviously lots of options for this quest chain, but / hugging Juras at the quest completion part as a Draenei will cause him to say in Draenic, \"Hah, bring it in! I guess it's a bit of a reunion, isn't it?\"",
+  "Wowhead050The potion of tongues from Arcantina doesnt work here because they speak Draenei and not Common language. Last edited by Flanell 8 hr 51 min ago (Patch 12.0.5)",
 },
 
-[88710] = {
-  "8871018080NPCUnknown0NPCUnknown00",
+[90783] = {
+  "9078318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88711] = {
-  "8871118080NPCUnknown0NPCUnknown00",
+[90784] = {
+  "9078418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88713] = {
-  "8871318080NPCUnknown0NPCUnknown00",
+[90787] = {
+  "9078718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88714] = {
-  "8871418080NPCUnknown0NPCUnknown00",
+[90790] = {
+  "9079018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88715] = {
-  "8871518080NPCUnknown0NPCUnknown00",
+[90791] = {
+  "9079118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88716] = {
-  "8871618080NPCUnknown0NPCUnknown00",
+[90792] = {
+  "9079218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88717] = {
-  "8871718080NPCUnknown0NPCUnknown00",
+[90793] = {
+  "9079318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88718] = {
-  "8871818080NPCUnknown0NPCUnknown00",
+[90794] = {
+  "9079418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88719] = {
-  "8871918080NPCUnknown0NPCUnknown00",
+[90795] = {
+  "9079518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88721] = {
-  "8872118080NPCUnknown0NPCUnknown00",
+[90796] = {
+  "9079618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88722] = {
-  "8872218080NPCUnknown0NPCUnknown00",
+[90797] = {
+  "9079718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88723] = {
-  "8872318080NPCUnknown0NPCUnknown00",
+[90798] = {
+  "9079818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88724] = {
-  "8872418080NPCUnknown0NPCUnknown00",
+[90799] = {
+  "9079918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88725] = {
-  "8872518080NPCUnknown0NPCUnknown00",
+[90800] = {
+  "9080018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88726] = {
-  "8872618080NPCUnknown0NPCUnknown00",
+[90801] = {
+  "9080118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88727] = {
-  "8872718080NPCUnknown0NPCUnknown00",
+[90802] = {
+  "9080218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88728] = {
-  "8872818080NPCUnknown0NPCUnknown00",
+[90803] = {
+  "9080318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88729] = {
-  "8872918080NPCUnknown0NPCUnknown00",
+[90804] = {
+  "9080418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88730] = {
-  "8873018080NPCUnknown0NPCUnknown00",
+[90805] = {
+  "9080518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88744] = {
-  "8874418080NPCUnknown0NPCUnknown00",
+[90806] = {
+  "9080618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88746] = {
-  "8874618080NPCUnknown0NPCUnknown00",
+[90807] = {
+  "9080718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88755] = {
-  "8875518080NPCUnknown0NPCUnknown00",
-  "Wowhead050I can't seem to find this quest. Oddly, it leads to \" A Bigger Beast \" which also had an ! on the map. I went to bigger beast first, and it wasn't there, and in the process of looking it up, the questgiver appeared. I thought it just took some RP that I missed while minimized, but there was no follow up to the bigger beast quest. Then I could not \"scholarly pursuit\" either (maybe bc I somehow did step first?).. I will update if I figure it out.",
-  "Wowhead050This quest is highlighted on the map and given by Kelia Everglow at the The Ingress. One of the follow ups, Sampling the Local Fare , is also highlighted on the map and given by Kelia Everglow in the Bladeburrows. As this is only a breadcrumb quest, if you take 'Sampling the Local Fare' first, you will not be able to pick up this quest.",
-  "Wowhead050This is a breadcrumb quest leading into the \"The Void Peers Back\" questline.",
+[90808] = {
+  "9080818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No comments scraped yet.",
 },
 
-[88768] = {
-  "8876818080NPCUnknown0NPCUnknown00",
-  "Wowhead050If you cannot find them, they're hiding in a cave where their markers are. Took me longer than I'd like to admit to figure that out.",
-  "Wowhead050Insatiable Watcher was evade bugged, I'm willing to bet someone aggro'd him and took the void portal above his head. I don't know if this helped but I took that void portal above his head and ran back to find him dead. I flew through a few of them btw and died once from fall damage. I don't know if any of the extra jumps/ death helped unbug him though. Good Luck!",
+[90809] = {
+  "9080918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No comments scraped yet.",
 },
 
-[88769] = {
-  "8876918080NPCUnknown0NPCUnknown00",
+[90810] = {
+  "9081018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88790] = {
-  "8879018080NPCUnknown0NPCUnknown00",
+[90811] = {
+  "9081118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88816] = {
-  "8881618080NPCUnknown0NPCUnknown00",
+[90812] = {
+  "9081218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88870] = {
-  "8887018080NPCUnknown0NPCUnknown00",
-  "Wowhead050When you reach specific reputation ranks with the four Goblin Cartels in Undermine, quests will be available at their quartermasters with these uncommon, rare, and epic troves as rewards. These quests are account-wide, so they will disappear from the quartermasters when one character claims a trove by accepting & completing a quest. / way #2346 53.30 72.72 Shredz the Scrapper (Venture Co) / way #2346 63.43 16.73 Boatswain Hardee (Blackwater) / way #2346 39.15 22.19 Rocco Razzboom (Bilgewater) / way #2346 27.12 72.58 Lab Assistant Laszly (Steamwheedle) Nothing extraordinary until Paragon, just what the containers' tooltips say... they are a tiny bonus for proving ourselves to the Cartels through activities to gain reputation. (I don't see a reason why the troves bind to our Warband with all their content being transferable.) Here's what I've got from the troves: Trove(s) Contains Quest(s) Blackwater's Trove 155 Gold 55x Resonance Crystals Honored with the Blackwater Cartel Bilgewater's Trove Honored with the Bilgewater Cartel Venture Co.'s Trove Honored with Venture Co. Steamwheedle's Trove Honored with the Steamwheedle Cartel Blackwater's Trove 165 Gold 65x Resonance Crystals Revered with the Blackwater Cartel Bilgewater's Trove Revered with the Bilgewater Cartel Venture Co.'s Trove Revered with Venture Co. Steamwheedle's Trove Revered with the Steamwheedle Cartel Blackwater's Trove 175 Gold 75x Resonance Crystals Exalted with the Blackwater Cartel Bilgewater's Trove Exalted with the Bilgewater Cartel Venture Co.'s Trove Exalted with Venture Co. Steamwheedle's Trove Exalted with the Steamwheedle Cartel Blackwater Trove ~170 Gold ~70x Resonance Crystals Cartel-specific Mount OR 1-2x Miscellaneous Mechanica Blackwater Bonecrusher Exalted with the Blackwater Cartel (Paragon) Bilgewater Trove Bilgewater Bombardier Exalted with the Bilgewater Cartel (Paragon) Venture Co. Trove Venture Co-ordinator Exalted with Venture Co. (Paragon) Steamwheedle Trove Steamwheedle Supplier Exalted with the Steamwheedle Cartel (Paragon) Last edited by Lazey on 2025/04/08 (Patch 11.1.0)",
+[90814] = {
+  "9081418080NPCUnknown0NPCUnknown00",
+  "Wowhead050No comments scraped yet.",
 },
 
-[88871] = {
-  "8887118080NPCUnknown0NPCUnknown00",
-  "Wowhead050When you reach specific reputation ranks with the four Goblin Cartels in Undermine, quests will be available at their quartermasters with these uncommon, rare, and epic troves as rewards. These quests are account-wide, so they will disappear from the quartermasters when one character claims a trove by accepting & completing a quest. / way #2346 53.30 72.72 Shredz the Scrapper (Venture Co) / way #2346 63.43 16.73 Boatswain Hardee (Blackwater) / way #2346 39.15 22.19 Rocco Razzboom (Bilgewater) / way #2346 27.12 72.58 Lab Assistant Laszly (Steamwheedle) Nothing extraordinary until Paragon, just what the containers' tooltips say... they are a tiny bonus for proving ourselves to the Cartels through activities to gain reputation. (I don't see a reason why the troves bind to our Warband with all their content being transferable.) Here's what I've got from the troves: Trove(s) Contains Quest(s) Blackwater's Trove 155 Gold 55x Resonance Crystals Honored with the Blackwater Cartel Bilgewater's Trove Honored with the Bilgewater Cartel Venture Co.'s Trove Honored with Venture Co. Steamwheedle's Trove Honored with the Steamwheedle Cartel Blackwater's Trove 165 Gold 65x Resonance Crystals Revered with the Blackwater Cartel Bilgewater's Trove Revered with the Bilgewater Cartel Venture Co.'s Trove Revered with Venture Co. Steamwheedle's Trove Revered with the Steamwheedle Cartel Blackwater's Trove 175 Gold 75x Resonance Crystals Exalted with the Blackwater Cartel Bilgewater's Trove Exalted with the Bilgewater Cartel Venture Co.'s Trove Exalted with Venture Co. Steamwheedle's Trove Exalted with the Steamwheedle Cartel Blackwater Trove ~170 Gold ~70x Resonance Crystals Cartel-specific Mount OR 1-2x Miscellaneous Mechanica Blackwater Bonecrusher Exalted with the Blackwater Cartel (Paragon) Bilgewater Trove Bilgewater Bombardier Exalted with the Bilgewater Cartel (Paragon) Venture Co. Trove Venture Co-ordinator Exalted with Venture Co. (Paragon) Steamwheedle Trove Steamwheedle Supplier Exalted with the Steamwheedle Cartel (Paragon) Last edited by Lazey on 2025/04/08 (Patch 11.1.0)",
+[90815] = {
+  "9081518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No comments scraped yet.",
 },
 
-[88872] = {
-  "8887218080NPCUnknown0NPCUnknown00",
+[90816] = {
+  "9081618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88873] = {
-  "8887318080NPCUnknown0NPCUnknown00",
-  "Wowhead050When you reach specific reputation ranks with the four Goblin Cartels in Undermine, quests will be available at their quartermasters with these uncommon, rare, and epic troves as rewards. These quests are account-wide, so they will disappear from the quartermasters when one character claims a trove by accepting & completing a quest. / way #2346 53.30 72.72 Shredz the Scrapper (Venture Co) / way #2346 63.43 16.73 Boatswain Hardee (Blackwater) / way #2346 39.15 22.19 Rocco Razzboom (Bilgewater) / way #2346 27.12 72.58 Lab Assistant Laszly (Steamwheedle) Nothing extraordinary until Paragon, just what the containers' tooltips say... they are a tiny bonus for proving ourselves to the Cartels through activities to gain reputation. (I don't see a reason why the troves bind to our Warband with all their content being transferable.) Here's what I've got from the troves: Trove(s) Contains Quest(s) Blackwater's Trove 155 Gold 55x Resonance Crystals Honored with the Blackwater Cartel Bilgewater's Trove Honored with the Bilgewater Cartel Venture Co.'s Trove Honored with Venture Co. Steamwheedle's Trove Honored with the Steamwheedle Cartel Blackwater's Trove 165 Gold 65x Resonance Crystals Revered with the Blackwater Cartel Bilgewater's Trove Revered with the Bilgewater Cartel Venture Co.'s Trove Revered with Venture Co. Steamwheedle's Trove Revered with the Steamwheedle Cartel Blackwater's Trove 175 Gold 75x Resonance Crystals Exalted with the Blackwater Cartel Bilgewater's Trove Exalted with the Bilgewater Cartel Venture Co.'s Trove Exalted with Venture Co. Steamwheedle's Trove Exalted with the Steamwheedle Cartel Blackwater Trove ~170 Gold ~70x Resonance Crystals Cartel-specific Mount OR 1-2x Miscellaneous Mechanica Blackwater Bonecrusher Exalted with the Blackwater Cartel (Paragon) Bilgewater Trove Bilgewater Bombardier Exalted with the Bilgewater Cartel (Paragon) Venture Co. Trove Venture Co-ordinator Exalted with Venture Co. (Paragon) Steamwheedle Trove Steamwheedle Supplier Exalted with the Steamwheedle Cartel (Paragon) Last edited by Lazey on 2025/04/08 (Patch 11.1.0)",
+[90818] = {
+  "9081818080NPCUnknown0NPCUnknown00",
+  "Wowhead050Check the upper ledge, only one of the three groups you need to eavesdrop on are on the ground level. The other two on the second level.",
+  "Wowhead050To listen in, find the glowing circle nearby, stand in it, and press the eavesdrop button.",
+  "Wowhead050Ignore the quest text sending you to the Royal Exchange. All of the eavesdrop spots are in Murder Row quite close to the quest giver.",
+  "Wowhead050As soon as you use your extra action button to eavesdrop and the quest credit appears, you can move to the next spot. You do NOT need to wait for the channel to complete to get quest credit.",
+  "Wowhead050Turn your graphics up! I had mine turned down to 3 to help with some of the lag in SMC (with outline on) and the spots to stand and eavesdrop were not showing up. Bumped it to 4 and all the sudden there are sparkle patches. Hope this helps!",
+  "Wowhead050Don't miss out on the chance to make a stop at the literal pet cafe that one of the requirements sends you to! So many good boys and floofy cats. And a crab. A crab you can pet. His name is Howie.",
+  "Wowhead050From my understanding, this quest name is a reference to one of the developers wives cheating on him.",
 },
 
-[88874] = {
-  "8887418080NPCUnknown0NPCUnknown00",
-  "Wowhead050When you reach specific reputation ranks with the four Goblin Cartels in Undermine, quests will be available at their quartermasters with these uncommon, rare, and epic troves as rewards. These quests are account-wide, so they will disappear from the quartermasters when one character claims a trove by accepting & completing a quest. / way #2346 53.30 72.72 Shredz the Scrapper (Venture Co) / way #2346 63.43 16.73 Boatswain Hardee (Blackwater) / way #2346 39.15 22.19 Rocco Razzboom (Bilgewater) / way #2346 27.12 72.58 Lab Assistant Laszly (Steamwheedle) Nothing extraordinary until Paragon, just what the containers' tooltips say... they are a tiny bonus for proving ourselves to the Cartels through activities to gain reputation. (I don't see a reason why the troves bind to our Warband with all their content being transferable.) Here's what I've got from the troves: Trove(s) Contains Quest(s) Blackwater's Trove 155 Gold 55x Resonance Crystals Honored with the Blackwater Cartel Bilgewater's Trove Honored with the Bilgewater Cartel Venture Co.'s Trove Honored with Venture Co. Steamwheedle's Trove Honored with the Steamwheedle Cartel Blackwater's Trove 165 Gold 65x Resonance Crystals Revered with the Blackwater Cartel Bilgewater's Trove Revered with the Bilgewater Cartel Venture Co.'s Trove Revered with Venture Co. Steamwheedle's Trove Revered with the Steamwheedle Cartel Blackwater's Trove 175 Gold 75x Resonance Crystals Exalted with the Blackwater Cartel Bilgewater's Trove Exalted with the Bilgewater Cartel Venture Co.'s Trove Exalted with Venture Co. Steamwheedle's Trove Exalted with the Steamwheedle Cartel Blackwater Trove ~170 Gold ~70x Resonance Crystals Cartel-specific Mount OR 1-2x Miscellaneous Mechanica Blackwater Bonecrusher Exalted with the Blackwater Cartel (Paragon) Bilgewater Trove Bilgewater Bombardier Exalted with the Bilgewater Cartel (Paragon) Venture Co. Trove Venture Co-ordinator Exalted with Venture Co. (Paragon) Steamwheedle Trove Steamwheedle Supplier Exalted with the Steamwheedle Cartel (Paragon) Last edited by Lazey on 2025/04/08 (Patch 11.1.0)",
+[90819] = {
+  "9081918080NPCUnknown0NPCUnknown00",
+  "Wowhead050Don't forget to click the dead mana wyrm next to the quest giver before you go flying off looking for something in Murder Row that isn't there yet... 🙄",
+  "Wowhead050Warlocks/ Man'ari get special dialogue options here.",
+  "Wowhead050The drained mana wyrm was a great reference to the original TBC trailer!",
+  "Wowhead050I'm very curious what all the special dialogue options are for Murder Row: Acting the Part ! I will update this comment as I play through on other Class / Race combinations. Feel free to reply here with the special dialogue that you got, and as I see the comments (if they're verbatim), I'll update this comment accordingly. :) Whenever a Class or Race is not offered a special dialogue option, they are always given the #1 option in the list. (e.g., \"(Quest) My employer sent me to purchase some 'special' reagents.\") The response from each NPC is the same, regardless of what special (or non-special) dialogue options the player chooses. (e.g., Miss Len'dali responding with, \"Whatever you might be implying, we do not dabble in that sort of magic.\") Miss Len'dali says: Do you have an appointment? They are difficult to secure these days. There is a never-ending stream of well-paying citizens hopeful to discern their futures. Dialogue response options: 1) (Quest) My employer sent me to purchase some \"special\" reagents. 2) (Quest) (Blood Elf) I see you carry many magical items. Do you have anything like this core? 3) (Quest) (Mage) I'm seeking a way to enhance my magical capabilities. Do you know where I might buy something like that? Classes that do not get a special dialogue option here: - Druid Races that do not get a special dialogue option here: - Night Elf -------------- Denorin says: Ah, welcome to our menagerie. We house a selection of creatures from across Quel'Thalas and beyond. Do not worry if your desired breed requires special licensing for purchase. We are more than happy to have that small inconvenience sorted for you--for a price, naturally. Dialogue response options: 1) (Quest) My employer asked me to look for some unique mana wyrms. Do you have any in stock? 2) (Quest) (Blood Elf) I tire of the bland taste of arcane wyrms. Do you have anything more exciting? 3) (Quest) (Hunter) I'm a mana wyrm breeder. Do you have any unique varieties I could buy? (--Thanks, b0wie!) Classes that do not get a special dialogue option here: - Druid Races that do not get a special dialogue option here: - Night Elf -------------- Thiel says: <He looks you up and down, remaining silent. You hear quiet chuckling from the others in the room.> Dialogue response options: 1) (Quest) <Hold up the wyrm core.> Where can I get more of these? 2) (Quest) (Blood Elf) I know the Row needs money. I'll pay for information. Where are the fel wyrms coming from? Classes that do not get a special dialogue option here: - Druid Races that do not get a special dialogue option here: - Night Elf I really like that there are special dialogue options based on your character's race and class (unless you're a Night Elf Druid, apparently! >.<) . It makes the game feel much more immersive, which reminds me of Baldur's Gate 3! I'd love if more quests did this, especially if the NPCs gave special responses based on the chosen dialogue. Last edited by DaemoniKira on 2026/03/12 (Patch 12.0.1)",
+  "Wowhead050Miss Len'dali 53.06, 52.75 Denorin 56.43, 48.64 inside shop. Thiel 50.69, 48.05 inside shop.",
+  "Wowhead050In case it isn't apparent from the quest information here, you'll get the ring/ directions from whichever NPC you talk to last.",
 },
 
-[88875] = {
-  "8887518080NPCUnknown0NPCUnknown00",
+[90820] = {
+  "9082018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88876] = {
-  "8887618080NPCUnknown0NPCUnknown00",
-  "Wowhead050When you reach specific reputation ranks with the four Goblin Cartels in Undermine, quests will be available at their quartermasters with these uncommon, rare, and epic troves as rewards. These quests are account-wide, so they will disappear from the quartermasters when one character claims a trove by accepting & completing a quest. / way #2346 53.30 72.72 Shredz the Scrapper (Venture Co) / way #2346 63.43 16.73 Boatswain Hardee (Blackwater) / way #2346 39.15 22.19 Rocco Razzboom (Bilgewater) / way #2346 27.12 72.58 Lab Assistant Laszly (Steamwheedle) Nothing extraordinary until Paragon, just what the containers' tooltips say... they are a tiny bonus for proving ourselves to the Cartels through activities to gain reputation. (I don't see a reason why the troves bind to our Warband with all their content being transferable.) Here's what I've got from the troves: Trove(s) Contains Quest(s) Blackwater's Trove 155 Gold 55x Resonance Crystals Honored with the Blackwater Cartel Bilgewater's Trove Honored with the Bilgewater Cartel Venture Co.'s Trove Honored with Venture Co. Steamwheedle's Trove Honored with the Steamwheedle Cartel Blackwater's Trove 165 Gold 65x Resonance Crystals Revered with the Blackwater Cartel Bilgewater's Trove Revered with the Bilgewater Cartel Venture Co.'s Trove Revered with Venture Co. Steamwheedle's Trove Revered with the Steamwheedle Cartel Blackwater's Trove 175 Gold 75x Resonance Crystals Exalted with the Blackwater Cartel Bilgewater's Trove Exalted with the Bilgewater Cartel Venture Co.'s Trove Exalted with Venture Co. Steamwheedle's Trove Exalted with the Steamwheedle Cartel Blackwater Trove ~170 Gold ~70x Resonance Crystals Cartel-specific Mount OR 1-2x Miscellaneous Mechanica Blackwater Bonecrusher Exalted with the Blackwater Cartel (Paragon) Bilgewater Trove Bilgewater Bombardier Exalted with the Bilgewater Cartel (Paragon) Venture Co. Trove Venture Co-ordinator Exalted with Venture Co. (Paragon) Steamwheedle Trove Steamwheedle Supplier Exalted with the Steamwheedle Cartel (Paragon) Last edited by Lazey on 2025/04/08 (Patch 11.1.0)",
+[90821] = {
+  "9082118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No comments scraped yet.",
 },
 
-[88877] = {
-  "8887718080NPCUnknown0NPCUnknown00",
-  "Wowhead050When you reach specific reputation ranks with the four Goblin Cartels in Undermine, quests will be available at their quartermasters with these uncommon, rare, and epic troves as rewards. These quests are account-wide, so they will disappear from the quartermasters when one character claims a trove by accepting & completing a quest. / way #2346 53.30 72.72 Shredz the Scrapper (Venture Co) / way #2346 63.43 16.73 Boatswain Hardee (Blackwater) / way #2346 39.15 22.19 Rocco Razzboom (Bilgewater) / way #2346 27.12 72.58 Lab Assistant Laszly (Steamwheedle) Nothing extraordinary until Paragon, just what the containers' tooltips say... they are a tiny bonus for proving ourselves to the Cartels through activities to gain reputation. (I don't see a reason why the troves bind to our Warband with all their content being transferable.) Here's what I've got from the troves: Trove(s) Contains Quest(s) Blackwater's Trove 155 Gold 55x Resonance Crystals Honored with the Blackwater Cartel Bilgewater's Trove Honored with the Bilgewater Cartel Venture Co.'s Trove Honored with Venture Co. Steamwheedle's Trove Honored with the Steamwheedle Cartel Blackwater's Trove 165 Gold 65x Resonance Crystals Revered with the Blackwater Cartel Bilgewater's Trove Revered with the Bilgewater Cartel Venture Co.'s Trove Revered with Venture Co. Steamwheedle's Trove Revered with the Steamwheedle Cartel Blackwater's Trove 175 Gold 75x Resonance Crystals Exalted with the Blackwater Cartel Bilgewater's Trove Exalted with the Bilgewater Cartel Venture Co.'s Trove Exalted with Venture Co. Steamwheedle's Trove Exalted with the Steamwheedle Cartel Blackwater Trove ~170 Gold ~70x Resonance Crystals Cartel-specific Mount OR 1-2x Miscellaneous Mechanica Blackwater Bonecrusher Exalted with the Blackwater Cartel (Paragon) Bilgewater Trove Bilgewater Bombardier Exalted with the Bilgewater Cartel (Paragon) Venture Co. Trove Venture Co-ordinator Exalted with Venture Co. (Paragon) Steamwheedle Trove Steamwheedle Supplier Exalted with the Steamwheedle Cartel (Paragon) Last edited by Lazey on 2025/04/08 (Patch 11.1.0)",
+[90822] = {
+  "9082218080NPCUnknown0NPCUnknown00",
+  "Wowhead050Use the group finder, choose Follower Dungeons if you do not want to do this with random, possibly toxic strangers. I did this dungeon with a level 81 char. It says you can even do it with a level 80.",
+  "Wowhead050in rewards it says \"you will unlock access to the following: Dungeon: Murder Row\" implying that you have to complete this quest to unlock the dungeon... but the quest requires entering said dungeon fortunately that is not the case, it's just very badly worded",
+  "Wowhead050This quest is completed by doing the dungeon. I just queued to get in.",
+  "Wowhead050I just did this quest at lvl 84 follower dungeon, got the quest done and received achievement.",
+  "Wowhead050Ran it today, lvl 81, as a follower dungeon.",
+  "Wowhead050I did this quest at Lvl 85 and some reason I am unable to get a disguise after fighting the first boss. Anyone know what the issue is?",
+  "Wowhead050For those who are thinking of holding on to this quest until they hit 90 so they can get some easy, decent blue quality quest rewards (totally not me! Haha! Why would you ever think that?), please note that the gear does not scale up in item level as you level up . So, just turn the quest in when you finish it if any of the rewards is an item upgrade for you, or turn it in when it is most advantageous to you during leveling just for the exp, if you don't need the gear.",
+  "Wowhead050I had to log out and back in for it to let me queue for the dungeon",
+  "Wowhead050Got the quest. Tried to walk in, but couldn't, because I'm not level 90 yet. Did the dungeon through the dungeon finder, but quest not completed. Did the dungeon with followers, but the quest not completed. Did not see any additional requirements while in the dungeon in order to complete the quest.",
+  "Wowhead050Worst quest ever. This dungeon takes HOURS.",
+  "Wowhead050Looks like you need to be 83 to be able to queue up for this dungeon.",
+  "Wowhead050You have to be level 90 to enter the dungeon.",
 },
 
-[88878] = {
-  "8887818080NPCUnknown0NPCUnknown00",
+[90823] = {
+  "9082318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88879] = {
-  "8887918080NPCUnknown0NPCUnknown00",
-  "Wowhead050When you reach specific reputation ranks with the four Goblin Cartels in Undermine, quests will be available at their quartermasters with these uncommon, rare, and epic troves as rewards. These quests are account-wide, so they will disappear from the quartermasters when one character claims a trove by accepting & completing a quest. / way #2346 53.30 72.72 Shredz the Scrapper (Venture Co) / way #2346 63.43 16.73 Boatswain Hardee (Blackwater) / way #2346 39.15 22.19 Rocco Razzboom (Bilgewater) / way #2346 27.12 72.58 Lab Assistant Laszly (Steamwheedle) Nothing extraordinary until Paragon, just what the containers' tooltips say... they are a tiny bonus for proving ourselves to the Cartels through activities to gain reputation. (I don't see a reason why the troves bind to our Warband with all their content being transferable.) Here's what I've got from the troves: Trove(s) Contains Quest(s) Blackwater's Trove 155 Gold 55x Resonance Crystals Honored with the Blackwater Cartel Bilgewater's Trove Honored with the Bilgewater Cartel Venture Co.'s Trove Honored with Venture Co. Steamwheedle's Trove Honored with the Steamwheedle Cartel Blackwater's Trove 165 Gold 65x Resonance Crystals Revered with the Blackwater Cartel Bilgewater's Trove Revered with the Bilgewater Cartel Venture Co.'s Trove Revered with Venture Co. Steamwheedle's Trove Revered with the Steamwheedle Cartel Blackwater's Trove 175 Gold 75x Resonance Crystals Exalted with the Blackwater Cartel Bilgewater's Trove Exalted with the Bilgewater Cartel Venture Co.'s Trove Exalted with Venture Co. Steamwheedle's Trove Exalted with the Steamwheedle Cartel Blackwater Trove ~170 Gold ~70x Resonance Crystals Cartel-specific Mount OR 1-2x Miscellaneous Mechanica Blackwater Bonecrusher Exalted with the Blackwater Cartel (Paragon) Bilgewater Trove Bilgewater Bombardier Exalted with the Bilgewater Cartel (Paragon) Venture Co. Trove Venture Co-ordinator Exalted with Venture Co. (Paragon) Steamwheedle Trove Steamwheedle Supplier Exalted with the Steamwheedle Cartel (Paragon) Last edited by Lazey on 2025/04/08 (Patch 11.1.0)",
+[90824] = {
+  "9082418080NPCUnknown0NPCUnknown00",
+  "Wowhead050This quest was only available to me after completing the campaign quest \"Tell the People What you Have Seen\" . I had already completed the campaign on my main, but the quest was not available on my alt. Only after completing the mentioned campaign quest on my alt, I was able to pick this one up.",
+  "Wowhead050nobody mentioned this, but my issue was I was looking in the den. Questgiver is above.",
+  "Wowhead050Quest giver will be here once available: / way Harandar 52.17 55.02",
+  "Wowhead050If you dont see this quest, you just need progress some quests in location :)",
 },
 
-[88880] = {
-  "8888018080NPCUnknown0NPCUnknown00",
-  "Wowhead050When you reach specific reputation ranks with the four Goblin Cartels in Undermine, quests will be available at their quartermasters with these uncommon, rare, and epic troves as rewards. These quests are account-wide, so they will disappear from the quartermasters when one character claims a trove by accepting & completing a quest. / way #2346 53.30 72.72 Shredz the Scrapper (Venture Co) / way #2346 63.43 16.73 Boatswain Hardee (Blackwater) / way #2346 39.15 22.19 Rocco Razzboom (Bilgewater) / way #2346 27.12 72.58 Lab Assistant Laszly (Steamwheedle) Nothing extraordinary until Paragon, just what the containers' tooltips say... they are a tiny bonus for proving ourselves to the Cartels through activities to gain reputation. (I don't see a reason why the troves bind to our Warband with all their content being transferable.) Here's what I've got from the troves: Trove(s) Contains Quest(s) Blackwater's Trove 155 Gold 55x Resonance Crystals Honored with the Blackwater Cartel Bilgewater's Trove Honored with the Bilgewater Cartel Venture Co.'s Trove Honored with Venture Co. Steamwheedle's Trove Honored with the Steamwheedle Cartel Blackwater's Trove 165 Gold 65x Resonance Crystals Revered with the Blackwater Cartel Bilgewater's Trove Revered with the Bilgewater Cartel Venture Co.'s Trove Revered with Venture Co. Steamwheedle's Trove Revered with the Steamwheedle Cartel Blackwater's Trove 175 Gold 75x Resonance Crystals Exalted with the Blackwater Cartel Bilgewater's Trove Exalted with the Bilgewater Cartel Venture Co.'s Trove Exalted with Venture Co. Steamwheedle's Trove Exalted with the Steamwheedle Cartel Blackwater Trove ~170 Gold ~70x Resonance Crystals Cartel-specific Mount OR 1-2x Miscellaneous Mechanica Blackwater Bonecrusher Exalted with the Blackwater Cartel (Paragon) Bilgewater Trove Bilgewater Bombardier Exalted with the Bilgewater Cartel (Paragon) Venture Co. Trove Venture Co-ordinator Exalted with Venture Co. (Paragon) Steamwheedle Trove Steamwheedle Supplier Exalted with the Steamwheedle Cartel (Paragon) Last edited by Lazey on 2025/04/08 (Patch 11.1.0)",
+[90826] = {
+  "9082618080NPCUnknown0NPCUnknown00",
+  "Wowhead050You can loot the water while on the Anglers Fishing Raft . Unfortunately jumping doesn't seem to increase the speed of the raft. Last edited by Appr on 2026/03/05 (Patch 12.0.1)",
 },
 
-[88881] = {
-  "8888118080NPCUnknown0NPCUnknown00",
+[90827] = {
+  "9082718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88903] = {
-  "8890318080NPCUnknown0NPCUnknown00",
+[90829] = {
+  "9082918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88916] = {
-  "8891618080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[90830] = {
+  "9083018080NPCUnknown0NPCUnknown00",
+  "Wowhead050At regular intervals, a green spirit blob will spawn from your character. Follow this blob to the next guide. There's also the \"X marks the spot\"-marker, but the blob is a lot easier to follow. Be wary of Coalesced Spirit in the area - they are elite. Edit: Thanks to tfmonk for the first guide which I missed. Location of the guides / way #2413 63.06 54.98 First Guide / way #2413 65.92 58.53 Second Guide / way #2413 64.46 58.50 Third Guide / way #2413 62.57 58.88 Fourth Guide / way #2413 61.90 59.79 Fifth Guide / way #2413 63.48 59.97 Final Guide Last edited by Ooshraxa on 2026/02/28 (Patch 12.0.1)",
+  "Wowhead050Thank you for the green blob comment! You saved me. The x-marker thing was driving me up a wall & I did realize what the green blobs were. Got it done so fast after reading that. Appreciate you!",
+},
+
+[90831] = {
+  "9083118080NPCUnknown0NPCUnknown00",
+  "Wowhead050the way points for this quest are: / way #2413 63.01 54.94 1st guide / way #2413 65.89 58.46 2nd / way #2413 64.44 58.48 3rd / way #2413 62.56 58.91 4th / way #2413 61.89 59.80 5th / way #2413 63.56 59.71 6th / way #2413 62.94 62.35 turn in dar.",
 },
 
-[88919] = {
-  "8891918080NPCUnknown0NPCUnknown00",
-  "Wowhead050Quest can be completed if you enter the Delve from the portal in Silvermoon.",
-  "Wowhead050Had to relog for this quest to be completable.",
-  "Wowhead050This can be solo'd and not in story mode. I just did it on Tier 8 which was appropriate for my ilvl (I don't get to play as much as I want due to career).",
+[90832] = {
+  "9083218080NPCUnknown0NPCUnknown00",
+  "Wowhead050Shoot at the mobs towards the north, not at the wards.",
+  "Wowhead050You have to hold down the 1 key, aim, then release it to shoot. Really wasn't obvious to me :/",
+  "Wowhead050Once you set the wards, you get a new ui with one button, Hold down #1 button, aim (usually using your mouse) at the blobs and release the button. Kill all the little trash, the wards will then focus on each of the three larger mobs, on the shore across, aim at their feet, not their body. Took me forever I was aiming everywhere but their feet. :-)",
 },
 
-[88920] = {
-  "8892018080NPCUnknown0NPCUnknown00",
+[90833] = {
+  "9083318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88922] = {
-  "8892218080NPCUnknown0NPCUnknown00",
+[90834] = {
+  "9083418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88923] = {
-  "8892318080NPCUnknown0NPCUnknown00",
-  "Wowhead050Shandris sighs\"I grow tired of yet another threat at the Sunwell that cannot be ignored\" ....threats to the Sunwell lets see - Arthas march on Silvermoon -The Sunwell Raid in BC -Allerias dark Narruu trying to eat it -The beginning of the Midnight expansion - And now lets do the one above all again I might have forgotten some events but I dont recall Night elves as a group being around for any of these",
-  "Wowhead050Do Blizz not have anyone proofreading their NPC dialogue? I clicked on Umbric and a part of his text says \"In my youth I seldom appreciated the beauty of nature, even as I looked out my the window of my study onto Eversong.\" Clicked on Jarod Shadowsong to see what he had to say and Teldrassil is spelled \"Teldressil\" ffs! Last edited by Slania on 2026/04/12 (Patch 12.0.1)",
+[90835] = {
+  "9083518080NPCUnknown0NPCUnknown00",
+  "Wowhead050Sigh, I was running all over in the building looking for him. He is ABOVE the bazar at / way 51.8 64.3",
+  "Wowhead050Avara has unique dialogue for Demon Hunters: Hail, Slayer [name]. Your arrival is timely, as always. The Illidari are performing an investigation in Silvermoon. The details need not be spoken of openly, but Belath Dawnblade specifically requested your aid in the matter. The last I heard, he was surveying the upper terraces of the Bazaar. Seek him out, when you have time. Last edited by GrandpaChew on 2026/03/03 (Patch 12.0.1)",
+  "Wowhead050The NPC who starts this quest is Avara . She can be found in Silvermoon City, Murder Row at coordinates: / way 55.84, 63.72 . Last edited by ragedaug on 2026/02/27 (Patch 12.0.1)",
 },
 
-[88925] = {
-  "8892518080NPCUnknown0NPCUnknown00",
-  "Wowhead050Within the three quest of 'awaken the ancient of war/ lore/ protector' we are told sunwell invites catastrophe yet, sin'dorei is clinging to it. I don't understand, how this writing passed the the Metzen's writing room (does it still called dojo?) or was he too busy regretting about the franchise being called warcraft, but excuse me? This comes from same night elves that cling to their fount of nature to literal *death* and beyond? I speak of course the world trees. How many did these tree huggers created these things again? How many calamities they caused. One in Val'sharra caused so much nightmare corruption, it almost turned every single wild god to nightmare beast. One we are standing right on to make this plea to Shandris, literally made from death energy and came from shadowlands, with unkown long term effects to those who live around it and azeroth itself. Nordrassil still literally sucking from the juices of what remained from Well of Eternity... Who wrote this? Who approved it? What is the point of having lore if nothing except the scene we are on matters. Am I going insane? *silent scream*",
-  "Wowhead050You have to wait for the roots to spawn. They can spawn far away from the quest giver. Last edited by Ehayen on 2026/04/15 (Patch 12.0.1)",
+[90837] = {
+  "9083718080NPCUnknown0NPCUnknown00",
+  "Wowhead05051.1,56.2 - it's a medium sized book on a table to the right in the room in the bottom breezeway with all the red tapestries all over the place.",
+  "Wowhead050As a Draenei using the Man'ari Eredar (red skin) customisation the quest text is changed. \"We need to gather more evidence. Go around this area and see if you can find more hidden sources of fel. I have no fondness for what you are, demon--but if you will use your senses for good, then I have no quarrel with you.\" He will also have a chat bubble saying \"Put your... affinities to use, demon. We will rendezvous shortly.\" Along with you getting the same buff text as warlocks regardless of class: \"Fel Senses: Already attuned to the fel, you can effortlessly detect nearby fel magic.\"",
+  "Wowhead050Handwritten List is indoors, in the bookstore at 50.7 57.5",
+  "Wowhead050For warlocks, the quest text reads I have been sensing powerful fel magic throughout Silvermoon, but this is the first origin point I could locate. The rest were too faint, or perhaps deliberately hidden. Fortunately, this means we now have a specific area to comb through more closely. We need to gather more evidence. Go around this area and see if you can find more hidden sources of fel. I trust your... proclivities will make this an easy task, warlock. While the buff you get instead reads \"Fel Senses: Already attuned to the fel, you can effortlessly detect nearby fel magic.\"",
+  "Wowhead050Did this 3 times easily taking a couple of city quests at a time, then suddenly lost track of what I was about leveling another alt with 4 quests all in this area. My notes in case I fill my map with too many quest points again: In Murder Row (lower level): Stained Worker's Shirt : Pile of rags by the Murder Row Meeting stone Blackened Metal Fragmen t: Concealed crate at the back of a street market stall Handwritten List : Book on the center right side table in Silvery Serenades shop Above Murder Row (upper level): Drained Wyrm Core : Mislaid bag on platform that juts out over Murder Row Bottled Fel Dust : Green bottle on the floor back of the street market stall on above murder row. Can be seen easily while picking up the Drained Wyrm Core in the Mislaid Bag",
+  "Wowhead050Ignore the quest text sending you to the Royal Exchange. All of the items are in Murder Row quite close to the quest giver. Don't forget Silvermoon City has terraces -- some of the items are up above street level.",
+  "Wowhead050On the top terrace there is a Wine Seller. Behind him on the floor is a bottle. That one took me a while to find.",
+  "Wowhead050One of the surveillance sparkly areas is on an upper level at 52.44 63.46.",
+  "Wowhead050Blackened Metal Fragment is in a concealed crate at / way 51.95, 60.94",
 },
 
-[88926] = {
-  "8892618080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[90838] = {
+  "9083818080NPCUnknown0NPCUnknown00",
+  "Wowhead050If you don’t see the NPC who gives the quest, just complete one or two main story quests and the NPC should appear. At least that’s how it worked for me. P.S: The problem is that the main storyline overlaps with certain side quests, causing phase conflicts that may result in an NPC disappearing. To restore them, you need to progress through the quests until the NPC layout returns to its default state. Basically, if you were sent to the first zone, just complete a few main story quests Last edited by Edelthas on 2026/03/05 (Patch 12.0.1)",
+  "Wowhead050This quest is a breadcrumb quest to Distant Memories (Questline Oaths to Family ), and if you can't see the NPC Kifaan to offer this (even though the marker is on your map) at The Howling Ridge: YOU CAN SKIP THIS QUEST , and just go directly to the NPC Kifaan at Ethereum Overcroft ( / way #2405 44.6 68.6 Kifaan at Ethereum Overcroft ). Skipping this breadcrumb quest will still make the questline to count towards Sojourner of Voidstorm (it did at least for me). ---- I was able to pick this breadcrumb quest on my main who had completed the main campaign fully, but on my alt, who hasn't done the main campaign, I am not able to see the NPC to pick the quest at the Howling Ridge. BUT on my alt I was able to just go directly to Ethereum Overcroft and pick the next quest Distant Memories just fine and I completed the questline on the said alt and it counted towards the achievement, and the breadcrumb quest was also removed from my map. Last edited by Merella 28 days ago (Patch 12.0.5)",
+  "Wowhead050If you know someone that has the campaign done they are able to share the quest with you. if you do not care about breadcrumb quests you can find the NPC at 44.68 68.60 and continue on the quest chain for the sojourner achievement.",
+  "Wowhead050Yeah, I still have not been able to find the NPC for Oaths and Heirloom at the spot.. did find him at 45,69 but that just starts the entire 51 step quest again... other zones had the same issue with the sojourner quests, it was easy to party sync, find the npc and finish the final questline.. not this one... It does show on the main map for the ! leading to Oaths and Heirloom quest when party sync'ed but the npc is not there at the ! mark and on the mini map it does not appear. Last edited by salsagev007 on 2026/03/14 (Patch 12.0.1)",
+  "Wowhead050He's not at that location... At least not right meow... BUT I did find him at coords: 44.7, 68.6 But he doesn't start giving the quests that the ! displays. He gives you the starting quests. But I guess since I didn't doi any of his quests that this makes sense right? Not exactly sure what other people are complaining about regarding this...",
+  "Wowhead050I finished the storyline and got Sojourner of Voidstorm without this quest being flagged as complete.",
 },
 
-[88927] = {
-  "8892718080NPCUnknown0NPCUnknown00",
+[90839] = {
+  "9083918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88928] = {
-  "8892818080NPCUnknown0NPCUnknown00",
+[90840] = {
+  "9084018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88929] = {
-  "8892918080NPCUnknown0NPCUnknown00",
+[90842] = {
+  "9084218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88930] = {
-  "8893018080NPCUnknown0NPCUnknown00",
-  "Wowhead050From the quest giver, go down the path to the left and there's a construct on the ground that you interact with (70,77). Last edited by ElsaFC 3 days ago (Patch 12.0.5)",
+[90843] = {
+  "9084318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No comments scraped yet.",
 },
 
-[88931] = {
-  "8893118080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[90844] = {
+  "9084418080NPCUnknown0NPCUnknown00",
+  "Wowhead050This quest sucked (my personal opinion) and the coordinates above only got my 1/ 8 the way thru the quest. I seems to just be another grind quest that should probably been paired with another quest to not be boring or frustrating.",
 },
 
-[88932] = {
-  "8893218080NPCUnknown0NPCUnknown00",
+[90845] = {
+  "9084518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88937] = {
-  "8893718080NPCUnknown0NPCUnknown00",
+[90846] = {
+  "9084618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88938] = {
-  "8893818080NPCUnknown0NPCUnknown00",
-  "Wowhead050If you are having trouble getting the crown. Zoom in, and put your mouse on the crown in the bubble until you see your mouse change to a hand. The bubble isn't collectable only the crown in the bubble.",
-  "Wowhead050Stay awhile and listen: Arator says: I was young when Quel'Thalas fell. I don't remember much about King Anasterian. Vereesa Windrunner says: He ruled for thousands of years, from the Troll Wars against the Amani to his heroic sacrifice against the Scourge. Vereesa Windrunner says: To this day, Anasterian is revered by both blood elves and high elves. He is a symbol of when our people stood as one. Vereesa Windrunner says: After Anasterian's sacrifice, our people were split apart. The blood elves stayed in the ruins to rebuild, and did terrible things to regain that feeling of power. Vereesa Windrunner says: We high elves could not abide what Prince Kael'thas was asking of us. We left during our people's greatest need. Vereesa Windrunner says: We have also done terrible things since then. Arator says: Would anything have been different if Anasterian had survived? Vereesa Windrunner says: It doesn't matter what would have been. It only matters that he was a symbol of a united, powerful Quel'Thalas. We need that now. Arator says: You know... Anasterian wasn't the only one who died defending Silvermoon. Despite what everyone says, I wish Aunt Sylvanas were here to join the fight. Arator says: But I suppose her days as Ranger-General truly are a thing of the past. All things considered, maybe that's for the best.",
+[90847] = {
+  "9084718080NPCUnknown0NPCUnknown00",
+  "Wowhead050Questioner Xen'daan is inside the building, despite the quest circle making it seem like they'll spawn at the entrance",
 },
 
-[88939] = {
-  "8893918080NPCUnknown0NPCUnknown00",
+[90848] = {
+  "9084818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88941] = {
-  "8894118080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[90849] = {
+  "9084918080NPCUnknown0NPCUnknown00",
+  "Wowhead050Prerequisite: complete [The Gate], the tenth quest in the introductory chain. If you try to come here before you do the \"shoot-em-up and rescue the lost\" quest on the dragonhawk, you will be auto-ported back into the main area. Completing [TheGate] bot unlocks this objective AND unlocks the area so you can get to the objective zone.",
 },
 
-[88942] = {
-  "8894218080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[90851] = {
+  "9085118080NPCUnknown0NPCUnknown00",
+  "Wowhead050Just in case you were confused like I was, you can see this quest inside the Shadowguard Point delve but you cannot complete it in the delve, it is completed on the outside.",
 },
 
-[88945] = {
-  "8894518080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[90852] = {
+  "9085218080NPCUnknown0NPCUnknown00",
+  "Wowhead050Pick up a barrel. Big button to throw it at a prisoner.",
+  "Wowhead050Can I free a caged betrayer without a crackling energy vessel? No? Then why in the name of all that is holy is \"crackling energy vessel collected\" marked as optional? Is there anybody at Blizzard even capable of understanding English? Stop putting an \"optional\" behind things that are very much mandatory!",
 },
 
-[88947] = {
-  "8894718080NPCUnknown0NPCUnknown00",
+[90853] = {
+  "9085318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88976] = {
-  "8897618080NPCUnknown0NPCUnknown00",
+[90855] = {
+  "9085518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88977] = {
-  "8897718080NPCUnknown0NPCUnknown00",
-  "Wowhead050Western Sanctum: / way 41 38",
-  "Wowhead050Quest objective for this one doesn't show on map, and using the item doesn't respond, until you walk into the building. Once in the building I could use the item, it gives a buff. Then walk outside and you will see the quest markers on the map. Talk to 3 groups, and quest marker to complete will show on NPC, but the quest tracking will still show 0/ 1.",
-  "Wowhead050Important to note, after finishing this quest WAIT for the speaking to be done. You will get another quest a short distance away. Follow the NPCs. Editing to add what @faepoa said below / way 38.50, 39.58 if you end up afk or what not . Last edited by Maddiekins on 2026/03/10 (Patch 12.0.1)",
-  "Wowhead050Go outside the building. The 3 yellow dots should show now outside. Talk to ghosts at each to get credit.",
-  "Wowhead050For some reason you can pick this quest up, out of sequence from Second Time's A Choice, which you need, which disappears when you pick up Reenact the Crime. If you've picked them out out-of-sequence: Drop the quest Reenact the Crime. Go pick up Second Time's a Choice. Return to Magister Meledor, turn it in. NOW pick up Reenact the Crime. Walk into the building at 40,38. Click Arcane Timepiece (in your bag). You have a 10m buff to investigate. All three are outside, and will likely be marked on the mini-map. (They're frozen/ blue-coloured humanoid figures.) Click each one. (There are 3.) NPC will be at 39,39 to complete. For the follow-up quest, wait for dialogue to end from the NPC and pick up at 38.5, 39.6. Last edited by Hollyleaves on 2026/03/04 (Patch 12.0.1)",
-  "Wowhead050Turns out I had this quest but it wasnt being tracked, so give your quest log a second look",
-},
-
-[88978] = {
-  "8897818080NPCUnknown0NPCUnknown00",
+[90856] = {
+  "9085618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88979] = {
-  "8897918080NPCUnknown0NPCUnknown00",
-  "Wowhead050Caught red-handed quest giver is at 38.53, 39.60",
-  "Wowhead050I love the interactions between Meledor and Vardis during the quest chain! Pure comedy! Last edited by Tanidor on 2026/03/08 (Patch 12.0.1)",
+[90857] = {
+  "9085718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No comments scraped yet.",
 },
 
-[88985] = {
-  "8898518080NPCUnknown0NPCUnknown00",
-  "Wowhead050I am not sure if this quest is still available...? I went to try to go pick it up but the npc: Torundo is nowhere to be found. Woodcrafter Azai does not offer this quest. Last edited by Chardinary on 2026/02/27 (Patch 12.0.1)",
-  "Wowhead050I was able to pick this up party syncing with a friend that just started the Zul'Aman campaign. He was on \"Isolation\" in the chain when we synced up. Hope this helps everyone else!",
-  "Wowhead050Just go do Blind the Bandits if you are following a guide and this quest is not available. Needed for Sawdust to Sawdust / Sojourner of Zul'Aman .",
-  "Wowhead050Breadcrumb quest for the Sawdust to Sawdust storyline. Given by Torundo the Grizzled .",
-  "Wowhead050Can't find the quest giver. Have completed all the main story-line quests for Zul'Aman and logged out/ back in. Level 85.",
-  "Wowhead050i have completed Sojourner of Zul'Aman without this quest showing up for me,",
-  "Wowhead050Torundo the Grizzled was waiting inside the hut for me at 45, 65 with this breadcrumb quest. He was only visible after I completed the campaign intro quests for this zone up to Heart of the Amani . Pick up this breadcrumb and complete it before doing more of the campaign or he will no longer be inside the hut and it will no longer be available. Happy questing!",
-  "Wowhead050I'm level 90 and the quest wasnt showing up for me to complet the Sawdust to Sawdust achievement. But their is a short questline in the upper right at Temple of Halazzi, here i have completed the last achievement :)",
-  "Wowhead050Hi , for the Sojourner of Zul'Aman achievement , no need to do this quest ( i think it got removed or sth) if you did all and stuck on the Sawdust to Sawdust part >>> there is a npc with 4 quests starting with the Blind the Bandits, Salvaged Sabotage, The Artisan's Apprentice and the Another One Bites the Sawdust , after these you'll get the achieve(personal experience) coordinates : Zul'Aman 28,26",
-  "Wowhead050Seems this quest no longer exists in the live release of the game, or perhaps is bugged and not showing. It's simply meant to be a bread crumb quest to Woodcrafter Azai , who is there with the quests available to begin the Sawdust to Sawdust Storyline.",
-  "Wowhead050The quest is still available in game but it may be tricky to get due to phasing I've got it on my main after completing the campaign quest Left in the Shadows After turning it in, go back in the main hall of Amani'Zar Village and Torundo the Grizzled should be there with the quest",
-  "Wowhead050Next quest in the chain is Blind the Bandits .",
-  "Wowhead050Requires the completion of the quest Left in the Shadows to spawn Torundo in the hut in addition to level 83 or the Midnight account-wide achievement.",
+[90858] = {
+  "9085818080NPCUnknown0NPCUnknown00",
+  "Wowhead050This is a HELL of a lot of work for a measly reputation as a reward...",
+  "Wowhead050One of the most tedious, stupid quests EVER put in the game. This kind of stuff makes me want to quit WoW.",
+  "Wowhead050Finding pipes to break is the best progress but there aren't very many. Last edited by ryan92084 on 2026/04/14 (Patch 12.0.1)",
 },
 
-[88986] = {
-  "8898618080NPCUnknown0NPCUnknown00",
+[90859] = {
+  "9085918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88987] = {
-  "8898718080NPCUnknown0NPCUnknown00",
+[90860] = {
+  "9086018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
-},
-
-[88988] = {
-  "8898818080NPCUnknown0NPCUnknown00",
-  "Wowhead050You apply the oil via an extra action button - target the bench where the spear is lying. Yes, it makes no sense since all of the other interactions were simple clicks.",
 },
 
-[88989] = {
-  "8898918080NPCUnknown0NPCUnknown00",
+[90861] = {
+  "9086118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88992] = {
-  "8899218080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[90862] = {
+  "9086218080NPCUnknown0NPCUnknown00",
+  "Wowhead050Run through the blue stuff to reach her.",
 },
 
-[88993] = {
-  "8899318080NPCUnknown0NPCUnknown00",
+[90863] = {
+  "9086318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88994] = {
-  "8899418080NPCUnknown0NPCUnknown00",
+[90864] = {
+  "9086418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88995] = {
-  "8899518080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[90866] = {
+  "9086618080NPCUnknown0NPCUnknown00",
+  "Wowhead050The entrance to the underground hole/ cave thing is at / way 40.2 49.1",
+  "Wowhead050This quest has unique dialogue and descriptions for draenei. Main quest text: I must return my people to our world. To safety. Below, we've cobbled together a portal nexus with what we've scavenged from the domanaar, but we have not been able to get it to work. However, I witnessed a magical reaction when an argument between two krokul came to blows. It flickered to life, briefly. Like everything else of the Void, I believe domanaar magic resonates with violence. Bring me blood from the beasts of the trench to the north. I have an idea. <She shows her fangs in a playful snarl before pantomiming a claw swipe.> Beasts. You remember those from Argus, don't you? Or are you too young?",
+  "Wowhead050I am sure some of them if not all, are Eredar! Lots of fel colored eyes in that cave.",
+  "Wowhead050Isnt it strange how I can understand Velen and every Eredar and Lightforge Draenei on Argus but not these guys?",
 },
 
-[88996] = {
-  "8899618080NPCUnknown0NPCUnknown00",
+[90867] = {
+  "9086718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88997] = {
-  "8899718080NPCUnknown0NPCUnknown00",
+[90869] = {
+  "9086918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88998] = {
-  "8899818080NPCUnknown0NPCUnknown00",
+[90870] = {
+  "9087018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[88999] = {
-  "8899918080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[90871] = {
+  "9087118080NPCUnknown0NPCUnknown00",
+  "Wowhead050Wasn't marked on my map for some reason, and of the course the quest text is absolutely zero help as per usual. / way 39.75 87.26 1st flame (2nd story platform) / way 41.44 86.43 2nd flame (3rd story platform) / way 41.19 88.68 Silversun Compact (inside building)",
 },
 
-[89012] = {
-  "8901218080NPCUnknown0NPCUnknown00",
+[90872] = {
+  "9087218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89016] = {
-  "8901618080NPCUnknown0NPCUnknown00",
-  "Wowhead050NOTE: It seems Blizzard got their stuff together and finally fixed it so you can view the rep from the rep window, outside the raid. I will, however, leave the below info for historical purposes, as there is still some helpful info there. Outside of making the below macro, the alternative was viewing the rep from the Dungeon/ Adventure Journal for the raid. The quest giver is inside the raid. As soon as you zone in, take the stairs going up and to the left. For me, all I had to do was talk to Paula Piranha , click the quest in the dialog window, then click the button to complete the quest. It should be known that you can obtain rep within the raid, without completing this quest. However, you will not be able to view the renown track until you complete this quest. NOTE: To view the renown rep track normally (without a script to pull up the UI window), you need to be in the raid. Once you're inside the raid, you can either talk to Paula Piranha, OR you can open your reputation window (default key binding is U), find the Gallagio Loyalty Rewards Club rep, then click it. This will open up a side window to the right, where you'll then see a \"View Renown\" button you can click. However, there is a script you can run either manually, or through a macro, which allows you to pull up the UI without needing to be in the raid. You can see the script at the end of this comment. Please note that this is not my script, but posting it here for visibility. I found the script here: Gallagio Loyalty Rewards Club , by user Forbizzle. Please navigate over there and give them an upvote. / run if (not MajorFactionRenownFrame) then MajorFactions_LoadUI(); end HideUIPanel(MajorFactionRenownFrame) MajorFactionRenownFrame:SetMajorFaction(2685) ShowUIPanel(MajorFactionRenownFrame) Last edited by eldiin on 2025/05/20 (Patch 11.1.5)",
+[90873] = {
+  "9087318080NPCUnknown0NPCUnknown00",
+  "Wowhead050This quest has unique text for draenei. Main quest text: The domanaar capture us and others across worlds and force us to fight for their amusement. Their fascination with mortals is equal only to their sadism. I was able to improvise a device from a combination of my magic and the pure chaos of this world and use it to escape. It breaks shackles, both those literal and metaphysical. Using it just once takes a lot out of me. <Tul'amar produces the relic and then spends as much of her arcane energy into the device as she can to charge it. She gulps for air with ragged breaths from the effort.> Free our kin and disrupt the gates they used to steal us to this world. I won't let anyone else be left behind. Never again. Turn in text: <Tul'amar nods to the freed draenei hiding behind her.> When we fight, it's on our terms.",
+  "Wowhead050Just a warning, the quest item to free the npcs is not useable till level 86.",
+  "Wowhead050You need to use the item \"Relic of Liberation\" on the Masters Prospect to free them. Unfortunately wow doesn't provide the item in your quest log to easily click on.",
+  "Wowhead050This quest \"These Violent Delights\" and their companion quest \"Their Violent Ends\" are an homage to the HBO series Westworld , where the phrase \"these violent delights have violent ends\" was a big part of the narrative during the first season. Very cool.",
+  "Wowhead050These violent delights have violent ends",
 },
 
-[89018] = {
-  "8901818080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[90874] = {
+  "9087418080NPCUnknown0NPCUnknown00",
+  "Wowhead050This quest has unique text for draenei. Main quest text: <Tul'amar reaches into a pouch on her hip and retrieves a cracked stone of domanaar make.> The voidwalkers carry these, I've been able to use them as spell reagents, and they were helpful for my initial construction of the portal nexus. I presume that they'll help me attune it to our world. Besides that, they deserve death at your hands. Our suffering is their delight. Repay them the favor. Turn in text: They want violence? You gave them violence. I savored the sight of it. Those runes look potent. That many should be enough.",
+  "Wowhead050This quest \"Their Violent Ends\" and their companion quest \"These Violent Delights\" are an homage to the HBO series Westworld , where the phrase \"these violent delights have violent ends\" was a big part of the narrative during the first season. Very cool.",
 },
 
-[89019] = {
-  "8901918080NPCUnknown0NPCUnknown00",
+[90875] = {
+  "9087518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89020] = {
-  "8902018080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[90876] = {
+  "9087618080NPCUnknown0NPCUnknown00",
+  "Wowhead050If we wouldnt have joined them in this warehouse, they wouldve swapped more than just kindness and pleasantries.",
+  "Wowhead050Either Umbric is talking about himself in the third person (unlikely), or the text should have said Rommath.",
+  "Wowhead050Blizz is going for the enemies-to-lovers trope, huh?",
 },
 
-[89021] = {
-  "8902118080NPCUnknown0NPCUnknown00",
+[90877] = {
+  "9087718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89022] = {
-  "8902218080NPCUnknown0NPCUnknown00",
+[90878] = {
+  "9087818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89023] = {
-  "8902318080NPCUnknown0NPCUnknown00",
+[90879] = {
+  "9087918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89024] = {
-  "8902418080NPCUnknown0NPCUnknown00",
+[90880] = {
+  "9088018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89025] = {
-  "8902518080NPCUnknown0NPCUnknown00",
+[90881] = {
+  "9088118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89026] = {
-  "8902618080NPCUnknown0NPCUnknown00",
+[90882] = {
+  "9088218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89027] = {
-  "8902718080NPCUnknown0NPCUnknown00",
-  "Wowhead050Available at Gallagio Loyalty Rewards Club Renown level 2.",
-  "Wowhead050Why is this the only freaking quest that I've ever accepted-finished without reading, and the full text isn't on WoWHead ?",
+[90883] = {
+  "9088318080NPCUnknown0NPCUnknown00",
+  "Wowhead050Hey, fellow druids who happen to be doing this quest (and maybe/ possibly dracthyr?), Maybe this goes without saying, but learn from my mistake - don't use flight form (or soar, I'm assuming); actually mount up on a mount.",
+  "Wowhead050If you’re horde, you’ll be speaking to Thrall for this quest. Alliance will speak to Lady Jaina Proudmoore . The game might tell you where to find your mounts at, and how to place them onto your actionbar in order to use and mount them, even if you’re a seasoned pro at this point. Having pre-purchased the World of Warcraft: Midnight Epic Edition expansion, I acquired three new mounts, and it’s been a good long while since I booted WoW up so…the refresher is kinda nice for someone like me. I had a problem though. The prompt to mount up by clicking the ability icon showed up, but when I mounted, it didn’t go away. I had to look up what the problem was and I believe the game wants you to activate Switch Flight Style . That way when you mount up, it’ll then prompt you to hit the keybinds for jump, twice. Hitting jump again will make you then fly higher. And then there’s the surge forward button. And steering. And landing. You know. The basics. Land close to Bruvk and hand in the quest.",
 },
 
-[89028] = {
-  "8902818080NPCUnknown0NPCUnknown00",
+[90884] = {
+  "9088418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89029] = {
-  "8902918080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[90885] = {
+  "9088518080NPCUnknown0NPCUnknown00",
+  "Wowhead050Speak with Farmer Bruvk to accept this quest. Once accepted, you’ve got an orc grunt that follows you. They’ll carry all those pumpkins so you don’t break a sweat killing enemies and carrying the weight of four pumpkins on your back. Orcs were made for that kind of stuff. Unless your character is an orc, then maybe you’re just too weak to carry the pumpkins. Either way, the pumpkins are sparce within the field, coveted by kobolds, but you should be able to find enough of them in a short amount of time. I think their respawn is pretty timely. Once your helper is carrying all four pumpkins, return to Thrall .",
 },
 
-[89032] = {
-  "8903218080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[90886] = {
+  "9088618080NPCUnknown0NPCUnknown00",
+  "Wowhead050Speak with Thrall for this quest. Head into the Go’Shek Farm and start killing any of the Kobold Pillager and Ogre Destroyer for their poorly written plans, which is either making fun of them for not being able to write that well, or for making terrible plans to begin with. I believe the plans are a 100% drop rate, but if not, then it’s a pretty darn high drop rate. You might also be able to find a Stuck Ogre. Apparently they’re too large to fit through a household doorway and get stuck. If you help pull them out, they’ll give you one of their plans as a thanks. After acquiring all seven, get back with Thrall .",
 },
 
-[89034] = {
-  "8903418080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[90887] = {
+  "9088718080NPCUnknown0NPCUnknown00",
+  "Wowhead050This quest is supposed to award a class-specific chest slot item and cape. However, after playing through the catch-up chain on all classes I found that the quest is bugged and fails to award the chest slot item to mages, priests, warlocks or shaman.",
+  "Wowhead050If you are from Sweden you know why you came here........... Best villain name in game, period.",
+  "Wowhead050Speak with Lady Jaina Proudmoore to initiate the quest. The first building on the right of Go’Shek Farm is where you’ll find Runk . If he’s not there, just wait a moment for his respawn. Runk isn’t a runt. He’s quite large, though not an elite, so an easy enough kill. I’m amazed he even got in there in the first place, but I’ll bet he can easily come out and clobber you if you’re a ranged class. Then again, Runk is also a magic user, so you might try interrupting his spells when given the chance. Speak with Lady Jaina again to turn in the quest.",
 },
 
-[89035] = {
-  "8903518080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[90888] = {
+  "9088818080NPCUnknown0NPCUnknown00",
+  "Wowhead050Note that the quest NPCs are up on the archway above the entrance to the keep. Not on ground level. .. . Don't be me, and run around like an idiot searching and not looking up until 5 minutes later. Last edited by Zathriam on 2025/12/05 (Patch 11.2.7)",
+  "Wowhead050You pick this quest up from Lady Jaina Proudmoore . You’re basically just going to be mounting up and traveling over to where Stromgarde Keep is, not Stormgarde Keep, in case you’re dyslexic. My quest marker wasn’t showing me where I needed to go at first, it was pointing somewhere way off the map, so if it does the same for you, just know you’re heading to the west side of Arathi Highlands. You’ll speak with Lady Jaina again on top of the front wall.",
 },
 
-[89065] = {
-  "8906518080NPCUnknown0NPCUnknown00",
-  "Wowhead050This is not my info. I pulled this info from comments over at Brokers Don't Care How You Win (thanks TheBigDeeb and Elodeon). I am posting this info here to help others, who are looking to complete this for the Brokers Don't Care How You Win achievement. This quest can be completed in the Untethered Space. For those who don't have some form of travel form or just really want to blow this achievement out of the water, this can be done easily by geting yourself some Untethered Xy'bucha . These need to be looted in the Untethered Space, which have been known to show up at the following locations: / way 49.67 17.05 Untethered Xy'bucha / way 49.65 26.65 Untethered Xy'bucha / way 50.74 58.45 Untethered Xy'bucha / way 53.75 45.37 Untethered Xy'bucha / way 54.81 48.18 Untethered Xy'bucha / way 61.33 39.11 Untethered Xy'bucha / way 80.35 48.69 Untethered Xy'bucha Once you have one, go back to the eco-dome and pick up the quest. Head on over to where you need to start the quest. Before you start the race, drink your Untethered Xy'bucha. Once done, start the challenging version of the race and then you can do 1 of two things: 1. Run through all the arrows to the end 2. Run straight to the end, ignoring the arrows. The end can be found here: / way #2371 74.36, 27.51 ALTERNATE STRAT It should be noted that the Untethered Xy'bucha is NOT needed to get this achievement. You CAN just run to the end without it, picking up speed boosts as you see fit. Either strategy works. Pick one and have fun! Last edited by eldiin on 2025/11/24 (Patch 11.2.5)",
-  "Wowhead050It is all in the name \"Brokers don't care how you win\". You can go straight to the finish line skipping all of the boots to win this race and get achievement credit.",
-  "Wowhead050Used the same strat on this one as for the other race quest and the achieve didn't pop. Will report back after some alt tries... EDIT: Not sure why it didn't work the first time (monk), but went again even more directly on a priest and got the achieve Last edited by Mehet on 2025/09/16 (Patch 11.2.0)",
-  "Wowhead050Credit for the achievement will pop up BEFORE you turn in the quest. It triggers upon race completion, not quest turn-in.",
-  "Wowhead050Hug the wall to the right once the race starts, I did it on a Havoc DH. Fel Rushed when it was up, Meta'd at the end, voila. Achiev done. You don't have to touch a single boot - just like in the name, Brokers don't care if you cheat lol!",
-  "Wowhead050Hi. I'm trying to do achievement with it, could someone tell me, is this quest weekly?/ bi-weekly? I don't see it since 2 weeks on any of my alts or main. I did simmiliar quest in main Ka'resh campaign but on normal difficulty i think. I didn't know it will be a problem to be at end-game achievement Brokers Don't Care How You Win . Any advices please? Thanks in advance and greetngs to all Azeroth Players Last edited by Yashin0301 on 2025/09/13 (Patch 11.2.0)",
-  "Wowhead050Been waiting a month for this to pop on EU Edit : IT'S UP EU 01.03.26 Last edited by Bouzybaa on 2026/02/28 (Patch 12.0.1)",
-  "Wowhead050You can also cheese this by using Gunshoes and hugging the right hand wall all the way to the finish line Last edited by rexy2g on 2025/09/17 (Patch 11.2.0)",
-  "Wowhead050Still waiting for this quest",
-  "Wowhead050The Necroray cheats by starting running when countdown is at 3 ; then, I arrived first and it didn't count for the achievement ?",
-  "Wowhead050As warlock, it's pretty easy. Just use Burning Rush and run straight up to the end. Prepare a cookie before, to heal and get more time for Burning Rush. Also, you can prepare a Demonic Gateway on the way.",
-  "Wowhead050Haven't heard of it being seen since the new year and with 1 week until early access starts for midnight. Have seen others of the repeatable quests multiple times by now though! :) EDIT: As of the last reset before early access launches, it didn't show up :'( EDIT 2: Finally up! Looks like it has been up for most of the weekend through to the first reset of midnight Last edited by Flooffy on 2026/03/03 (Patch 12.0.1)",
-  "Wowhead050Missed it once, and now I’ve been waiting for weeks. No quest. Come on, Blizzard! 😄",
-  "Wowhead050This is up now in NA. 1/ 16/ 26",
-  "Wowhead050oh my god I missed it. what a b*llsh*t design. Ive been checking these dudes for 3 months now, trying to hit it twice a week. feelsbadman",
+[90889] = {
+  "9088918080NPCUnknown0NPCUnknown00",
+  "Wowhead050The final stage takes place up a ramp you probably ran past and didn't notice because of all the visual effects. Back track and you'll see it on the left.",
+  "Wowhead050You have to collect ALL the paint splotches on the upper floor with your extra action button. Once you've collected them all walk over to the cauldron with the highlighted NPC.",
+  "Wowhead050Oh wow yeah you were right",
 },
 
-[89193] = {
-  "8919318080NPCUnknown0NPCUnknown00",
+[90890] = {
+  "9089018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89195] = {
-  "8919518080NPCUnknown0NPCUnknown00",
+[90891] = {
+  "9089118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89199] = {
-  "8919918080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[90892] = {
+  "9089218080NPCUnknown0NPCUnknown00",
+  "Wowhead050I had this complete and \"ready to turn in\" but couldn't see any way to do that until I untracked several other quests, which allowed this quest to show up in the All Objectives / Quests UI. At that point I could just click it and turn it in. No need to abandon it.",
+  "Wowhead050You're basically just looking for demons flying around the broken isles that you run through while skyriding. They should have yellow names, and for a while they had green circles around them, I don't know why they stopped for me, could be a bug.",
+  "Wowhead050Quest log on your screen, click the quest itself - not in the actual log with the map. Once you click the quest, it will open the window to allow you to complete the quest. You don't have to be in any particular place. Clicking in the quest log attached to the map won't do anything.",
+  "Wowhead050Loads found around Suramar City, higher areas and lower. Green circles around them to help identify :) / way 49.03, 70.66",
+  "Wowhead050If you cleared all the quests from your \"All Objectives\" list and you still don't see this quest or a way to turn it in, don't panic or abandon the quest. You or the game might have untracked it. Just open the quest in your log book, click \"Track\" and the option to complete it will appear under \"All Objectives\" once again.",
+  "Wowhead050During the quest the flying demons will be highlighted and have a circle around them, after completion this effect is removed. You can speak to Sky Hunter Perennius on the Legion Remix Dalaran platform to reenable the highlight/ circle after completion of this quest.",
+  "Wowhead050Can't locate where to turn this quest in weirdly Edit: I abandoned it, received it again and then the quest once complete was able to be completed inside of itself without needing a turn in npc. Last edited by waax on 2025/10/09 (Patch 11.2.5)",
+  "Wowhead050The real place to farm this is Felsoul Hold and the fields just to the north of it. West of Suramar city.",
 },
 
-[89200] = {
-  "8920018080NPCUnknown0NPCUnknown00",
-  "Wowhead050Click on the Warded Condult, then click on it again and it will take you to the location of the next. Fight mobs as well.",
-  "Wowhead050Dawnblaze? Blackmail? The info here is split between quest text and in-game dialogue, so pay attention to speech bubbles/ chat if you want to follow the story. As I was saying, the wardsmiths are led by Magister Dawnblaze. She inherited the vacant seat following the war but has proven inadequate since then. She does not adapt to the new challenges the sin'dorei face. That is why I proffered myself to take her seat. She has fabricated blackmail against me in an attempt to prevent this. You can see how this is a great injustice. Last edited by jedijesse on 2026/02/27 (Patch 12.0.1)",
-  "Wowhead050On the final platform, there should be an image of Magister Aradis, if the's not there, abandon and pick it back up from 53.32 Last edited by ldene on 2026/02/28 (Patch 12.0.1)",
-  "Wowhead050You don't have to kill the last orb guardian. you can die and fly back to your corpse and turn in the quest. you get credit even if you die on the last guardian",
+[90893] = {
+  "9089318080NPCUnknown0NPCUnknown00",
+  "Wowhead050You acquire this quest from Thrall . For this quest, you’ll notice there’s a bar that needs to be filled up. There are several different ways to increase the bar to 100%. The first is to interact with the catapult supplies in the area. This is one of the easiest things to do as long as no enemies are nearby and increases the bar by 8%. The other three ways are to defeat the enemies scattered about. Ogre Bashers will give a 7% increase to the bar. Gnoll Biters give 4%. The Ettin Crushers are elite mobs and give a whopping 25%, so clearly, you know what to aim for. Just know that they do take longer to kill than the normal mobs, and also hit harder. There may be other enemies, and if there are, I didn’t attack them. Once you’ve hit 100%, turn in the quest to Thrall just outside Ar’gorok.",
 },
 
-[89201] = {
-  "8920118080NPCUnknown0NPCUnknown00",
-  "Wowhead050Just stand by the door/ portal and a spell button will appear on the screen.",
-  "Wowhead050Of course the circle by the door does not appear immediately appear giving you at least a clue as to what needs to be done. No, No. Blizzard is their wisdom delays that circle just long enoughso you go back to the table and click on it wondering what the heck to do as the quest text itself gives you next to zero info on what you needs to. It says what you need to do ....but not how. So then you come here and waste 5 min on a quest that is easy but made hard by lack of info on what you need to do",
-  "Wowhead050If she bugs out and you can't turn in the quest, leave the area and return.",
-  "Wowhead050Why yes, there IS a huge hole (two, actually) in the floor on the right when you enter the building. Sadly, you can't get through it, but you can make yourself small enough to x-ray the world a bit.",
+[90895] = {
+  "9089518080NPCUnknown0NPCUnknown00",
+  "Wowhead050Obtain this quest from Lady Jaina Proudmoore . Up ahead is an area that's patrolled by ogres and ettins, which might actually cause you some grief if you get into combat with them, due to them being elite. Perhaps they won't end you, but it might take some time to end them, depending. There are catapults within this area, and you'll need to destroy all four of them. Return to Lady Jaina for the quest hand-in, only this time she's just outside Ar'gorok.",
 },
 
-[89202] = {
-  "8920218080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[90896] = {
+  "9089618080NPCUnknown0NPCUnknown00",
+  "Wowhead050This quest is supposed to award a class-specific shoulder slot item and helm. However, after playing through the catch-up chain on all classes I found that the quest is bugged and fails to award the shoulder slot item to warlocks.",
+  "Wowhead050Speak with Thrall to accept this quest. Head into Ar’gorok where a bunch of ogres that should be guarding the area are frozen in chunks of ice. Clearly a frost mage’s handiwork. Ro’grok will be in the tall, important looking center building, where two chunks of ice preside. He does cast every once in a while, as well as melee attack, so interrupting his casts might benefit you. One of those casts is Shadow Bolt, while the other is Desecrate, where he targets a circular area on the ground that you’ll need to move out of. Otherwise, he’s fairly easy to defeat. Not an elite or anything. When you’ve downed him, speak with Thrall .",
 },
 
-[89203] = {
-  "8920318080NPCUnknown0NPCUnknown00",
+[90897] = {
+  "9089718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89204] = {
-  "8920418080NPCUnknown0NPCUnknown00",
-  "Wowhead050I was seen by one of the brooms and was caught off guard with the Metal gear solid sound (!) of being noticed. Last edited by GimEU on 2026/02/27 (Patch 12.0.1)",
-  "Wowhead050The Basket of Spell Reagents is upstairs!",
-  "Wowhead050Amusingly, one of the glove upgrades you ask Lendranil for is a stat that doesn't exist anymore. His specialist probably lives in Classic Anniversary.",
-  "Wowhead050I've never seen a rock in my life. Please tell me everything you know. lmao if I ever meet a geologist I'm going to say this, simply to see their reaction",
-  "Wowhead050To turn the quest in, he's in the building at 50.59, 59.53 . Once inside, go up the ramp to the little platform.",
-  "Wowhead050\"...so with the spider legs, viscous fluids and random pebbles included, this would be your itemized list. Pleasure doing business with you.\" Lothene deserves Customer service award of the year for his excellent lying skills",
-  "Wowhead050Chapeau bas Blizzard, chapeau bas",
-  "Wowhead050On completion I also get the sentence- Maybe I can return the favour one day. You look like you've got some good tricks. Rogue thing?",
-  "Wowhead050Ahh the mention of spell penetration... I miss the old days when we had a lot of stat options.",
+[90898] = {
+  "9089818080NPCUnknown0NPCUnknown00",
+  "Wowhead050\"and without a surprise portal or two.\" LOL, even Thrall knows the videogame tropes. :-)",
 },
 
-[89205] = {
-  "8920518080NPCUnknown0NPCUnknown00",
-  "Wowhead050If you're a warlock, he has the additional line \"You can probably relate.\" after he says \"...if anyone hates sloppy ones, it's him.\"",
+[90899] = {
+  "9089918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No comments scraped yet.",
 },
 
-[89206] = {
-  "8920618080NPCUnknown0NPCUnknown00",
+[90900] = {
+  "9090018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89207] = {
-  "8920718080NPCUnknown0NPCUnknown00",
-  "Wowhead050Not sure if anyone else had this experience, but for a levelling quest, Magister Aradis was ridiculously OP. Continuously lobbed Chaos Bolts that landed like a truck. When he wasn't casting a curse or bolt, he was giving himself a nice shield. Unless you have various interrupts on short cooldowns, he effortlessly casts on you until you run out of mana, no time for cooldowns to reset, and he seemed to have almost 3 times the hp I did at the same level.",
-  "Wowhead050He has a lot of health, took me some time to down him as a blood DK. Then I saw crumpled letter near Sarvi's dead body, realizing he had lured and killed her at least in part because we, as a player character, failed his mission. I stayed a bit more and killed that scum Aradis 5 more times. Poor Sarvi, I was too late to save you, but I avenged you. Last edited by Moonie1056 on 2026/03/03 (Patch 12.0.1)",
-  "Wowhead050\"Meet me upstairs after you take whatever you want from his corpse\" You know me so well!",
-  "Wowhead050I had to switch to Preservation Evoker to defeat him",
-  "Wowhead050As an mage i spellstealed his shield when he cast it That way i had his armor. then its just a heal potion and use the Gift of the Naaru healing effect once. Remember to Keep your own spell shield up all the fight. and spellsteal his shield. Last edited by Grothrill 2 days ago (Patch 12.0.5)",
+[90901] = {
+  "9090118080NPCUnknown0NPCUnknown00",
+  "Wowhead050No comments scraped yet.",
 },
 
-[89208] = {
-  "8920818080NPCUnknown0NPCUnknown00",
+[90903] = {
+  "9090318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89224] = {
-  "8922418080NPCUnknown0NPCUnknown00",
+[90904] = {
+  "9090418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89229] = {
-  "8922918080NPCUnknown0NPCUnknown00",
+[90905] = {
+  "9090518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89230] = {
-  "8923018080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[90907] = {
+  "9090718080NPCUnknown0NPCUnknown00",
+  "Wowhead050As of the beta the only difference between the two options is very minor dialogue change. Telling Lord Antenorian everything will lead him to say: \"A cult? That is a most serious accusation.\" Lying to him will lead him to say: \"Really? How very odd indeed.\" With both options he will then follow up by saying: \"I shall have it looked into. But I'm glad you're here - I need your assistance with something.\" And give you the quest Chance Meeting",
+  "Wowhead050Completing The First to Know quest on an alt does NOT reward another Majestic Lightwood Table, as of global release.",
+  "Wowhead050I failed to receive Majestic Lightwood Table as a first time award from The First to Know , it's not in my mail either.",
 },
 
-[89231] = {
-  "8923118080NPCUnknown0NPCUnknown00",
+[90908] = {
+  "9090818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89233] = {
-  "8923318080NPCUnknown0NPCUnknown00",
+[90909] = {
+  "9090918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89234] = {
-  "8923418080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[90910] = {
+  "9091018080NPCUnknown0NPCUnknown00",
+  "Wowhead050Lucia Nightbreaker / way 47.94, 78.55 She isn't in the cave but just outside of it. I wasted a lot of time looking for her inside the cave but I did find a treasure in the caves while I was searching. Last edited by Fluffnutter on 2026/03/18 (Patch 12.0.1)",
 },
 
-[89235] = {
-  "8923518080NPCUnknown0NPCUnknown00",
+[90911] = {
+  "9091118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89236] = {
-  "8923618080NPCUnknown0NPCUnknown00",
+[90912] = {
+  "9091218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
+},
+
+[90914] = {
+  "9091418080NPCUnknown0NPCUnknown00",
+  "Wowhead050The best spot to farm for these is at 55.36, 74.55. the mobs respawn back to back and I got all 15 in a couple minutes.",
+  "Wowhead050Best place I'm finding for this right now is around 62.7 64.1. Drop rate is still pretty crappy, but there are a lot of spawns.",
+  "Wowhead050I've been aggroing the flying jelly fish things by flying through them. Their drop rate is decent. Well decent for this quest, at least.",
 },
 
-[89245] = {
-  "8924518080NPCUnknown0NPCUnknown00",
+[90915] = {
+  "9091518080NPCUnknown0NPCUnknown00",
+  "Wowhead050Ok but where is my sword, Decimus?",
+  "Wowhead050Object locations: Void Flame – far left Bone Dust – left side of the table Crystallized Void – right side of the table Void Repository – in the containers to the right of the table How to complete the sequence: Follow Decimus’s instructions five times , clicking the correct item each time. After the fifth step, Decimus will ask you to collect Light Shards. The shards are located behind the setup at / way 50.94, 68.72 (your minimap will point you there). Return to / way 51.33, 68.67 Click the sword floating in the air to complete the task. Done.",
+  "Wowhead050If you jump up on the table, standing almost on top of the Crystallized Void, you will find you can reach all the different ingredients without needing to move.",
+  "Wowhead050I found out (the very hard way), that if I do NOT move between orders, clicking the objects stops working after the second or third time. It looks as if your clicking it, but nothing will \"fly\" towards the dagger and it will fail. As soon as I startet moving a few steps inbetween, it worked immediately. There is more time to get to and click the items than one thinks. All in my opinion :)",
+  "Wowhead050The way I finished this quest after getting multiple fails over and over. I found out don't liston through your headphones. Read the instruction in the comment section and it will be easy.",
+},
+
+[90916] = {
+  "9091618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89249] = {
-  "8924918080NPCUnknown0NPCUnknown00",
+[90917] = {
+  "9091718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89250] = {
-  "8925018080NPCUnknown0NPCUnknown00",
+[90918] = {
+  "9091818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89251] = {
-  "8925118080NPCUnknown0NPCUnknown00",
-  "Wowhead050Comes from Renowned 12 (The Professionals IV) with Gallagio rep. The guy is under the stairs underneath quartermaster. Last edited by necrotoxin on 2025/05/14 (Patch 11.1.5)",
-  "Wowhead050In case you're wondering what this \"quest\" is good for: Check your buff bar! When inside the LoU raid instance, you automatically get the Incontinental Hot Sauce buff.",
-  "Wowhead050Available at Gallagio Loyalty Rewards Club Renown level 12.",
+[90919] = {
+  "9091918080NPCUnknown0NPCUnknown00",
+  "Wowhead050Don't be daft like me and expect him to be inside the instance with the same name.. He's outside in a small cave/ room at about / way 63.5 59.3",
 },
 
-[89252] = {
-  "8925218080NPCUnknown0NPCUnknown00",
-  "Wowhead050Available at Gallagio Loyalty Rewards Club Renown level 5.",
+[90920] = {
+  "9092018080NPCUnknown0NPCUnknown00",
+  "Wowhead050Doing this quest for the first time, and I'm on my Forsaken. Came here to find out if any other races got \"Tell Decimus your favorite food is the flesh of a fresh corpse.\" Guess I'll come back in a bit to check on additional comments.",
+  "Wowhead050Am I the only one who answered these with the truth about myself?",
+  "Wowhead050Did this quest a handful of times on a Void Elf Hunter and nothing specific came up, but it looks like the only real changes to the dialogue come with saying you like \"something else\" to the first question and he confuses it with an actual item and his reply changes, he just assumes you like pastries. I don't see much difference for the 2nd question, but there's a variation of the last one when you lie about having no regrets, he doesn't believe you. EDIT: it looks like your answers impact the next few quests in a minor way - there was fruit for me and shades to kill. I'm wondering if there is spiders or cake as a variant. Last edited by Nordrassil1 on 2026/03/14 (Patch 12.0.1)",
+  "Wowhead050It seems as if the answers here will effect 1. What shows up in the void pools to eat and 2. What the ghosts say to you in the next part",
+  "Wowhead050When I answered 'Lie' for the last two, the quest didn't complete and I had to do the whole conversation over again.",
 },
 
-[89253] = {
-  "8925318080NPCUnknown0NPCUnknown00",
+[90921] = {
+  "9092118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89255] = {
-  "8925518080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[90922] = {
+  "9092218080NPCUnknown0NPCUnknown00",
+  "Wowhead050Blizzard please. If you're gonna make a quest where we face shades of our regret, at least make them actually recognisable from the last 20+ years of questing we've done. If you're trying to do an Ultima Thule here, it is not working and very embarrasing.",
 },
 
-[89256] = {
-  "8925618080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[90923] = {
+  "9092318080NPCUnknown0NPCUnknown00",
+  "Wowhead050Spoiler: Optional: Blade infused with more Unstable Light Reveal Spoiler Hide Spoiler Of course the void tries to betray you. Choosing to infuse the blade with light starts Decimus with half health in the fight during the next quest. Last edited by AeylaV on 2026/02/28 (Patch 12.0.1)",
+  "Wowhead050Make sure to look for small void balls and just gather those. Much quicker then killing mobs.",
+  "Wowhead050If you infuse the blade with light then Decimus says this when he starts to forge it: \"What--what have you done to the blade? Augh--!\"",
+  "Wowhead050To do the optional part of this quest, head to 54,44 and talk to the Fallen Defender",
+  "Wowhead050Find the \"Void Essence Fonts\" or something along those lines. Click it then you'll get a buff that allows you to run faster and slow fall. You can also see some very small glowing orbs, run and pick those up and it will increase your % way faster than killing mobs for 1-2% each",
+  "Wowhead050Look for the rare around 53, 62 if you too were confused why this craft a sword quest didn't give said sword... I guess the rare stole it out from under you right as you finished crafting it.",
+  "Wowhead050Look for void geysers, those will give you temporary buff that shows void balls, collect balls, repeat.",
+  "Wowhead050Love going through a long quest line to forge an amazing, ultimate void weapon that ends up being a generic, uncommon-quality thing that looks like a Blood Elf blade. Last edited by Ocyron on 2026/04/11 (Patch 12.0.1)",
+  "Wowhead050As a mage, the only option of a reward from this quest was... a green-quality off-hand item ._. So much for an overpowered weapon we just crafted....",
+  "Wowhead050The % for each kill is around 1-2% .... the \"fear\" is how long you spend doing this quest ....",
 },
 
-[89257] = {
-  "8925718080NPCUnknown0NPCUnknown00",
+[90924] = {
+  "9092418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89258] = {
-  "8925818080NPCUnknown0NPCUnknown00",
+[90925] = {
+  "9092518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89259] = {
-  "8925918080NPCUnknown0NPCUnknown00",
+[90926] = {
+  "9092618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89260] = {
-  "8926018080NPCUnknown0NPCUnknown00",
+[90927] = {
+  "9092718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89261] = {
-  "8926118080NPCUnknown0NPCUnknown00",
+[90928] = {
+  "9092818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89262] = {
-  "8926218080NPCUnknown0NPCUnknown00",
+[90929] = {
+  "9092918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89267] = {
-  "8926718080NPCUnknown0NPCUnknown00",
+[90930] = {
+  "9093018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89268] = {
-  "8926818080NPCUnknown0NPCUnknown00",
+[90931] = {
+  "9093118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89271] = {
-  "8927118080NPCUnknown0NPCUnknown00",
+[90932] = {
+  "9093218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89289] = {
-  "8928918080NPCUnknown0NPCUnknown00",
-  "Wowhead050TL;DR - your choices here do not impact your character power and your decision here has no lasting consequences. Have fun! This is the setup quest for the Saltheril's Soiree weekly event, asking you to commit to an invitation to Saltheril's party that week for a representative of one of the four factions of the Silvermoon Court. Whichever faction/ representative you choose will impact your reputation with that faction, and others, either positively or negatively. All four factions will attend anyway, so the only real impact is the distribution of the reputation (important if you care about the cosmetic rewards), which NPC gives you the weekly event (only important for RP) and the form (not content) of the treasures you will see around Eversong this week (effectively also an RP choice). If you came here because you're worried about the negative reputation - don't be! It is very easy to immediately earn back the lost rep with the tokens you receive. My advice - simply choose the reputation which gives you an extra token , since each token is the equivalent of 100 extra reputation with a faction of your choice; or if you don't enjoy doing this event, you can just pick the one whose rewards (which are all cosmetic) you like the most. Note that the rewards for the four sub-factions are priced in Brimming Arcana which you receive from your Saltheril's Favor turn-ins and sometimes Moxie, but not Voidlight Marl like the normal rep rewards. If you are only here for your weekly - you do not need to do anything other than make a choice, turn in this quest, and complete Fortify the Runestones . The other quests and token turnins are exclusively for reputation (they also give arcana for your main quest, but you can group up and complete it with someone else who has it). You can complete the weekly on any runestone around Eversong, you do not need to use your own arcana, and you do not even have to be there for the whole event, just tag the final boss - I flew by the one near Runestone Falithas (in the middle between Goldenmist, Fairbreeze, and Suncrown Village) and saw another party doing it, joined them for the last boss, and received credit. Only a few runestones can be activated at a given time though, so if you drop down on one and wonder why it can't be activated (interacting will tell you that it is 'currently stable'), just go to a different one. This quest will reward you with three Saltheril's Favor tokens that you can use right after. In addition, inviting at least one specific guest (for me it was one last week, two this week) will award you with a fourth token. You can distribute each of these four tokens to the four representatives in any way you like - I did one to each, but based on the dialogue options I got, I believe you can give each of them as many tokens as you have. You do this by speaking with them and clicking the dialogue option, which will consume one token. This will unlock an extra quest with them, which will award you 100 reputation with their respective faction, as well as 25 Latent Arcana, 50 Brimming Arcana, and some gold (I also received 5 Adventurer Dawncrest when I turned in my first one). These are the NPCs you can speak with: Ranger-Captain Dawnfletch from the Farstriders is next to the stairs, at / way 42.9 46.4 Magistrix Bloodflame from the Magisters is next to the large statue near the stairs, at / way 42.6 26.15 Knight-Lord Sunguard from the Blood Knights is next to another large statue, just across from Bloodflame, at / way 42.4 46.7 Vyrin the Supplier from the Shades of the Row is under a large tree, a bit away from the others, at / way 42.8 45.6 The quests you receive are very old school (gather 10 X, kill 10 Y, etc) and can be completed very easily. I did not get the same 4 quests this week as I did last week, so I suppose there is a little bit of variety in terms of the exact objectives. The Arcana rewards you receive can then be used for your 'real' weekly quest, which you will receive from the NPC that you chose to invite (the quest is called 'Fortify the Runestones: [Faction Name]'). Fortify the Runestones is the 'big weekly' associated with the Silvermoon Court and will award you 2000 Silvermoon Court reputation, an extra 300 reputation with the faction you received it from, 150 Brimming Arcana, 25 Latent Arcana, and a pinnacle cache (which may be rare instead of epic for you if you've already collected two this reset). Turning in this quest will enable Latent Arcana treasures around Eversong. They will appear with a small blue icon on your map, like Ancient Mana in Suramar and will contain a small amount of Latent Arcana. Depending on which faction you choose, they will appear differently (as Ranger's Caches, Misplaced Tomes, Coalesced Light or Dead Drops) and presumably appear in different locations, but they're all over the zone so don't overthink it. I believe they may also be able to contain health potions and +1/ +2 profession knowledge items such as Aged Cruor but I haven't seen it. You also receive a bonus objective called Saltheril's Soiree which requires you to interact with a few (I believe 5) objects and/ or NPCs around the area. This might be on a daily reset as I've received it multiple times per week. Here are some I've found: / way 43 46.7 Unlit Lantern / way 42.6 46.9 Farstrider Arrow / way 42.9 46.3 Farstrider Arrow / way 42.6 47.5 Marked Card (upstairs) / way 42.5 47.4 Decorative Shield (upstairs) / way 42.5 47.6 Talenia Flamesong (inside, downstairs) / way 42.3 47.5 Runaway Tome (upstairs on balcony, but I've also seen them just under the balcony outside) I was also able to take a wine glass (they're all over) and give it to an Irritated Noble (there's also a few of them) for 20% progress Last edited by Effectrix on 2026/03/13 (Patch 12.0.1)",
-  "Wowhead050The reputation loss from this quest cannot take you below 0/ 500 Interloper, so there is no consequence for choosing an option with a reputation penalty for a faction you haven't started working on yet. Once you have reached Luminary rank with one of the factions, your reputation meter with that faction will lose its numerical counter, and you cannot be reduced below Luminary by any further reputation penalties. Since the factions are always awarded or penalized in pairs, the clear optimal strategy is to focus on either Magisters + Blood Knights or Farstriders + Shades of the Row, keeping the pair you choose first balanced until you reach Luminary with both, before beginning to work on the other two. Last edited by DraethDarkstar on 2026/04/14 (Patch 12.0.1)",
+[90933] = {
+  "9093318080NPCUnknown0NPCUnknown00",
+  "Wowhead050No comments scraped yet.",
 },
 
-[89293] = {
-  "8929318080NPCUnknown0NPCUnknown00",
+[90934] = {
+  "9093418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89294] = {
-  "8929418080NPCUnknown0NPCUnknown00",
+[90935] = {
+  "9093518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89295] = {
-  "8929518080NPCUnknown0NPCUnknown00",
+[90936] = {
+  "9093618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89310] = {
-  "8931018080NPCUnknown0NPCUnknown00",
+[90937] = {
+  "9093718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89323] = {
-  "8932318080NPCUnknown0NPCUnknown00",
-  "Wowhead050You have to / cancelaura Phase Diving To complete this quest (or click off Phase Diving)",
+[90938] = {
+  "9093818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No comments scraped yet.",
 },
 
-[89324] = {
-  "8932418080NPCUnknown0NPCUnknown00",
-  "Wowhead050Kill the sudafed officers in the circled area. Then construct additional pylons. Then touch the floating rock. Last edited by Ehayen on 2025/08/09 (Patch 11.2.0)",
-  "Wowhead050I had to logout/ login to complete the quest. i had all the keys but one even after i killed of the targeted mobs. after logout/ login the quest was completed",
-  "Wowhead050There is a mob that you will have to kill in the highlighted quest objective circle. There is a little bit of a respawn timer, so you might have to camp around to get the next respawn. My impatient self went immediately here, and then the mob target circle popped up. Happy hunting :)",
+[90939] = {
+  "9093918080NPCUnknown0NPCUnknown00",
+  "Wowhead050No comments scraped yet.",
 },
 
-[89325] = {
-  "8932518080NPCUnknown0NPCUnknown00",
-  "Wowhead050Cave entrance at 56.85, 24.09",
-  "Wowhead050inside the cave at / way 57 24 No phasediving required Last edited by locketto on 2025/08/06 (Patch 11.2.0)",
-  "Wowhead050I didnt like how the entire quest chain was poorly done, no markers on maps, had to guess what to do, quest crystals didnt get marked on map or anything, it was not well done... even had to come to wowhead to start it by learning she was deep in the cave and when you go in the cave, nothing.. nothing marked, just had to get to her npc spot before she showed her ? arrow... sigh",
-  "Wowhead050Quest completion was popping up outside the cave at / way 57 24 , however you need to go deep inside the cave to continue.",
-  "Wowhead050If you don’t get any quest after this, get out of phase diving.",
-  "Wowhead050I was starting to expect to find Gorum and a bunch of mushrooms in there.",
-  "Wowhead050Any issues mentioned in older comments about quest markers being inaccurate seem to be resolved as of Midnight. I was navigated straight to the cave entrance, then to the marker inside the cave, very clearly.",
+[90940] = {
+  "9094018080NPCUnknown0NPCUnknown00",
+  "Wowhead050No comments scraped yet.",
 },
 
-[89326] = {
-  "8932618080NPCUnknown0NPCUnknown00",
+[90941] = {
+  "9094118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89327] = {
-  "8932718080NPCUnknown0NPCUnknown00",
+[90942] = {
+  "9094218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89328] = {
-  "8932818080NPCUnknown0NPCUnknown00",
+[90943] = {
+  "9094318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89329] = {
-  "8932918080NPCUnknown0NPCUnknown00",
+[90945] = {
+  "9094518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89331] = {
-  "8933118080NPCUnknown0NPCUnknown00",
-  "Wowhead050I just finished this today, 26-Apr-2025. Go to where Mylton Wyldbraun is: / way #2215 28.2 56.0 Mylton Wyldbraun It happens on the hour. You can complete it multiple times a day, but you will not get the quest rewards each time for: Flame Fortification . This is also how to complete the weekly: The Flame Burns Eternal I received credit for both when I was done. You do not que for anything. Once the hour rolls around, there will be places highlighted on the map to fight various enemies. These will shift around but all will be in the general vicinity of Mylton Wyldbraun. At the end you will kill one of the champions. I don't know if it is the same one each time since this is my first time completing it. I have read several comments that this was bugged. It worked for me today so hopefully those bugs have been worked out and won't come back.",
-  "Wowhead050How do you queue for this? I can't find an NPC anywhere. Edit: Ah, nevermind. You have to kill the Champion to gain access, which is bugged, so no Nightfall for many of us until this is fixed. Last edited by Shashos on 2025/04/23 (Patch 11.1.5)",
-  "Wowhead050Shocker, doesn't seem to work today",
-  "Wowhead050It starts at the place where you hand in the original quest. It's not a scenario like in Pandaria, but more like the large group things in DF. As someone else said, it starts every hour on the hour. Last edited by paganinifreak on 2025/04/25 (Patch 11.1.5)",
-  "Wowhead050Flame Fortification is held every hour on the hour. In the Western portion of Hallowfall (26, 56) there is a map icon that looks like a door knocker, when you mouse over it, it tells you how many minutes remain to the next \"scenario\". Hope this helps, I found it by chance.",
-  "Wowhead050Absolutely crap that this is bugged already - BLIZZARD what the hell are you playing at - you dont even get the counter at the top now - all it does is flash so even killing stuff does not register - get it sorted please",
-  "Wowhead050Someone commented under The Flame Burns Eternal that it's every hour on the hour, so gonna wait for 3pm and let you know Last edited by Lula on 2025/04/24 (Patch 11.1.5)",
-  "Wowhead050After at quick game update/ patch, it seems to be working now, just finished the scenario now and got the achiv.",
+[90946] = {
+  "9094618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No comments scraped yet.",
 },
 
-[89332] = {
-  "8933218080NPCUnknown0NPCUnknown00",
-  "Wowhead050Very simple, as the quest sates: Go and do one of the Incursion quests (you pick those quests up same place as \"Boot Camp\") in southern part of Hallowfall or Azj-Kahet and hand in where you picked up the quest.",
+[90947] = {
+  "9094718080NPCUnknown0NPCUnknown00",
+  "Wowhead050No comments scraped yet.",
 },
 
-[89334] = {
-  "8933418080NPCUnknown0NPCUnknown00",
-  "Wowhead050If you stand inside Pulverizer Helthra as she spawns, you will get the aggro instead of the eagle, and she will say this additional dialogue: \"I'm gonna break every bone in your face!\" Then, as usual when she dies, she says: \"I think you cracked my jaw...\" The first line of dialogue will be missed if you don't stand inside her spawn point as it never displays if she attacks the eagle instead.",
-  "Wowhead050Cragward Gaahl / way 53.24, 74.08 Pulverizer Helthra / way 55.34, 77.77 Brulagh the Crusher / way 56.13, 74.92 in a cave",
-  "Wowhead050Trivia: (I guess) Gaahl is a clear reference to the famous Black Metal singer Kristian Eivind Espedal of Gorgoroth. All hail! :)",
+[90948] = {
+  "9094818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No comments scraped yet.",
 },
 
-[89338] = {
-  "8933818080NPCUnknown0NPCUnknown00",
+[90949] = {
+  "9094918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89340] = {
-  "8934018080NPCUnknown0NPCUnknown00",
+[90950] = {
+  "9095018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89341] = {
-  "8934118080NPCUnknown0NPCUnknown00",
+[90951] = {
+  "9095118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89342] = {
-  "8934218080NPCUnknown0NPCUnknown00",
+[90952] = {
+  "9095218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89343] = {
-  "8934318080NPCUnknown0NPCUnknown00",
+[90953] = {
+  "9095318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89344] = {
-  "8934418080NPCUnknown0NPCUnknown00",
+[90954] = {
+  "9095418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89345] = {
-  "8934518080NPCUnknown0NPCUnknown00",
+[90955] = {
+  "9095518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89347] = {
-  "8934718080NPCUnknown0NPCUnknown00",
+[90956] = {
+  "9095618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89351] = {
-  "8935118080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[90957] = {
+  "9095718080NPCUnknown0NPCUnknown00",
+  "Wowhead050This quest seems to be unavailable after a race change, yet it still appears on the map.",
+  "Wowhead050I believe this questline is for when you create a haranir, the initial questline before you join the alliance/ horde, so if you race change, it will appear on your map but you cant do it. Doesnt show up for me on my DH.",
+  "Wowhead050bummer to see this is unavailable to those who race changes to Haranir. Hopefully it'll get patched soon, it's the last questline I need in the zone.",
 },
 
-[89352] = {
-  "8935218080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[90958] = {
+  "9095818080NPCUnknown0NPCUnknown00",
+  "Wowhead050Go to / way 36.62, 25.15 and click on a thing on the ground. It kind of looks like a shield. Orweyna is standing right next to it . Last edited by Fluffnutter on 2026/04/01 (Patch 12.0.1)",
 },
 
-[89353] = {
-  "8935318080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[90959] = {
+  "9095918080NPCUnknown0NPCUnknown00",
+  "Wowhead050Outsider found goto / way 35.71, 27.54 Outsider rescued kill the Vicious Saptor Outsider directed to safety / way 35.61, 7.90 Click on Alton Parsons Turn in quest / way 34.04, 26.93 Youtube video for quest found if you need it. https:// www.youtube.com/ watch?v=6ngOqpK3vEw Last edited by Fluffnutter on 2026/04/01 (Patch 12.0.1)",
 },
 
-[89354] = {
-  "8935418080NPCUnknown0NPCUnknown00",
-  "Wowhead050Initially, the mobs I killed were not giving credit for this quest. I found that shooting creatures with turrets was able to give me some credit, but then the mobs would instantly heal to full and I didn't get credit anymore. After this point, I was able to just run around and kill creatures outside void turrets for credit. If that doesn't work, another thing you can try is have a buddy hit them with the turret, and then you keep them engaged so their health doesn't regenerate to 100% (this is what I actually did second before I realized I was getting credit for all kills)",
-  "Wowhead050There are multiple turrets in the are but these are the ones that work. / way 47.55 53.55 Turret / way 44.28 56.28 Turret / way 37.76 53.33 Turret / way 51.99 62.79 Turret / way 52.89 58.01 Turret",
-  "Wowhead050After turning on PvP I got credit, but only for manually killing them. Last edited by Cecilea on 2026/03/12 (Patch 12.0.1)",
-  "Wowhead050This is a weekly quest, not daily.",
-  "Wowhead050Be aware that his is in a PVP area, so even with my PVP switched OFF I kept getting killed by the school bullies showing how tough they are instead of letting me get along with killing the creatures...",
+[90960] = {
+  "9096018080NPCUnknown0NPCUnknown00",
+  "Wowhead050Unable to complete quest. At the first stone, \"Forgotten Song\" briefly appears but then disappears on me without being able to interact with it and progress any further.",
+  "Wowhead050i had to abandon the quest and pick it up again, and then i could progress.",
 },
 
-[89377] = {
-  "8937718080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[90961] = {
+  "9096118080NPCUnknown0NPCUnknown00",
+  "Wowhead050I have tried it both ways & the choice seemed to make no difference, both options sent me back to my capitol city (Stormwind).",
+  "Wowhead050As stated above, it doesn't matter what choice you select you'll be transported to your chosen faction city. Transcription below! You have been marked by the goddess, Player. It is time for you embark on a journey. My Journey is my own. (Skips directly to spoken dialouge below.) If player selects Option 2. But I want to stay here. With our people. No, Player, you have been marked by the goddess to have a different fate than the rest of us. Your journey is to take place beyond Harandar, in the world, above the roots. So say the goddess. I understand, elder. Spoken Dialouge Hagar: Keep the rootway open, Orweyna. The outsider, the song, everything that happened here today -- Dalnir: We cannot! Tradition dictates that we remain in Harandar! Hagar: Tradition dictates that we follow the goddess' song, Dalnir. Player, follow the visions. Follow your heart. Find the Goddess. Probably the quickest introduction quest, I was shocked at fast we leave for the capital! Kinda makes me wish for the old days when starting zones would take an hour or so lol",
+  "Wowhead050Is there any way to get this on a race-change Haranir? Or do I have to roll a new one and quest through the starting experience?",
 },
 
-[89380] = {
-  "8938018080NPCUnknown0NPCUnknown00",
+[90962] = {
+  "9096218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89381] = {
-  "8938118080NPCUnknown0NPCUnknown00",
+[90963] = {
+  "9096318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89383] = {
-  "8938318080NPCUnknown0NPCUnknown00",
-  "Wowhead050Quest showed up for me after completing the Eversong Woods storyline and getting the achievement Eversong In Reprise .",
-  "Wowhead050It's not showing up for me.",
-  "Wowhead050I was having a hard time figuring out why this quest wasn't available and i was told that you have to complete the main storyline first before all of the side missions (for all your characters) become available. I am going to try it now and see. UPDATE: I can confirm this is correct as I just finished the main storyline for the Eversong area and all 3 of these quests showed up: - One Adventurous Hatchling - A Hungry Flock - A Roost-ed Development",
-  "Wowhead050I had to enable Low-Level Quests for this to show up for me at level 90.",
-  "Wowhead050This quest requires the completion of the Fractured quest or the account-wide Midnight achievement.",
-  "Wowhead050To be verified but I'm pretty sure that if there's a World quest on top of it you'll only see the quest marker when you go there and it's gonna be hidden from the map.",
+[90965] = {
+  "9096518080NPCUnknown0NPCUnknown00",
+  "Wowhead050No comments scraped yet.",
 },
 
-[89384] = {
-  "8938418080NPCUnknown0NPCUnknown00",
-  "Wowhead050Those are toads. How am I getting frog legs from them?",
-  "Wowhead050Upon working towards the Soujourner Achiev, at level 84 as a Bear Druid I was unable to pickup any of the quests offered by her, as she had none available. I reached out to others and confirmed that they had quests from her, but were farther along the Campaign. I am currently on To Deathholme, Journey to the Ruins of Deathholme, and I am not able to see any quests from Vaelith. I will complete more of the campaign and return, but the WoWhead says the only req is level 80, not sure if that's true or I have a weird bug!",
-  "Wowhead050Is a frog considered to have two or four legs? Blizz answer - ONE!",
-  "Wowhead050If the big void incursion event is up in Eversong, she doesn't show up until after the event is over.",
-  "Wowhead050I couldn't accept any quests from her. Went back to Silvermoon to turn in the last quest to Lorthemar after dealing with the Amani and suddenly the Quest was available (at lvl 84)",
+[90966] = {
+  "9096618080NPCUnknown0NPCUnknown00",
+  "Wowhead050No comments scraped yet.",
 },
 
-[89385] = {
-  "8938518080NPCUnknown0NPCUnknown00",
+[90967] = {
+  "9096718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89386] = {
-  "8938618080NPCUnknown0NPCUnknown00",
-  "Wowhead050Kill the frogs while you wait for the quest items to respawn. You'll need them for A Hungry Flock.",
+[90968] = {
+  "9096818080NPCUnknown0NPCUnknown00",
+  "Wowhead050No comments scraped yet.",
 },
 
-[89388] = {
-  "8938818080NPCUnknown0NPCUnknown00",
+[90969] = {
+  "9096918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89402] = {
-  "8940218080NPCUnknown0NPCUnknown00",
+[90970] = {
+  "9097018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89403] = {
-  "8940318080NPCUnknown0NPCUnknown00",
+[90971] = {
+  "9097118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89421] = {
-  "8942118080NPCUnknown0NPCUnknown00",
+[90972] = {
+  "9097218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89434] = {
-  "8943418080NPCUnknown0NPCUnknown00",
+[90973] = {
+  "9097318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89440] = {
-  "8944018080NPCUnknown0NPCUnknown00",
+[90974] = {
+  "9097418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89441] = {
-  "8944118080NPCUnknown0NPCUnknown00",
+[90975] = {
+  "9097518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89444] = {
-  "8944418080NPCUnknown0NPCUnknown00",
+[90976] = {
+  "9097618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89450] = {
-  "8945018080NPCUnknown0NPCUnknown00",
+[90977] = {
+  "9097718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89463] = {
-  "8946318080NPCUnknown0NPCUnknown00",
+[90978] = {
+  "9097818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89471] = {
-  "8947118080NPCUnknown0NPCUnknown00",
+[90979] = {
+  "9097918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89476] = {
-  "8947618080NPCUnknown0NPCUnknown00",
+[90980] = {
+  "9098018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89485] = {
-  "8948518080NPCUnknown0NPCUnknown00",
+[90981] = {
+  "9098118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89486] = {
-  "8948618080NPCUnknown0NPCUnknown00",
+[90982] = {
+  "9098218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89487] = {
-  "8948718080NPCUnknown0NPCUnknown00",
+[90983] = {
+  "9098318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89489] = {
-  "8948918080NPCUnknown0NPCUnknown00",
+[90984] = {
+  "9098418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89490] = {
-  "8949018080NPCUnknown0NPCUnknown00",
+[90985] = {
+  "9098518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89491] = {
-  "8949118080NPCUnknown0NPCUnknown00",
+[90986] = {
+  "9098618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89493] = {
-  "8949318080NPCUnknown0NPCUnknown00",
+[90987] = {
+  "9098718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89496] = {
-  "8949618080NPCUnknown0NPCUnknown00",
+[90988] = {
+  "9098818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89501] = {
-  "8950118080NPCUnknown0NPCUnknown00",
+[90989] = {
+  "9098918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89503] = {
-  "8950318080NPCUnknown0NPCUnknown00",
+[90990] = {
+  "9099018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89506] = {
-  "8950618080NPCUnknown0NPCUnknown00",
+[90991] = {
+  "9099118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89507] = {
-  "8950718080NPCUnknown0NPCUnknown00",
+[90992] = {
+  "9099218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89513] = {
-  "8951318080NPCUnknown0NPCUnknown00",
+[90993] = {
+  "9099318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89559] = {
-  "8955918080NPCUnknown0NPCUnknown00",
+[90994] = {
+  "9099418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89560] = {
-  "8956018080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[90995] = {
+  "9099518080NPCUnknown0NPCUnknown00",
+  "Wowhead050I forgot to re-talk with moratari at the bazaar (who teach you the skyriding) \"talk to moratai to return to Krasus'landing\". worked after a few try's. (you fly on dragon back). the quest spawned as I landed at Krasus Landing.",
+  "Wowhead050After doing every quest I can find related to it, and some that weren't , I cannot find a way to get \" The Future of The Fel Hammer\" quest to start on my Demon hunter. I have even tried to sync with another player. Dalaran is no longer above karazhan, but the warlock forge is still there in the mid air. I am not sure what else to do and want to get back to the demon hunter starting area",
+  "Wowhead050I made a baby Demon hunter in Legion Remix, then decided to switch to another alt to do something else. When I went back to the Demon Hunter, this quest was nowhere to be found at Krasus Landing. Moratari wasn't there in her usual place near the downed pillar. It took a few minutes for her to finally load in. Most likely due to server lag.",
 },
 
-[89561] = {
-  "8956118080NPCUnknown0NPCUnknown00",
+[90996] = {
+  "9099618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89562] = {
-  "8956218080NPCUnknown0NPCUnknown00",
+[90999] = {
+  "9099918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89563] = {
-  "8956318080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91000] = {
+  "9100018080NPCUnknown0NPCUnknown00",
+  "Wowhead050Be very careful; if you talk to Sunwalker Nadura (Tauren leaning up against a post), she offers a dialogue option: I don't want to be here either, Nadura <Leave Hammerfall.> If you select this option... you will, as the text implies, leave Hammerfall.",
+  "Wowhead050On Live, 2/ 26: The quest is bugged for me. If I click an Injured Peon, it says BANDAGING but does not give me any credit. I have tried everything I can, logging, going back to Quel, taking the BORROWED PORTAL, etc. Nothing works. There's not enough debris on the ground for me to hit 100%. I have abandoned the quest twice - no fix",
+  "Wowhead050Selecting \"I don't want to be here either, Nadura. <Leave Hammerfall>\" puts you in the BFA phase of Arathi Highlands. Talking to Nadura again will put you back in the Midnight quest phase.",
+  "Wowhead050For those who talked to the NPC and got phased out.. (Thanks blizz?) go back to Isle of Quel Danas right outside the center temple, coordinate 52.6, 56.0 there is a borrowed portal. FYI the portal is there even if you abandoned the quest.",
+  "Wowhead050Spoke to a NPC by mistake and it phased me out, I tried to talk to the npc at the border with the bordering zone but she would not reset the phase and now i can not get the quest again so that part of the campaign is at a stopping point for me now. If anyone else is having similar issue let me know if you figure out how to fix this.",
+  "Wowhead050If you're in a different phase/ time of Arathi Highlands, Zidormi can send you to present time. Dear gods...there's no need to run back and forth like what other folks did.",
+  "Wowhead050I completed both quests, now the NPC's to turn them in are gone. I can't find them anywhere.",
+  "Wowhead050For some reason TomTom stopped tracking the quest and it tool a bit to find him. He is at the top of the stairs.",
+  "Wowhead050frank623534 u saved my day mate, thx bunches",
 },
 
-[89565] = {
-  "8956518080NPCUnknown0NPCUnknown00",
+[91001] = {
+  "9100118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89567] = {
-  "8956718080NPCUnknown0NPCUnknown00",
+[91002] = {
+  "9100218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89568] = {
-  "8956818080NPCUnknown0NPCUnknown00",
+[91003] = {
+  "9100318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[89574] = {
-  "8957418080NPCUnknown0NPCUnknown00",
+[91004] = {
+  "9100418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90016] = {
-  "9001618080NPCUnknown0NPCUnknown00",
+[91005] = {
+  "9100518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90017] = {
-  "9001718080NPCUnknown0NPCUnknown00",
+[91006] = {
+  "9100618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90018] = {
-  "9001818080NPCUnknown0NPCUnknown00",
+[91007] = {
+  "9100718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90019] = {
-  "9001918080NPCUnknown0NPCUnknown00",
+[91008] = {
+  "9100818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90020] = {
-  "9002018080NPCUnknown0NPCUnknown00",
+[91009] = {
+  "9100918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90021] = {
-  "9002118080NPCUnknown0NPCUnknown00",
+[91010] = {
+  "9101018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90022] = {
-  "9002218080NPCUnknown0NPCUnknown00",
+[91011] = {
+  "9101118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90023] = {
-  "9002318080NPCUnknown0NPCUnknown00",
+[91012] = {
+  "9101218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90024] = {
-  "9002418080NPCUnknown0NPCUnknown00",
+[91013] = {
+  "9101318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90025] = {
-  "9002518080NPCUnknown0NPCUnknown00",
+[91014] = {
+  "9101418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90026] = {
-  "9002618080NPCUnknown0NPCUnknown00",
+[91015] = {
+  "9101518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90027] = {
-  "9002718080NPCUnknown0NPCUnknown00",
+[91016] = {
+  "9101618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90028] = {
-  "9002818080NPCUnknown0NPCUnknown00",
+[91017] = {
+  "9101718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90029] = {
-  "9002918080NPCUnknown0NPCUnknown00",
+[91018] = {
+  "9101818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90030] = {
-  "9003018080NPCUnknown0NPCUnknown00",
+[91019] = {
+  "9101918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90031] = {
-  "9003118080NPCUnknown0NPCUnknown00",
+[91020] = {
+  "9102018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90032] = {
-  "9003218080NPCUnknown0NPCUnknown00",
+[91021] = {
+  "9102118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90033] = {
-  "9003318080NPCUnknown0NPCUnknown00",
+[91022] = {
+  "9102218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90034] = {
-  "9003418080NPCUnknown0NPCUnknown00",
+[91023] = {
+  "9102318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90035] = {
-  "9003518080NPCUnknown0NPCUnknown00",
+[91024] = {
+  "9102418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90036] = {
-  "9003618080NPCUnknown0NPCUnknown00",
+[91025] = {
+  "9102518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90037] = {
-  "9003718080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91026] = {
+  "9102618080NPCUnknown0NPCUnknown00",
+  "Wowhead050Looks like the Faulty Titan Directives are random drops from the overcharged mobs, which will be highlighted/ outlined. I fully cleared a Sidestreet Sluice and got 3. Last edited by Aeryl on 2025/06/25 (Patch 11.1.7)",
+  "Wowhead050Happy to report that this can be done on a level 1 delve. One run of lvl 1 Sidestreet Sluice and job done :)",
+  "Wowhead050I don't see this quest, do we need to wait a week ? Last edited by Z3nnith on 2025/06/18 (Patch 11.1.7)",
+  "Wowhead050Drops hasn't been consistent. I did on two toons thus far. Lv 11 Sidestreet only gave me 2. Lv1 Sidestreet dropped 4.",
+  "Wowhead050Despite finishing a nightfall sanctum overcharged, looting 4 of the relics, and looting all of the chests at the end, I was not given credit for completing an overcharged delve",
+  "Wowhead050It appears that if you don't get all four of the quest items while clearing a delve, it doesn't give credit for \"Complete an Overcharged Delve\"! I went back in for the last item, and now it wants me to do the whole delve again. Akagashiwa the Disgusted",
+  "Wowhead050I got all four in one delve, The Spiral Weave, Tier 7, 6 levels left, itlvl 634 (hunter) and the quest complete. Also called up The Underpin. time from DBM , 31 minutes and 20.95 seconds. After opening the 2 chests thanks to The Underpin , itlvl now 636. Last edited by jan4705 on 2025/07/06 (Patch 11.1.7)",
+  "Wowhead050Is the delve you have to do for the quest supposed to be highlighted on your map when you track it? I have the quest, but none of the delves are highlighted (if they are supposed to be) on my map.",
+  "Wowhead050As of patch 11.2 you only need to do 1 delve to get this completed. [Edit] It seems the corresponding quests that comes after also requires just 1 delve completion to get the Titan Memory Card upgrade. Last edited by Keyastalarin on 2025/08/08 (Patch 11.2.0)",
 },
 
-[90038] = {
-  "9003818080NPCUnknown0NPCUnknown00",
+[91027] = {
+  "9102718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90039] = {
-  "9003918080NPCUnknown0NPCUnknown00",
+[91028] = {
+  "9102818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90040] = {
-  "9004018080NPCUnknown0NPCUnknown00",
+[91029] = {
+  "9102918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90041] = {
-  "9004118080NPCUnknown0NPCUnknown00",
+[91030] = {
+  "9103018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90042] = {
-  "9004218080NPCUnknown0NPCUnknown00",
+[91031] = {
+  "9103118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90043] = {
-  "9004318080NPCUnknown0NPCUnknown00",
+[91032] = {
+  "9103218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90044] = {
-  "9004418080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91033] = {
+  "9103318080NPCUnknown0NPCUnknown00",
+  "Wowhead050Pushing it to the Limit is the last quest in the chain in patch 11.2/ Season 3, since there are no longer overcharged delves.",
+  "Wowhead050Not sure if I am missing something here but i just ran an overcharged delve and it did not complete this quest for me...",
+  "Wowhead050This quest isn't showing up for me, as Dagran isn't in the Delver's HQ. When I interact with the console there's a message from Dagran saying he returned to the Archive. He says he can communicate with me from there and can modify the Titan tech remotely via the console. There's no option for any of this though, and he just gives me this message. I've been and checked with Dagran in the Archive, but can't I interact with him at all there. I've completed the previous quest 'Pushing it to the Limit', so am I missing something obvious or is it bugged?",
+  "Wowhead050Did a 'memo go out' that Overcharged Delves were ending...? Looks like I missed it, if so.",
 },
 
-[90045] = {
-  "9004518080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91035] = {
+  "9103518080NPCUnknown0NPCUnknown00",
+  "Wowhead050Completed the quest last night but although the 5 Titan Constructs updated the Overcharged Delve did not update. I Will redo another overcharged delve and see if this works and report back here.",
+  "Wowhead050For anyone like me who was looking for this as an easy upgrade from their alts. The console is next to Elise Starseeker (Night elf at the map table in the delver HQ). Make sure your track \"Warband completed quests\". The console is rather small and NOT near Brann",
+  "Wowhead050Quest did not award me the upgrade piece for the new belt. Great work blizz.",
 },
 
-[90046] = {
-  "9004618080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91038] = {
+  "9103818080NPCUnknown0NPCUnknown00",
+  "Wowhead050The scorched poster that is the source of this quest is located in Dornogal, Khaz Algar, at / way 49, 63 on the roof of the building where the blacksmithing and engineering professions are housed. Last edited by Milax on 2025/07/02 (Patch 11.1.7)",
+  "Wowhead050only ONCE per account it seems. could not see quest after handed in with alt.",
+  "Wowhead050While the Event and Armors are pretty cool, a part of me's bummed out that there's no additional Quests or even Scenarios where we help the Hellhunters in fighting against Bosses or saving villages in the Hellhunter Timeline. Something to help break the monotony of waiting for hours for the next Goblin Emissary to show up... Either that, or give us a Meta-Achievement that'll let us be able to Transmog ALL of the Hellhunter Armor Sets: The Rogue, Death Knight, and Warrior Set pieces would look very good if mixed and worn on a Paladin. Last edited by ohvist on 2025/07/12 (Patch 11.1.7)",
+  "Wowhead050And whats happening after this?",
 },
 
-[90047] = {
-  "9004718080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91039] = {
+  "9103918080NPCUnknown0NPCUnknown00",
+  "Wowhead050If you're looking to pick up this breadcrumb quest for completion, you can find it in your Adventure Guide.",
+  "Wowhead050Why oh why is this questline not skippable for alts? If you don't take the quest, you can't immediately tell if she has another quest in Dornogal. If you do take the quest and don't start it, you are stuck with a portal that you can accidentally click on when you pick your weeklies (and go to Arathi Highlands). If you take the quest and continue on with the questline you are stuck with the drudgery of flying back and forth across the Arathi Highlands fields to do tedious quests. I have too many alts to bother with this. Where is the skip?",
 },
 
-[90048] = {
-  "9004818080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91040] = {
+  "9104018080NPCUnknown0NPCUnknown00",
+  "Wowhead050I can't see this quest with my alt. I didn't do the campaign since I already did it on my main and was working towards Sojourner, but I'm going to go back through and see if I can get the quest after doing the campaign. Update: After doing the campaign I was able to see the NPC and acquire the quest. Last edited by Samerious on 2026/03/23 (Patch 12.0.1)",
 },
 
-[90049] = {
-  "9004918080NPCUnknown0NPCUnknown00",
+[91041] = {
+  "9104118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90050] = {
-  "9005018080NPCUnknown0NPCUnknown00",
+[91042] = {
+  "9104218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90051] = {
-  "9005118080NPCUnknown0NPCUnknown00",
+[91043] = {
+  "9104318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90052] = {
-  "9005218080NPCUnknown0NPCUnknown00",
+[91044] = {
+  "9104418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90053] = {
-  "9005318080NPCUnknown0NPCUnknown00",
+[91045] = {
+  "9104518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90054] = {
-  "9005418080NPCUnknown0NPCUnknown00",
+[91046] = {
+  "9104618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90055] = {
-  "9005518080NPCUnknown0NPCUnknown00",
+[91047] = {
+  "9104718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90056] = {
-  "9005618080NPCUnknown0NPCUnknown00",
+[91048] = {
+  "9104818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90057] = {
-  "9005718080NPCUnknown0NPCUnknown00",
+[91049] = {
+  "9104918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90058] = {
-  "9005818080NPCUnknown0NPCUnknown00",
+[91050] = {
+  "9105018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90059] = {
-  "9005918080NPCUnknown0NPCUnknown00",
+[91051] = {
+  "9105118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90060] = {
-  "9006018080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91052] = {
+  "9105218080NPCUnknown0NPCUnknown00",
+  "Wowhead050As of 11.2, this doesn't appear to be completable.",
 },
 
-[90061] = {
-  "9006118080NPCUnknown0NPCUnknown00",
+[91053] = {
+  "9105318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90062] = {
-  "9006218080NPCUnknown0NPCUnknown00",
+[91054] = {
+  "9105418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90063] = {
-  "9006318080NPCUnknown0NPCUnknown00",
+[91055] = {
+  "9105518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90064] = {
-  "9006418080NPCUnknown0NPCUnknown00",
+[91056] = {
+  "9105618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90065] = {
-  "9006518080NPCUnknown0NPCUnknown00",
+[91057] = {
+  "9105718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90066] = {
-  "9006618080NPCUnknown0NPCUnknown00",
+[91058] = {
+  "9105818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90067] = {
-  "9006718080NPCUnknown0NPCUnknown00",
+[91060] = {
+  "9106018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90068] = {
-  "9006818080NPCUnknown0NPCUnknown00",
+[91061] = {
+  "9106118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90069] = {
-  "9006918080NPCUnknown0NPCUnknown00",
+[91062] = {
+  "9106218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90070] = {
-  "9007018080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91063] = {
+  "9106318080NPCUnknown0NPCUnknown00",
+  "Wowhead050Starts with NPC Su'meera in Har'kuai. In front of some huts off to the side of the flight master. About 65, 22. Last edited by Sere on 2026/02/28 (Patch 12.0.1)",
+  "Wowhead050To obtain the Echo of Aln'sharan mount, you need to collect 500 No Mysterious Skyshards , with which you can cast Skyshard Entreaty and obtain the achievement Herald of the Goddess . To unlock these you need to do the questline starting with Tales of the Sky , which is given by Kuri , at / way 67.78 24.79 . She is not inside a building or cave. Kuri won't offer you the quest until you've completed the brief quest chain starting with The Blooming Lattice which is offered by Su'meera . TomTom Coordinates: / way #2413 67.78 24.79 Kuri - questgiver for Tales of the Sky Note that when doing the next quest chain, which starts with The Blooming Lattice , when you reach Behind the Falls , the NPC Su'meera is in a cave behind a waterfall - it's not easy to find the correct entrance, but it's at 55.82 26.08. / way #2413 55.82 26.08 Entrance to Su'Meera's cave for quest \"Behind The Falls \"",
 },
 
-[90071] = {
-  "9007118080NPCUnknown0NPCUnknown00",
+[91064] = {
+  "9106418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90072] = {
-  "9007218080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91065] = {
+  "9106518080NPCUnknown0NPCUnknown00",
+  "Wowhead050The well-worn ladle is not located in the water, but on the platform above. Last edited by Shanody on 2026/03/03 (Patch 12.0.1)",
+  "Wowhead050Ladle on platform above water @ / way 55.33, 28.31 Drill @ / way 54.56, 28.31 Scroll on table @ / way 54.85, 32.10 Gourd on table under pavilion @ / way 55.33, 30.63 Last edited by jvriffel on 2026/03/07 (Patch 12.0.1)",
 },
 
-[90073] = {
-  "9007318080NPCUnknown0NPCUnknown00",
+[91066] = {
+  "9106618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90074] = {
-  "9007418080NPCUnknown0NPCUnknown00",
+[91067] = {
+  "9106718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90075] = {
-  "9007518080NPCUnknown0NPCUnknown00",
+[91068] = {
+  "9106818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90076] = {
-  "9007618080NPCUnknown0NPCUnknown00",
+[91069] = {
+  "9106918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90077] = {
-  "9007718080NPCUnknown0NPCUnknown00",
+[91070] = {
+  "9107018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90078] = {
-  "9007818080NPCUnknown0NPCUnknown00",
+[91071] = {
+  "9107118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90079] = {
-  "9007918080NPCUnknown0NPCUnknown00",
+[91072] = {
+  "9107218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90080] = {
-  "9008018080NPCUnknown0NPCUnknown00",
+[91073] = {
+  "9107318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90082] = {
-  "9008218080NPCUnknown0NPCUnknown00",
+[91074] = {
+  "9107418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90083] = {
-  "9008318080NPCUnknown0NPCUnknown00",
+[91075] = {
+  "9107518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90087] = {
-  "9008718080NPCUnknown0NPCUnknown00",
+[91076] = {
+  "9107618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90092] = {
-  "9009218080NPCUnknown0NPCUnknown00",
+[91077] = {
+  "9107718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90093] = {
-  "9009318080NPCUnknown0NPCUnknown00",
+[91078] = {
+  "9107818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90094] = {
-  "9009418080NPCUnknown0NPCUnknown00",
+[91079] = {
+  "9107918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90095] = {
-  "9009518080NPCUnknown0NPCUnknown00",
+[91080] = {
+  "9108018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90096] = {
-  "9009618080NPCUnknown0NPCUnknown00",
+[91081] = {
+  "9108118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90097] = {
-  "9009718080NPCUnknown0NPCUnknown00",
+[91082] = {
+  "9108218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90098] = {
-  "9009818080NPCUnknown0NPCUnknown00",
+[91083] = {
+  "9108318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90099] = {
-  "9009918080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91084] = {
+  "9108418080NPCUnknown0NPCUnknown00",
+  "Wowhead050I logged out after finishing the Harandar questline and this quest next to the portal disappeared completely. The quest still showed there, which worried me that I couldn't access it. However, when I went to the Sanctum of Light, a dwarf NPC \"Koruth Mountainfist\" showed up out of nowhere with the quest. I completed it, but the quest still remains on my map of Silvermoon, so I think I got the Alliance version. Edit: I returned to the Haranir portal in Silvermoon where the quest marker remains and the Looming Shadows quest was actually there. I had also just completed the Zul'Aman. If you're having issues, just continue with the story and check back. The quest seems unimportant tot he campaign and just seems to trigger some dialogue at the Sanctum of Light before you move onto the next chapter. Last edited by Jakobi on 2026/03/05 (Patch 12.0.1)",
+  "Wowhead050The quest giver is not at the indicated location",
+  "Wowhead050For me this step never occured yet. I did Harandar first, then Zul'aman. Maybe it is flexible.",
 },
 
-[90100] = {
-  "9010018080NPCUnknown0NPCUnknown00",
+[91085] = {
+  "9108518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90101] = {
-  "9010118080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91086] = {
+  "9108618080NPCUnknown0NPCUnknown00",
+  "Wowhead050Kazat in hut/ tree/ vine/ whatever it is entrance @ / way 54.90, 31.13",
 },
 
-[90102] = {
-  "9010218080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91087] = {
+  "9108718080NPCUnknown0NPCUnknown00",
+  "Wowhead050All that build up for some epic reporting, possibly followed up with a reprimand. And... nothing. I turned in the quest and absolutely nothing. No dialogue, no movie, no cut scene... just NOTHING. We just finished an epic quest to reunite the Amani with their loa, which in turn could be seen as a threat to Eversong, but destroying the Twilight's Blade from flanking Silvermoon should at least be something worthy of noting, and Liadrin wanting to stay behind to help the Amani further should be even more worrying for Lor'themar. And yet, nothing. Just how lazy are you, blizz?",
+  "Wowhead050You won't be able to pick up this quest if you have not finished the full Zul'Aman zone Campaign. You will be able to pick it up after you complete the Zul'Aman campaign quest Broken Bridges which makes Lady Liadrin appear on the bridge. Last edited by Oceandust on 2026/02/27 (Patch 12.0.1)",
 },
 
-[90103] = {
-  "9010318080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91088] = {
+  "9108818080NPCUnknown0NPCUnknown00",
+  "Wowhead050Entrance to the cave is at / way 55.85, 26.08",
+  "Wowhead050You want the middle section of the upper level of waterfall to go through",
+  "Wowhead050Wonderful planning Blizzard, hidden somewhere in the giant waterfall is a small cave and you don't have steadyflying back yet.",
+  "Wowhead050As the name of the quest suggests.. Yes it is behind the waterfalls. / way 56, 26 Last edited by Jimaras21 on 2026/03/01 (Patch 12.0.1)",
+  "Wowhead050Literally THROUGH the waterfall",
+  "Wowhead050To obtain the Echo of Aln'sharan mount, you need to collect 500 No Mysterious Skyshards , with which you can cast Skyshard Entreaty and obtain the achievement Herald of the Goddess . To unlock these you need to do the questline starting with Tales of the Sky , which is given by Kuri , at / way 67.78 24.79 . She is not inside a building or cave. Kuri won't offer you the quest until you've completed the brief quest chain starting with The Blooming Lattice which is offered by Su'meera . TomTom Coordinates: / way #2413 67.78 24.79 Kuri - questgiver for Tales of the Sky Note that when doing the next quest chain, which starts with The Blooming Lattice , when you reach Behind the Falls , the NPC Su'meera is in a cave behind a waterfall - it's not easy to find the correct entrance, but as SteadyFlight is now enabled for all it's rather easier - it's at 55.82 26.08. / way #2413 55.82 26.08 Entrance to Su'Meera's cave for quest \"Behind The Falls \"",
 },
 
-[90105] = {
-  "9010518080NPCUnknown0NPCUnknown00",
+[91089] = {
+  "9108918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90108] = {
-  "9010818080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91090] = {
+  "9109018080NPCUnknown0NPCUnknown00",
+  "Wowhead050Kill the grubs in the nearby area. Then take flight and fly through the butterfly's flying in the same area.",
 },
 
-[90109] = {
-  "9010918080NPCUnknown0NPCUnknown00",
+[91091] = {
+  "9109118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90110] = {
-  "9011018080NPCUnknown0NPCUnknown00",
+[91092] = {
+  "9109218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90111] = {
-  "9011118080NPCUnknown0NPCUnknown00",
+[91093] = {
+  "9109318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90112] = {
-  "9011218080NPCUnknown0NPCUnknown00",
+[91094] = {
+  "9109418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90115] = {
-  "9011518080NPCUnknown0NPCUnknown00",
+[91095] = {
+  "9109518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90116] = {
-  "9011618080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91096] = {
+  "9109618080NPCUnknown0NPCUnknown00",
+  "Wowhead050Complete World Activities in the map that you picked the Hunt ( Magistrix Emberlash is in Harandar ) Theres a Hunt Progress icon in your Enconter Bar section at Edit Mode. It fills and shine in red when you complete a World Quest , Kill Rares or Open Treasures . During the process, the boss will ambush and give you a hint of what you'll face! After knocking the boss, he/ she'll run and leave a Remnant of Anguish behind. You can also find traps to disarm and increase your prey bar. As long as you progress, new quests will show up. Once you're done, a final quest becomes available revealing the boss location . Kill it and you're done.",
+  "Wowhead050You complete this by doing world quests, chests, rares etc in the zone you picked (red crystal on the map). While you're at it the boss will spawn on you from time to time and then disappears until you done enough and can kill it.",
 },
 
-[90118] = {
-  "9011818080NPCUnknown0NPCUnknown00",
+[91097] = {
+  "9109718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90119] = {
-  "9011918080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91098] = {
+  "9109818080NPCUnknown0NPCUnknown00",
+  "Wowhead050After picking up this quest, she shows up randomly and ambushes me when I am questing in Eversong woods. When I get her health down she disappears in a puff of smoke and leaves behind some Remnant of Anguish . She has showed up several times now while I was questing. Last edited by Hildur on 2026/02/28 (Patch 12.0.1)",
+  "Wowhead050Complete World Activities in the map that you picked the Hunt ( L-N-0R the Recycler can be a Eversong Woods or Harandar Hunt) Theres a Hunt Progress icon in your Enconter Bar section at Edit Mode. It fills and shine in red when you complete a World Quest , Kill Rares or Open Treasures . During the process, the boss will ambush and give you a hint of what you'll face! After knocking the boss, he/ she'll run and leave a Remnant of Anguish behind. You can also find traps to disarm and increase your prey bar. As long as you progress, new quests will show up. Once you're done, a final quest becomes available revealing the boss location . Kill it and you're done. Last edited by Schnaider on 2026/03/03 (Patch 12.0.1)",
+  "Wowhead050found him like 10 times he vanishes and doesnt complete que quest .... leaves some currency beyind though. after a few finds the hunt progresses and you are shown where the real location the the mob is and u go kill him ...as a tank is very easy. Last edited by zaonpt on 2026/02/28 (Patch 12.0.1)",
+  "Wowhead050Tooltip says it's in Voidstorm, flown all over and nothing. Then I decided a google search was in order and found this: https:// www.youtube.com/ watch?v=7VPEIAylMp8 SO it will appear on the map. There is no icon on my map for this Zone.",
+  "Wowhead050Cave entrance is a little hard to see. / way 34.70 44.74",
 },
 
-[90120] = {
-  "9012018080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91099] = {
+  "9109918080NPCUnknown0NPCUnknown00",
+  "Wowhead050where is he? he doesnt show up on the map and clicking on the crystal at the top of my screen doesn't show him",
+  "Wowhead050This started for me in Eversong Woods, but I had to go to Zul'Aman to receive credit and complete the quest.",
+  "Wowhead050Complete World Activities in the map that you picked the Hunt ( Mordril Shadowfell is in Zul'Aman ) Theres a Hunt Progress icon in your Enconter Bar section at Edit Mode. It fills and shine in red when you complete a World Quest , Kill Rares or Open Treasures . During the process, the boss will ambush and give you a hint of what you'll face! After knocking the boss, he/ she'll run and leave a Remnant of Anguish behind. You can also find traps to disarm and increase your prey bar. As long as you progress, new quests will show up. Once you're done, a final quest becomes available revealing the boss location . Kill it and you're done. Last edited by Schnaider on 2026/03/02 (Patch 12.0.1)",
 },
 
-[90122] = {
-  "9012218080NPCUnknown0NPCUnknown00",
+[91100] = {
+  "9110018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90123] = {
-  "9012318080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91101] = {
+  "9110118080NPCUnknown0NPCUnknown00",
+  "Wowhead050Cave entrance is at / way 34.68, 44.76 .",
 },
 
-[90124] = {
-  "9012418080NPCUnknown0NPCUnknown00",
+[91102] = {
+  "9110218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90125] = {
-  "9012518080NPCUnknown0NPCUnknown00",
+[91103] = {
+  "9110318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90126] = {
-  "9012618080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91104] = {
+  "9110418080NPCUnknown0NPCUnknown00",
+  "Wowhead050Complete World Activities in the map that you picked the Hunt ( Zadu, Fist of Nalorakk is in Voidstorm ) Theres a Hunt Progress icon in your Enconter Bar section at Edit Mode. It fills and shine in red when you complete a World Quest , Kill Rares or Open Treasures . During the process, the boss will ambush and give you a hint of what you'll face! After knocking the boss, he/ she'll run and leave a Remnant of Anguish behind. You can also find traps to disarm and increase your prey bar. As long as you progress, new quests will show up. Once you're done, a final quest becomes available revealing the boss location . Kill it and you're done.",
 },
 
-[90127] = {
-  "9012718080NPCUnknown0NPCUnknown00",
+[91105] = {
+  "9110518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90129] = {
-  "9012918080NPCUnknown0NPCUnknown00",
+[91106] = {
+  "9110618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90130] = {
-  "9013018080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91107] = {
+  "9110718080NPCUnknown0NPCUnknown00",
+  "Wowhead050this one is 100% broken. Supposedly this dude is in Harandar... but then quest says to go to silver moon... then voidstorm, then silvermoon, then harandar... the loop continues.. it's broken.",
+  "Wowhead050If you chose Harandar (Normal) and still can’t find the Hunt Crystal, check the coordinates 55:59. As soon as you see the big map label THE DEN, look at the bottom‑right side of the letters. From the small lake nearby, go in the 1 o’clock direction—the crystal is right by the cliff. Just a heads‑up: finding the crystal doesn’t seem to complete the quest, since it still asks you to finish World Quests and defeat Powerful Enemies in Harandar.",
 },
 
-[90131] = {
-  "9013118080NPCUnknown0NPCUnknown00",
+[91108] = {
+  "9110818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90132] = {
-  "9013218080NPCUnknown0NPCUnknown00",
+[91109] = {
+  "9110918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90133] = {
-  "9013318080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91110] = {
+  "9111018080NPCUnknown0NPCUnknown00",
+  "Wowhead050Bugged as of today 25th of march. Crystal is at 65 / 17 in Zul Aman - can't summon him. Last edited by detanimationman on 2026/03/25 (Patch 12.0.1)",
+  "Wowhead050For those of you experiencing the bug where you click the crystal and the boss spawns in a phased realm you must complete the quest Heart of the Amani in order for the phase to unlock. Talking to the bird to change your phase does not work. You will see the pop-up on you screen that says \"Guest of Zul'Amani\" unlocked when you have reached the stage required to complete this prey. Last edited by tugboatjr on 2026/03/28 (Patch 12.0.1)",
+  "Wowhead050I was stuck with this one too. Filled up the hunt crystal, found the crystal on the ground, but clicking it just caused it to change color, then reset after a couple of seconds. I think the problem for me was that I had not progressed the zone far enough yet. This was an alt of mine. I finished the campaign with another character, which unlocked Prey across all of the warband. So, when an alt took up this Prey, he had not progressed in Zul'aman. I suspected this since earlier, I couldn't find an item that was supposed to be in one of the troll temple things. I read that you have to progress that part of the campaign to a certain point, which would change that temple a bit. So, I finished out the Zul'aman part, checking periodically if I could do the hunt. My character is at the \"Den of Nalorakk: Unforgiven\" quest, which is to go into a follower dungeon. I was then able to summon the Prey. It might have \"unlocked\" earlier than that point, since I didn't check after every quest.",
+  "Wowhead050Cave entrance: / way 34.71 44.76",
+  "Wowhead050Currently linked to the completion of campaign quest at Atal'Aman, this is causing phase issues when summoning Lamyne of the Undercroft at the crystal. Two options that you may do: 1. Complete the story campaign at Atal'Aman so the phasing does not happen. 2. If you have completed the campaign on another toon, you go to the Visage of Jan'alai to skip that part of the campaign. ( Visage of Jan'alai ) This will make Lamyne of the Undercroft spawn when summoned at the crystal.",
 },
 
-[90134] = {
-  "9013418080NPCUnknown0NPCUnknown00",
+[91111] = {
+  "9111118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90135] = {
-  "9013518080NPCUnknown0NPCUnknown00",
+[91112] = {
+  "9111218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90136] = {
-  "9013618080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91113] = {
+  "9111318080NPCUnknown0NPCUnknown00",
+  "Wowhead050I took this quest before I hit level 90. This guy will clap you if you are a DPS with no pets or good heals. He does two types of encounters from what I can tell on \"Normal.\"This could change as difficulty increases. Firstly, he will attack you at the WORST possible time. The key however is to make sure that after you defeat him, he will stay in a phase where you need to run up to him and click to do some sort of finishing move. Stick with the simple quests around the area, WQ's might be OK if they don't have overwhelming amounts of mobs. Sometimes the icon for \"Minor Coalescing Anguish\", or blood mist will be visible on the map. That usually indicates he is there. Once you get about 1/ 2 way trough beating what spawns, the Praetor will spawn. He will disappear when you almost have him dead and it will leave a red spore of \"Remnant of Anguish.\" Click on that and continue the hunt. Both of these events will fill up a crystal that's an indicator of how much you have to keep doing until he is fully revealed. You will eventually get a pop up from the quest giver saying, \" Oh, how close they are now. Can you taste their fear?\" I can--and it is exquisite.\" After you get this pop up, an actual location will come up on your map, once you fly to it there will be a \"Charged Anguish Crystal\" for you to interact with. Be prepared, he has a new uninterruptible attack called \"Gravity Well\" and its a DOT that if you don't get out of within 2 seconds you are dead. Good luck! **EDIT** These seems to be able to be done in groups. As I was writing this at the final location I saw a three man group come in and finish the quest. Last edited by EddieNevada on 2026/03/15 (Patch 12.0.1)",
 },
 
-[90137] = {
-  "9013718080NPCUnknown0NPCUnknown00",
+[91114] = {
+  "9111418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90138] = {
-  "9013818080NPCUnknown0NPCUnknown00",
+[91115] = {
+  "9111518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90229] = {
-  "9022918080NPCUnknown0NPCUnknown00",
+[91116] = {
+  "9111618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90230] = {
-  "9023018080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91117] = {
+  "9111718080NPCUnknown0NPCUnknown00",
+  "Wowhead050Complete World Activities in the map that you picked the Hunt. ( Knight-Errant Bloodshatter can be a Eversong Woods or Zul'Aman Hunt) Theres a Hunt Progress icon in your Enconter Bar section at Edit Mode. It fills and shine in red when you complete a World Quest , Kill Rares or Open Treasures . During the process, the boss will ambush and give you a hint of what you'll face! After knocking the boss, he/ she'll run and leave a Remnant of Anguish behind. You can also find traps to disarm and increase your prey bar. As long as you progress, new quests will show up. Once you're done, a final quest becomes available revealing the boss location . Kill it and you're done.",
+  "Wowhead050If this bugs out on you and you can't complete the quest: I found a fix. Go to your quest log and click \"track\" on the completed quest for \"Prey\". Under \"All Objectives\" on the right hand side of your screen (might need to disable add ons if you are using any slimming down mods), it'll now pop up tracked Quests, with the quest completed and you can now click on it and \"Complete Quest\".",
+  "Wowhead050On nightmare, this quest is freak'n brutal. About half the time, there's something that is unseen that drains you to death. I've died at least 40 times now. Have to wonder if this is bugged? There is an add that drains you too. If you see it, you can interrupt it. If you don't, it will kill you with Echo of Predation, which does 110K/ sec. Listen for \"Drain their anguish\" or \"Kill for me\". This is the Bloody Debt curse. If you don't kill something before it expires (15 seconds), you will lose 44K per second until you die. or kill something. If you're flying or in the middle of nowhere, you die. Last edited by SuuShih on 2026/03/28 (Patch 12.0.1)",
+  "Wowhead050Silvermoon > Orgrimmar > Dornogal > K'aresh you funny, huh?",
 },
 
-[90231] = {
-  "9023118080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91118] = {
+  "9111818080NPCUnknown0NPCUnknown00",
+  "Wowhead050Cant complete the quest or do anything with it anymore. Had 100% completion but somehow it didn't turn finished. Now I don't have any progression anymore, no zone indication, and can't start another hunt due to \"Hunt in Progress\". Track/ untrack the quest also did not yield any results. ...",
 },
 
-[90232] = {
-  "9023218080NPCUnknown0NPCUnknown00",
+[91119] = {
+  "9111918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90233] = {
-  "9023318080NPCUnknown0NPCUnknown00",
+[91120] = {
+  "9112018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90234] = {
-  "9023418080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91121] = {
+  "9112118080NPCUnknown0NPCUnknown00",
+  "Wowhead050Please review the video from Bue on YouTube titled \"Prey: Thornspeaker Edgath (Normal), WoW Midnight\" that was posted a month ago. This is a really good video showing the mechanics to get him to show up. Note, I am currently in Fairbreeze Village and the traps to lure him out spawn sporadically here but in Bue's video, they were questing in the Voidstorm. He is not a one fight boss so you have to release the traps laying around and fight the hostile NPC's to trigger him. He will \"ambush\" you and as you fight, he will drop the Remnant of Anguish. After you collect so many, then his final location will spawn and you fight him to complete the quest. Last edited by Nicanna on 2026/03/28 (Patch 12.0.1)",
 },
 
-[90235] = {
-  "9023518080NPCUnknown0NPCUnknown00",
+[91122] = {
+  "9112218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90236] = {
-  "9023618080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91123] = {
+  "9112318080NPCUnknown0NPCUnknown00",
+  "Wowhead050Complete World Activities in the map that you picked the Hunt ( Grothoz, the Burning Shadow is in Voidstorm ) Theres a Hunt Progress icon in your Enconter Bar section at Edit Mode. It fills and shine in red when you complete a World Quest , Kill Rares or Open Treasures . During the process, the boss will ambush and give you a hint of what you'll face! After knocking the boss, he/ she'll run and leave a Remnant of Anguish behind. You can also find traps to disarm and increase your prey bar. As long as you progress, new quests will show up. Once you're done, a final quest becomes available revealing the boss location . Kill it and you're done.",
 },
 
-[90237] = {
-  "9023718080NPCUnknown0NPCUnknown00",
+[91124] = {
+  "9112418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90238] = {
-  "9023818080NPCUnknown0NPCUnknown00",
+[91125] = {
+  "9112518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90239] = {
-  "9023918080NPCUnknown0NPCUnknown00",
+[91126] = {
+  "9112618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90240] = {
-  "9024018080NPCUnknown0NPCUnknown00",
+[91127] = {
+  "9112718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90241] = {
-  "9024118080NPCUnknown0NPCUnknown00",
+[91128] = {
+  "9112818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90242] = {
-  "9024218080NPCUnknown0NPCUnknown00",
+[91129] = {
+  "9112918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90243] = {
-  "9024318080NPCUnknown0NPCUnknown00",
+[91130] = {
+  "9113018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90244] = {
-  "9024418080NPCUnknown0NPCUnknown00",
+[91131] = {
+  "9113118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90245] = {
-  "9024518080NPCUnknown0NPCUnknown00",
+[91132] = {
+  "9113218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90246] = {
-  "9024618080NPCUnknown0NPCUnknown00",
+[91133] = {
+  "9113318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90247] = {
-  "9024718080NPCUnknown0NPCUnknown00",
+[91134] = {
+  "9113418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90248] = {
-  "9024818080NPCUnknown0NPCUnknown00",
+[91135] = {
+  "9113518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90249] = {
-  "9024918080NPCUnknown0NPCUnknown00",
+[91136] = {
+  "9113618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90250] = {
-  "9025018080NPCUnknown0NPCUnknown00",
+[91137] = {
+  "9113718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90251] = {
-  "9025118080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91138] = {
+  "9113818080NPCUnknown0NPCUnknown00",
+  "Wowhead050This is part of the Priest-exclusive short questline The Legacy of T'uure , which begins from A Curious Crystalline Fragment . The item is dropped by Dimensius on any difficulty (even in Storymode) in Manaforge Omega . ------------------------------------------------------------------------------------------------------------------ Not exactly sure if it matters what you kill for the \" Worthy Creatures Destroyed \" part , but I was all over TWW zones killing things at least, and the 20 enemies got fairly fast done. // As stated by astleyt07 , the enemies need to be same level as you . ------------------------------------------------------------------------------------------------------------------ Players Resurrected part took me 12 times (each one giving 9% towards the bar) to cast Resurrection on fallen player. This took me about less than 5 minutes to do. Not sure if intended , but the way I did it: If you have another account (even trial is fine) to have another character or a friend to help: have their character die and stay in their corpse - DO NOT CLICK RELEASE! Each time you cast Resurrection on the fallen player character you get credit towards the bar - as long as there isn't already pending resurrection attempt. Have the other character/ player decline each resurrection , which will remove the \"pending resurrection\" - DO NOT ACCEPT IT! Then cast Resurrection again on them after the other character/ player has declined it. Do this 12 times, and you should be done. ------------------------------------------------------------------------------------------------------------------ Mass Resurrection gives you credit only for one resurrection , so be aware that trying to use it to get all done in one go won't work. (Currently at least as of writing this post) Last edited by Merella on 2025/09/25 (Patch 11.2.0)",
+  "Wowhead050Any creature your level, even small bees count for the creatures destoryed. You can get a friend to decline resses and spam ress him for the ressurect players part",
+  "Wowhead050Mass res doesn't give you credit for each person you res, you only get credit for one res as far as percentages go",
+  "Wowhead050You can progress the resurrections (and likely the kill part as well) inside the Manaforge Omega raid. However I would recommend to single-target resurrect people as it will give 9% credit for each resurrected player, as opposed to if you Mass Resurrect which will only give 9% for each successful cast regardless of how many players you resurrect.",
+  "Wowhead050Take an alt to the \"Stamper\" next to Blacksmith and get stamped. Die and release. Log onto resser and spam your Resurrection spell. Done.",
+  "Wowhead050Completed the rez requirement by having a few friends in a delve stagger their deaths and rez back to back, took like 5 minutes. Completed the kill part of the quest by doing Timewalking dungeons, apparently? Not sure if it's intended to be this easy, but I'll take it =]",
+  "Wowhead050It's a 9% progress per single rez target. Mass rez gives same 9% credit.",
 },
 
-[90252] = {
-  "9025218080NPCUnknown0NPCUnknown00",
+[91140] = {
+  "9114018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90253] = {
-  "9025318080NPCUnknown0NPCUnknown00",
+[91141] = {
+  "9114118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90254] = {
-  "9025418080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91142] = {
+  "9114218080NPCUnknown0NPCUnknown00",
+  "Wowhead050Available at The K'aresh Trust Renown level 10.",
 },
 
-[90255] = {
-  "9025518080NPCUnknown0NPCUnknown00",
+[91143] = {
+  "9114318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90256] = {
-  "9025618080NPCUnknown0NPCUnknown00",
+[91144] = {
+  "9114418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90257] = {
-  "9025718080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91145] = {
+  "9114518080NPCUnknown0NPCUnknown00",
+  "Wowhead050Because no one has mentioned it here and for those like me trying to do the quest on your first 90: Will not show up till AFTER you finish the campaign for Voidstorm",
+  "Wowhead050I see it on the world map but can't start it for some reason",
 },
 
-[90258] = {
-  "9025818080NPCUnknown0NPCUnknown00",
+[91146] = {
+  "9114618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90259] = {
-  "9025918080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91147] = {
+  "9114718080NPCUnknown0NPCUnknown00",
+  "Wowhead050Find mob Alloyed Creature lower him on 1hp and right click on him :) Last edited by lazyfellow on 2026/02/28 (Patch 12.0.1)",
+  "Wowhead050There are a good amount of the Alloyed Voidcrawler and Alloyed Ultradon around 54, 75 and 50, 79 Slayer's Rise in The Bloodplains (Voidstorm). Just fight them like normal, and before they die, they become 'dazed/ stunned' and clickable. Click for an attempt to remove the Shadowgrafts and then it'll become lootable.",
 },
 
-[90260] = {
-  "9026018080NPCUnknown0NPCUnknown00",
+[91148] = {
+  "9114818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90261] = {
-  "9026118080NPCUnknown0NPCUnknown00",
+[91149] = {
+  "9114918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90262] = {
-  "9026218080NPCUnknown0NPCUnknown00",
+[91150] = {
+  "9115018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90263] = {
-  "9026318080NPCUnknown0NPCUnknown00",
+[91151] = {
+  "9115118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90264] = {
-  "9026418080NPCUnknown0NPCUnknown00",
+[91152] = {
+  "9115218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90265] = {
-  "9026518080NPCUnknown0NPCUnknown00",
+[91153] = {
+  "9115318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90266] = {
-  "9026618080NPCUnknown0NPCUnknown00",
+[91154] = {
+  "9115418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90267] = {
-  "9026718080NPCUnknown0NPCUnknown00",
+[91155] = {
+  "9115518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90268] = {
-  "9026818080NPCUnknown0NPCUnknown00",
+[91156] = {
+  "9115618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90269] = {
-  "9026918080NPCUnknown0NPCUnknown00",
+[91157] = {
+  "9115718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90270] = {
-  "9027018080NPCUnknown0NPCUnknown00",
+[91158] = {
+  "9115818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90271] = {
-  "9027118080NPCUnknown0NPCUnknown00",
+[91159] = {
+  "9115918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90272] = {
-  "9027218080NPCUnknown0NPCUnknown00",
+[91160] = {
+  "9116018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90273] = {
-  "9027318080NPCUnknown0NPCUnknown00",
+[91161] = {
+  "9116118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90274] = {
-  "9027418080NPCUnknown0NPCUnknown00",
+[91162] = {
+  "9116218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90275] = {
-  "9027518080NPCUnknown0NPCUnknown00",
+[91163] = {
+  "9116318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90276] = {
-  "9027618080NPCUnknown0NPCUnknown00",
+[91164] = {
+  "9116418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90277] = {
-  "9027718080NPCUnknown0NPCUnknown00",
+[91165] = {
+  "9116518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90278] = {
-  "9027818080NPCUnknown0NPCUnknown00",
+[91166] = {
+  "9116618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90279] = {
-  "9027918080NPCUnknown0NPCUnknown00",
+[91167] = {
+  "9116718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90280] = {
-  "9028018080NPCUnknown0NPCUnknown00",
+[91168] = {
+  "9116818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90281] = {
-  "9028118080NPCUnknown0NPCUnknown00",
+[91169] = {
+  "9116918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90282] = {
-  "9028218080NPCUnknown0NPCUnknown00",
+[91170] = {
+  "9117018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90283] = {
-  "9028318080NPCUnknown0NPCUnknown00",
+[91171] = {
+  "9117118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90284] = {
-  "9028418080NPCUnknown0NPCUnknown00",
+[91172] = {
+  "9117218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90285] = {
-  "9028518080NPCUnknown0NPCUnknown00",
+[91173] = {
+  "9117318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90286] = {
-  "9028618080NPCUnknown0NPCUnknown00",
+[91174] = {
+  "9117418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90287] = {
-  "9028718080NPCUnknown0NPCUnknown00",
+[91175] = {
+  "9117518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90288] = {
-  "9028818080NPCUnknown0NPCUnknown00",
+[91176] = {
+  "9117618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90289] = {
-  "9028918080NPCUnknown0NPCUnknown00",
+[91177] = {
+  "9117718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90290] = {
-  "9029018080NPCUnknown0NPCUnknown00",
+[91178] = {
+  "9117818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90291] = {
-  "9029118080NPCUnknown0NPCUnknown00",
+[91179] = {
+  "9117918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90292] = {
-  "9029218080NPCUnknown0NPCUnknown00",
+[91180] = {
+  "9118018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90293] = {
-  "9029318080NPCUnknown0NPCUnknown00",
+[91181] = {
+  "9118118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90294] = {
-  "9029418080NPCUnknown0NPCUnknown00",
+[91182] = {
+  "9118218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90295] = {
-  "9029518080NPCUnknown0NPCUnknown00",
+[91183] = {
+  "9118318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90296] = {
-  "9029618080NPCUnknown0NPCUnknown00",
+[91184] = {
+  "9118418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90297] = {
-  "9029718080NPCUnknown0NPCUnknown00",
+[91185] = {
+  "9118518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90298] = {
-  "9029818080NPCUnknown0NPCUnknown00",
+[91186] = {
+  "9118618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90299] = {
-  "9029918080NPCUnknown0NPCUnknown00",
+[91187] = {
+  "9118718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90300] = {
-  "9030018080NPCUnknown0NPCUnknown00",
+[91188] = {
+  "9118818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90301] = {
-  "9030118080NPCUnknown0NPCUnknown00",
+[91189] = {
+  "9118918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90302] = {
-  "9030218080NPCUnknown0NPCUnknown00",
+[91190] = {
+  "9119018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90303] = {
-  "9030318080NPCUnknown0NPCUnknown00",
+[91191] = {
+  "9119118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90304] = {
-  "9030418080NPCUnknown0NPCUnknown00",
+[91192] = {
+  "9119218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90305] = {
-  "9030518080NPCUnknown0NPCUnknown00",
+[91193] = {
+  "9119318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90306] = {
-  "9030618080NPCUnknown0NPCUnknown00",
+[91194] = {
+  "9119418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90307] = {
-  "9030718080NPCUnknown0NPCUnknown00",
+[91195] = {
+  "9119518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90308] = {
-  "9030818080NPCUnknown0NPCUnknown00",
+[91197] = {
+  "9119718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90309] = {
-  "9030918080NPCUnknown0NPCUnknown00",
+[91199] = {
+  "9119918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90310] = {
-  "9031018080NPCUnknown0NPCUnknown00",
+[91200] = {
+  "9120018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90311] = {
-  "9031118080NPCUnknown0NPCUnknown00",
+[91201] = {
+  "9120118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90312] = {
-  "9031218080NPCUnknown0NPCUnknown00",
+[91202] = {
+  "9120218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90313] = {
-  "9031318080NPCUnknown0NPCUnknown00",
+[91203] = {
+  "9120318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90314] = {
-  "9031418080NPCUnknown0NPCUnknown00",
+[91204] = {
+  "9120418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90315] = {
-  "9031518080NPCUnknown0NPCUnknown00",
+[91205] = {
+  "9120518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90316] = {
-  "9031618080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91206] = {
+  "9120618080NPCUnknown0NPCUnknown00",
+  "Wowhead050Can't find it? Try zooming in (scroll-wheel) and the quest markers should 'snap' to the correct locations. Loa Disturbance: 43.08, 67.88 Altar History: 43.48, 68.93",
+  "Wowhead050This starter quest will be available after finishing the zone storyline and getting the \"For Zulaman!\" achievement.",
+  "Wowhead050The quest is located at 43,67 and can be picked up by Elder Doru",
 },
 
-[90317] = {
-  "9031718080NPCUnknown0NPCUnknown00",
+[91207] = {
+  "9120718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90318] = {
-  "9031818080NPCUnknown0NPCUnknown00",
+[91210] = {
+  "9121018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90389] = {
-  "9038918080NPCUnknown0NPCUnknown00",
+[91211] = {
+  "9121118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90390] = {
-  "9039018080NPCUnknown0NPCUnknown00",
+[91212] = {
+  "9121218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90391] = {
-  "9039118080NPCUnknown0NPCUnknown00",
+[91213] = {
+  "9121318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90392] = {
-  "9039218080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91214] = {
+  "9121418080NPCUnknown0NPCUnknown00",
+  "Wowhead050If you are chasing him in Voidstorm the cave entrance is at 34.72, 44.69",
 },
 
-[90393] = {
-  "9039318080NPCUnknown0NPCUnknown00",
+[91215] = {
+  "9121518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90394] = {
-  "9039418080NPCUnknown0NPCUnknown00",
+[91216] = {
+  "9121618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90395] = {
-  "9039518080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91217] = {
+  "9121718080NPCUnknown0NPCUnknown00",
+  "Wowhead050/ way #2405 32.51 48.51 Trap / way #2405 31.45 45.89 Trap / way #2405 29.62 48.43 Major Coalescing Anguish / way #2405 27.79 51.24 Major Coalescing Anguish",
 },
 
-[90396] = {
-  "9039618080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91218] = {
+  "9121818080NPCUnknown0NPCUnknown00",
+  "Wowhead050Voidstorm cave entrance is / way #2405 34.6 44.7 . It wasn't close to the map point of the boss.",
 },
 
-[90397] = {
-  "9039718080NPCUnknown0NPCUnknown00",
+[91219] = {
+  "9121918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90398] = {
-  "9039818080NPCUnknown0NPCUnknown00",
+[91220] = {
+  "9122018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90399] = {
-  "9039918080NPCUnknown0NPCUnknown00",
+[91221] = {
+  "9122118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90400] = {
-  "9040018080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91222] = {
+  "9122218080NPCUnknown0NPCUnknown00",
+  "Wowhead050The cave entrance you are looking for is at / way 34.67, 44.83",
 },
 
-[90401] = {
-  "9040118080NPCUnknown0NPCUnknown00",
+[91223] = {
+  "9122318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90402] = {
-  "9040218080NPCUnknown0NPCUnknown00",
+[91224] = {
+  "9122418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90403] = {
-  "9040318080NPCUnknown0NPCUnknown00",
+[91225] = {
+  "9122518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90404] = {
-  "9040418080NPCUnknown0NPCUnknown00",
+[91226] = {
+  "9122618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90405] = {
-  "9040518080NPCUnknown0NPCUnknown00",
+[91227] = {
+  "9122718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90406] = {
-  "9040618080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91228] = {
+  "9122818080NPCUnknown0NPCUnknown00",
+  "Wowhead050the entrance is a very small cave in the ground 35,45",
+  "Wowhead050This hunt is currently bugged. Every time you get ambushed or go into combat in the zone, you get locked into combat. This causes you to not be able to mount. I don't know how to fix it. I kept dying to leave combat hoping the huunt would finally end but its honestly just going on and on. Doesn't seem to be registering the hunt progress accurately either.",
 },
 
-[90407] = {
-  "9040718080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91229] = {
+  "9122918080NPCUnknown0NPCUnknown00",
+  "Wowhead050This is not fun. A bit too much. Thanks Blizz.",
+  "Wowhead050Tactics? I die by this NPC very quickly as a warlock. Even after he already has disappeared. It's the Bloody Debt spell I think. Does 44k damage each time. I do use my void walker as tank. Maybe Nightmare mode is more for the plate wearers? Last edited by Noctula 29 days ago (Patch 12.0.5)",
 },
 
-[90408] = {
-  "9040818080NPCUnknown0NPCUnknown00",
+[91230] = {
+  "9123018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90409] = {
-  "9040918080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91231] = {
+  "9123118080NPCUnknown0NPCUnknown00",
+  "Wowhead050I don't know when my screenshot will post, but to help anyone who has blond moments or ends up getting frustrated with trying to figure it out, go all the way to the ground look for a group of dead animals, the cave entrance is not that far from those bodies",
+  "Wowhead050Cave entrance @59.69-44.13",
 },
 
-[90410] = {
-  "9041018080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91232] = {
+  "9123218080NPCUnknown0NPCUnknown00",
+  "Wowhead050I think this is bugged. The hatchlings keep disappearing.",
+  "Wowhead050Ran into a lot of the ground traps in Lightbloom Ath'Ran just south of Fairbreeze.",
 },
 
-[90411] = {
-  "9041118080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91233] = {
+  "9123318080NPCUnknown0NPCUnknown00",
+  "Wowhead050/ way #2437 46.05 37.94 Major Coalescing Anguish",
 },
 
-[90412] = {
-  "9041218080NPCUnknown0NPCUnknown00",
+[91234] = {
+  "9123418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90413] = {
-  "9041318080NPCUnknown0NPCUnknown00",
+[91235] = {
+  "9123518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90414] = {
-  "9041418080NPCUnknown0NPCUnknown00",
+[91236] = {
+  "9123618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90415] = {
-  "9041518080NPCUnknown0NPCUnknown00",
+[91237] = {
+  "9123718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90416] = {
-  "9041618080NPCUnknown0NPCUnknown00",
+[91238] = {
+  "9123818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90417] = {
-  "9041718080NPCUnknown0NPCUnknown00",
+[91239] = {
+  "9123918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90418] = {
-  "9041818080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91240] = {
+  "9124018080NPCUnknown0NPCUnknown00",
+  "Wowhead050If you struggle to find the entrance to the cave this is in, it's at / way 34.71 44.76",
+  "Wowhead050also there are traps here / way #2437 42.16 33.41",
 },
 
-[90419] = {
-  "9041918080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91241] = {
+  "9124118080NPCUnknown0NPCUnknown00",
+  "Wowhead050Cave entrance: / way 34.71 44.76",
+  "Wowhead050I had to abandon this quest from the randomized Nightmare hunt! Too hard of a fight with the adds spawning. I'm a level 90 Subtlety rogue with ilevel 245 (patch 12.0.1) - tried stunning her and killing them but she added more instantly, but if I used my stuns on the adds she kept adding more! Probably a skill issue (I am a permanent noob). My class's defense and hp is low so I can't really take sustained damage - plus Vanish doesn't work in solo fights because it resets the encounter! Every other fight on Nightmare mode has been pretty smooth; potions, flasks and food didn't help. Are there any guides or places I can find the spells the enemy uses for this Nightmare Prey fight? Or any advice? Thanks! Last edited by xheartzxx on 2026/04/10 (Patch 12.0.1)",
 },
 
-[90420] = {
-  "9042018080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91242] = {
+  "9124218080NPCUnknown0NPCUnknown00",
+  "Wowhead050cave entrance is at 34.69,44.81",
+  "Wowhead050Cave entrance / way 34.69, 44.81",
 },
 
-[90421] = {
-  "9042118080NPCUnknown0NPCUnknown00",
+[91243] = {
+  "9124318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90422] = {
-  "9042218080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91244] = {
+  "9124418080NPCUnknown0NPCUnknown00",
+  "Wowhead050I got stuck in three gravity wells but was able to pop enough cooldowns on a blood DK to survive - but barely. This is obvious, but run away from the gravity wells because if he casts two on top of eachother, you get permanently stuck if you enter it and it becomes a DPS race to kill him before you die, unless your class has some mechanic to escape.",
 },
 
-[90423] = {
-  "9042318080NPCUnknown0NPCUnknown00",
+[91245] = {
+  "9124518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90424] = {
-  "9042418080NPCUnknown0NPCUnknown00",
+[91246] = {
+  "9124618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90425] = {
-  "9042518080NPCUnknown0NPCUnknown00",
+[91247] = {
+  "9124718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90426] = {
-  "9042618080NPCUnknown0NPCUnknown00",
+[91248] = {
+  "9124818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90427] = {
-  "9042718080NPCUnknown0NPCUnknown00",
+[91249] = {
+  "9124918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90428] = {
-  "9042818080NPCUnknown0NPCUnknown00",
+[91250] = {
+  "9125018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90429] = {
-  "9042918080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91251] = {
+  "9125118080NPCUnknown0NPCUnknown00",
+  "Wowhead050Trap Areas / way #2437 33.90 81.06 / way #2437 23.22 63.38",
 },
 
-[90430] = {
-  "9043018080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91252] = {
+  "9125218080NPCUnknown0NPCUnknown00",
+  "Wowhead050Cave location for mob: 34.71, 44.74 in Voidstorm",
+  "Wowhead050the green cone he does that roots you sucks in nightmare, very little time to react and is way bigger than it appears on the ground, heck I was at least 10 feet behind him and still got rooted by it. then immediate stun, if you don't have defensives you're pretty much screwed.",
+  "Wowhead050The progress bar and end quest for the Prey system has...not been good. Overall great idea, but implementation is lacking.",
+  "Wowhead050The entrance is est. 150 metres southwest of the circle near a red plant. Last edited by Moin on 2026/03/09 (Patch 12.0.1)",
 },
 
-[90431] = {
-  "9043118080NPCUnknown0NPCUnknown00",
+[91253] = {
+  "9125318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90432] = {
-  "9043218080NPCUnknown0NPCUnknown00",
+[91254] = {
+  "9125418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90433] = {
-  "9043318080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91255] = {
+  "9125518080NPCUnknown0NPCUnknown00",
+  "Wowhead050Cave entrance at 34.69 44.74",
 },
 
-[90434] = {
-  "9043418080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91256] = {
+  "9125618080NPCUnknown0NPCUnknown00",
+  "Wowhead050/ way #2405 62.58 60.23 Major Coalescing Anguish / way #2405 54.00 80.83 Major Coalescing Anguish / way #2405 63.70 71.36 Minor Coalescing Anguish / way #2405 58.99 79.35 Minor Coalescing Anguish / way #2405 49.83 77.90 Minor Coalescing Anguish / way #2405 58.38 60.49 Minor Coalescing Anguish / way #2405 61.28 61.79 Trap / way #2405 65.79 61.71 Trap / way #2405 32.69 44.65 Trap / way #2405 46.37 72.03 Trap / way #2405 59.53 62.77 Trap / way #2405 58.95 60.90 Trap Last edited by geekySmurfer 20 days ago (Patch 12.0.5)",
 },
 
-[90435] = {
-  "9043518080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91257] = {
+  "9125718080NPCUnknown0NPCUnknown00",
+  "Wowhead050/ way #2405 43.04 68.07 Minor Coalescing Anguish / way #2405 48.59 67.12 Minor Coalescing Anguish / way #2405 57.12 67.09 Minor Coalescing Anguish / way #2405 30.90 57.67 Trap / way #2405 49.24 65.10 Trap / way #2405 49.90 84.45 Trap",
 },
 
-[90436] = {
-  "9043618080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91258] = {
+  "9125818080NPCUnknown0NPCUnknown00",
+  "Wowhead050For melee having problems: when he starts to cast gravity well run away from him. It drops where you are standing. Drop the well far enough away that you can run back to him and not be in it. Assassination Rogues can just shadowstep back to him. He doesn't move so if you cause a well to be on him you are going to have a bad time.",
+  "Wowhead050Cannot be done as a ilvl 262 hunter, he will basically one shot me and my pet. I think this is bugged because this one is impossible even with BL and the other Nightmare Preys are doable so far (although hard, but BM hunter is the weakest class & spec in the game..) Basically don't bother trying this you will just wipe and it will end up costing a lot in repairs",
+  "Wowhead050I just soloed it on ilvl 261 BM Hunter, and would like to share my observations: #1 I did not use any extra buff, potion, food, etc. #2 That fella who shows up periodically and connects you with a blood does no damage as long as you don't let him touch you. Just kite him. #3 I play as a Draenei, so I have Gift of the Naaru, but since I ended with around 40% health it doesn't matter. What I did: 1 Started the encounter 2 Immediately put Hunter's Mark on him 3 Kill command (to get the pet next to him) 4 Wild Trash 5 Bestial Wrath 6 Kill Command again to trigger the running beasts against him 7 Survival of the fittest - for protection 8 Somewhere here or before I got first puddle, but since I was running around him in circles, I was able to walk out in time 9 That bloody fella popped, but I just avoided him and kept running 10 Around 50% popped Exhilaration, I got back about 70-75%, but he was already below 45% 11 Used disengage to get out of the blue puddle 12 Mend Pet - probably used once, as Exhilaration took care of it, so I'm unsure if I used it at all. Took me several tries to get it right. After I figured the blood linker fella is harmless, I did it on 2nd try.",
+  "Wowhead050As a prot warrior, this was the most unfun nightmare prey I've had to do yet. Will not be doing this one again.",
 },
 
-[90437] = {
-  "9043718080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91259] = {
+  "9125918080NPCUnknown0NPCUnknown00",
+  "Wowhead050Easy fight as hance shaman. Decurse the dot, move out of gravity well, earthgrab the add, interrupt casts to get him out of gravity wells, and dps.",
+  "Wowhead050The single most annoying fight I've experienced in Nightmare, by far. It felt like half the time, my interrupts and stuns weren't working on his Gravity Wells, he refused to move out of the center of his wells most of the time, and he was simply casting too many to interrupt. By the end of the battle, I was caught in a vortex and literally thrown from side to side like a bartender shaking a martini. I suppose this can be countered with better placement of his purple circles of badness, but I will never fight this jerk again.",
 },
 
-[90438] = {
-  "9043818080NPCUnknown0NPCUnknown00",
+[91260] = {
+  "9126018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90439] = {
-  "9043918080NPCUnknown0NPCUnknown00",
+[91261] = {
+  "9126118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90440] = {
-  "9044018080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91262] = {
+  "9126218080NPCUnknown0NPCUnknown00",
+  "Wowhead050What are his coordinates for Nightmare? The quest tracker is bugged and not telling me where he is when I have finished the stupid thing.",
+  "Wowhead050Any tips on how to kill this guy as an assassination rogue in nightmare mode? I've tried, but I usually end up getting stunned or yanked back to Knight-Errant Bloodshatter and then suffering enormous damage from his pools or from the Echo.",
+  "Wowhead050Nightmare: If the quest isn't showing his location once you've finished the hunt, go to: Eversong Woods: / way #2395 53.8 86.6 Knight-Errant Bloodshatter Zul'aman: / way #2437 31.6 16.2 Knight-Errant Bloodshatter",
 },
 
-[90441] = {
-  "9044118080NPCUnknown0NPCUnknown00",
+[91263] = {
+  "9126318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90442] = {
-  "9044218080NPCUnknown0NPCUnknown00",
+[91264] = {
+  "9126418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90443] = {
-  "9044318080NPCUnknown0NPCUnknown00",
+[91265] = {
+  "9126518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90444] = {
-  "9044418080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91266] = {
+  "9126618080NPCUnknown0NPCUnknown00",
+  "Wowhead050Worst nightmare hunt of them all. Even the slightest bit of lag gets you rooted & then an ion cannon dropped on your head.",
+  "Wowhead050Cave location for mob: 59.64 44.14 in Voidstorm. Small cave opening, down once you're inside.",
+  "Wowhead050This guy was easy on a 252 prot paladin. I just stood in his face and punched him a lot. He was very frustrating on a 246 marksman hunter. You can only interrupt every 2nd or 3rd cast of his bolt attack. You can't interrupt his aoe. You can't avoid taking damage from his aoe. Self healing is very limited. I used a health pot, bandage, vers flask, weapon oil, whenever I could. Lust is only available every 4th pull or so. He melees from about 15 yards away. The only way to bandage is to frost trap him, and you still only get a couple ticks off because reasons. Pots are only available every 2nd pull or so. Frost traps to help my other cds come back was definitely helpful, but it's still a dps race. General chat yielded no help, despite dozens of other people clearly running the quest. There don't seem to be any custom groups for it in the group finder. I spent about 800g on repairs and another 200-300g buying some cheap gems and enchants to help out. The strategy is a combination of do it until your eyes bleed and pure RNG luck on procs. Or come back with another 10 or 15 ilevel. I finally killed him and I just feel... anguish.",
+  "Wowhead050/ way #2437 32.45 41.05 Major Coalesced Anguish / way #2437 35.38 33.79 Major Coalesced Anguish / way #2437 32.42 41.04 Major Coalesced Anguish / way #2437 53.74 65.15 Major Coalesced Anguish / way #2437 52.64 66.56 Minor Coalesced Anguish / way #2437 52.15 71.74 Minor Coalesced Anguish",
 },
 
-[90445] = {
-  "9044518080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91267] = {
+  "9126718080NPCUnknown0NPCUnknown00",
+  "Wowhead050For a Frost Mage, this isn't too difficult; however, if you can't interrupt and stay far from the Thorn-Witch Liset Nightmare, it can be quite tenuous. Stay close to Thorn-Witch Liset Nightmare and use slowing defensives and step aside when it uses its spells. It won't take long then.",
 },
 
-[90446] = {
-  "9044618080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91268] = {
+  "9126818080NPCUnknown0NPCUnknown00",
+  "Wowhead050257 Demon Hunter, spent way too much time, cost lots in repairs, not fun at all. I will complete this one but no other, not worth the trouble.",
+  "Wowhead050I didn't get what is up. But I have died like 7 times on the boss. 250. Have no clue what's been killing me. Other nightmares were cleared without dying. This one is tricky.",
+  "Wowhead050This guy sucks on nightmare. Trick is to make sure you stay close to the starting area so you don't go out of bounds and start taking massive damage from Astalor's Disdain. GG",
+  "Wowhead050Absolutely annoying. They guy is fine, but the nonsense where Alistor wants you to kill something random or kills you himself is utterly annoying and pointless. Sometimes it procs where there is nothing to kill, so you inevitably die. Makes the whole quest inconceivably annoying. Not challenging, just annoying. I'm on the verge of just dropping it and moving on.",
+  "Wowhead050As a BM Hunter, level 241, I was able to kill him, but only after 16 attempts. I finally figured out that by staying close to him I was (barely) able to kill his stanky arse.",
+  "Wowhead050So, what item level should I have to get this done? Also, what I need to do so as not to die for no reason.",
 },
 
-[90447] = {
-  "9044718080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91269] = {
+  "9126918080NPCUnknown0NPCUnknown00",
+  "Wowhead050/ way #2413 59.29 35.79 Trap",
 },
 
-[90448] = {
-  "9044818080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91270] = {
+  "9127018080NPCUnknown0NPCUnknown00",
+  "Wowhead050It is a crime that The Spore Horsemen was not an option.",
+  "Wowhead050In The Most Important Thing , you can choose between 4 options for your team's name: 1) The Ringcaps ( Brakko 's choice) 2) The Puffguard Tuktuk 's choice) 3) The Sporesworn ( Ziny 's choice) 4) The Fungal Fellowship (presumably, your character's choice) If you choose \"The Ringcaps\" , Brakko will say: Ringcaps was choice. Caps are best part of us! If you choose \"The Puffguard\" , Tuktuk will say: Puffguard, most good choice that could be, <Name>! If you choose \"The Sporesworn\" , Ziny will say: Sporesworn is good name. Will help us try most hard. We sworn now. Nobody says anything when you choose Option 4, \"The Fungal Fellowship\" . No emotes, either. :( For the first 3 choices: When you go to turn in the quest to Tuktuk , in the quest text box he will say: Ringcaps / Puffguard / Sporesworn, perfect! Was best name. Now we ready. Will run into pit together, shout the Ringcaps / Puffguard / Sporesworn, eh... Crowd will cheer, then will be new champions! For Option 4: When you go to turn in the quest to Tuktuk , in the quest text box he will say: Fungal Fell...owship, ok. Now we ready. Will run into pit together, shout the Fungal Fello...sip, eh... Crowd will cheer, then will be new champions! Also, if you chose Option 4 , the next quest's text will be a bit different, too: Boletus , in the quest text box for To the Ring , says: Fungus... Fellows? Weird name. Who chose? Don't worry about. Ok, ready? You and Fungus Fellows head on down, and we say words. <The rest of the quest text is the same regardless of which name you chose.> If you chose any of the first 3 options , this part of the quest text when accepting To the Ring will read: Ringcaps / Puffguard / Sporesworn? Not bad. I like! You and the Ringcaps / Puffguard / Sporesworn head on down, and we say words. <Et cetera.> After accepting To the Ring , if you chose \"The Fungal Fellowship\" , the spectators will have things to say, too! Motta says: Team has a name now. But Motta... isn't sure. What is Fungly Follows Hip? Hard to yell that name when in Pit. Could have kept being \"<Name>'s team\". Would be easier for yell. Still, Motta will yell. Once you run into The Pit, your team will attempt to yell the correct name: Brakko yells: The Fungal Fellosh! Tuktuk yells: The Fungus Falls! Ziny yells: The Fungal Fellowship! Ziny yells: You will get right next time. Is hard name. (I would include what Motta says --and what your team yells as they enter The Pit-- if you chose any of the first 3 options, but since we can't redo quests, I can't do that until I hop on another character, which will be quite some time.) Last edited by DaemoniKira on 2026/03/28 (Patch 12.0.1)",
+  "Wowhead050I chose the fourth suggested name and the teammate's responses were pretty funny :)",
+  "Wowhead050I was offered my teammate's three suggestions, and then a fourth choice of my own. Given the quest complete text, I figured I'd be shoehorned into the fourth choice. But no. I chose one of their suggestions (Sporesworn) and it was accepted and applied. Fair warning!",
 },
 
-[90449] = {
-  "9044918080NPCUnknown0NPCUnknown00",
+[91271] = {
+  "9127118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90450] = {
-  "9045018080NPCUnknown0NPCUnknown00",
+[91272] = {
+  "9127218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90451] = {
-  "9045118080NPCUnknown0NPCUnknown00",
+[91273] = {
+  "9127318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90452] = {
-  "9045218080NPCUnknown0NPCUnknown00",
+[91274] = {
+  "9127418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90453] = {
-  "9045318080NPCUnknown0NPCUnknown00",
+[91275] = {
+  "9127518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90454] = {
-  "9045418080NPCUnknown0NPCUnknown00",
+[91276] = {
+  "9127618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90455] = {
-  "9045518080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91277] = {
+  "9127718080NPCUnknown0NPCUnknown00",
+  "Wowhead050Not sure if it's a bug or unannounced change but as of today 05/ 12/ 2026 this quest is repeatable and not just once a week. Edit: Confirmed this is intended https:// www.wowhead.com/ news/ increased-prey-progress-in-todays-hotfixes-midnight-hotfixes-for-may-12th-381594 Removed the once per week restriction on Preferential Killing which generates a hunt with custom parameters. Players may complete Custom Hunts as often as desired after reaching rank 10 in the Season 1 Prey Journey, but subsequent Custom Hunts in a week give reduced rewards. Last edited by Topojijo 7 days ago (Patch 12.0.5)",
+  "Wowhead050This weekly quest becomes available at rank 10 with Prey: Season 1. The weekly quest can be completed once, on each of your max level alts, which is useful for both farming Remnant of Anguish, as well as completing the achievements for defeating every prey target on every difficulty level. If you choose a Nightmare difficulty hunt as your weekly customized prey hunt, completion awards 150 Remnants of Anguish. At the Hard difficulty level, only 120 Remnants of Anguish are awarded upon completion. Normal hunts give 90 Remnants of Anguish. IN ADDITION, there is also an unlisted reward of 25 Hero Dawncrests for completing this on Nightmare difficulty. The quest rewards only lists Champion Dawncrests, but you somehow get both the Champion Dawncrests as well as the hidden Hero Dawncrests. Unclear if it's a bug or intended. Edited for May 12, 2026 hotfixes: This quest is now infinitely repeatable, but with reduced rewards after the 1st completion for the week on any toon on your account. If you are only interested in the achievements for defeating every prey target on every difficulty level, this will be a great change for you! If you were enjoying the easy 25 Hero Dawncrests on every alt, this will not be a great change for you. The quest now only gives 5 Hero Dawncrests per completion, subsequent to your account's first completion of this quest per week. Last edited by Valkyl 7 days ago (Patch 12.0.5)",
+  "Wowhead050They just couldn't make this a repeatable quest..it's a weekly instead. Screw you blizzard, seriously! Edit: It's done. The players have won! Last edited by mRshykid 7 days ago (Patch 12.0.5)",
+  "Wowhead050Just hit rank 10 today and was able to pick up the quest, thought it might just be a 1 time thing so headed onto alts to do weeklies and the quest was there again on alts so not sure if it's meant to be this way as in once per character ever or if it's some daily / weekly lockout per character, unless someone can clarify i'll comment again tomorrow / next week's reset ^.^",
+  "Wowhead050This counts toward the progress of A Nightmarish Task - you don't need to rely on the map.",
+  "Wowhead050In 12.0.5, you can use this quest to complete the Prey achievements for killing every prey target on every difficulty level. I was hunting for other achievements at the same time, such as Void Eradicator: Eversong and Void Eradicator: Zul'Aman . If you're in the same boat, it helps to pick a Prey zone based on where the current Void Assaults are. I found that completing void strikes also counts towards prey progress. That way I could make progress towards all these achievements at the same time. Last edited by Carmada 3 days ago (Patch 12.0.5)",
+  "Wowhead050You don't get anything. What's the point?",
 },
 
-[90456] = {
-  "9045618080NPCUnknown0NPCUnknown00",
+[91278] = {
+  "9127818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90457] = {
-  "9045718080NPCUnknown0NPCUnknown00",
+[91279] = {
+  "9127918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90458] = {
-  "9045818080NPCUnknown0NPCUnknown00",
+[91280] = {
+  "9128018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90459] = {
-  "9045918080NPCUnknown0NPCUnknown00",
+[91281] = {
+  "9128118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90460] = {
-  "9046018080NPCUnknown0NPCUnknown00",
+[91283] = {
+  "9128318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90461] = {
-  "9046118080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91284] = {
+  "9128418080NPCUnknown0NPCUnknown00",
+  "Wowhead050So this quest drove me crazy. You have to gather all 3 quest there an do them to earn the recommendation. The Magister 1 really had me mixed up, but if you look sw you will see a quest to go charge the staff. Hope this helps",
+  "Wowhead050This quest was so confusing. You have to pick up each of the quests from each of the Blood Elves. For Farstrider Recommendation - You need to complete A Test of the Hunt -> Kill Enchroaching Lynx & Invasive Lynx in the nearby area. For Blood Knight Recommendation - You need to complete A Test of Blood -> Duel Jesthenis Sunstriker on the top of the tower. For Magister Recommendation - You need to complete A Test of the Arcane -> Charge the staff at / way 42.06, 20.28 Last edited by Oceandust on 2026/02/28 (Patch 12.0.1)",
+  "Wowhead050Wow... I can't believe I actually got all three recommendations. This guy has a strange view on how personal accomplishment works. He sends me to get these recommendations and then is proud of himself for getting those.",
+  "Wowhead050For some that might be confused how to get the recommendations, you must first complete another quest from each person before they will give it to you.",
+  "Wowhead050Soooo... for one thing, why am I doing all the work for him? And secondly, why is this an Alliance quest? I get we're mostly in a neutral situation due to the story and I'm helping others in the city, but this particular quest seems like it would be more Horde (only) related. What do I know about Blood Elf culture and which career they should choose? Maybe I'm reading too much into it, I tend to do that. On a side note, I'm amused that Kyltus Bloodburn joins in on the fight when Jesthenis Sunstriker becomes hostile :D Last edited by Jeolene on 2026/03/07 (Patch 12.0.1)",
+  "Wowhead050Congratulations, kid. I've proven that I am skilled in several disciplines. So that means you can now choose whatever career I qualify for, for some reason.",
+  "Wowhead050Considering this kid just hangs back and shoots arrows during the Blood Knight fight, I feel the canon choice is the Farstriders.",
+  "Wowhead050Pick up blood knight quest outside at the bottom, fly up top, beat him up, fly down to the bottom, turn quest in",
+  "Wowhead050what a steaming mess. Got to Jesthenis and someone was already wacking him, so I joined and got a few shots in before he gave up. Turned green. Spoke to him and nothing. Still shows as uncompleted, but cant proceed. Looks like have to abandon.",
 },
 
-[90462] = {
-  "9046218080NPCUnknown0NPCUnknown00",
+[91286] = {
+  "9128618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90463] = {
-  "9046318080NPCUnknown0NPCUnknown00",
+[91287] = {
+  "9128718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90464] = {
-  "9046418080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91288] = {
+  "9128818080NPCUnknown0NPCUnknown00",
+  "Wowhead050The quest asks us to bring 8 Invasive Lynx pelt for the recommendation For the record in the book World of Warcraft: Sylvanas, there is a chapter where Lireesa (the mother of the Windrunner sisters) asks her daughter Alleria to bring her a lynx pelt to prove herself as the future Ranger-General",
+  "Wowhead050This is a nod to the original BE starting zone with the lynx quest.",
 },
 
-[90465] = {
-  "9046518080NPCUnknown0NPCUnknown00",
+[91289] = {
+  "9128918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90466] = {
-  "9046618080NPCUnknown0NPCUnknown00",
+[91290] = {
+  "9129018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90467] = {
-  "9046718080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91291] = {
+  "9129118080NPCUnknown0NPCUnknown00",
+  "Wowhead050This looks like this NPC has a bug with his model since his is the one of Magister Jaronis instead of the proper one, of blood knight Jesthenis Sunstriker.",
 },
 
-[90468] = {
-  "9046818080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91292] = {
+  "9129218080NPCUnknown0NPCUnknown00",
+  "Wowhead050Ignore the objective marker near the quest giver and head south to the bridge that links Sunstrider Isle to Silvermoon City, that's where you'll find the crystals.",
+  "Wowhead050go to / way 42.18 20.35 and click the crystals there.",
+  "Wowhead050Gazebo to the right before bridge. Pink crystals.",
 },
 
-[90469] = {
-  "9046918080NPCUnknown0NPCUnknown00",
+[91293] = {
+  "9129318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90470] = {
-  "9047018080NPCUnknown0NPCUnknown00",
+[91301] = {
+  "9130118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90471] = {
-  "9047118080NPCUnknown0NPCUnknown00",
+[91302] = {
+  "9130218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90472] = {
-  "9047218080NPCUnknown0NPCUnknown00",
+[91303] = {
+  "9130318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90473] = {
-  "9047318080NPCUnknown0NPCUnknown00",
+[91304] = {
+  "9130418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90474] = {
-  "9047418080NPCUnknown0NPCUnknown00",
+[91305] = {
+  "9130518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90475] = {
-  "9047518080NPCUnknown0NPCUnknown00",
+[91306] = {
+  "9130618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90476] = {
-  "9047618080NPCUnknown0NPCUnknown00",
+[91308] = {
+  "9130818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90477] = {
-  "9047718080NPCUnknown0NPCUnknown00",
+[91309] = {
+  "9130918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90478] = {
-  "9047818080NPCUnknown0NPCUnknown00",
+[91310] = {
+  "9131018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90479] = {
-  "9047918080NPCUnknown0NPCUnknown00",
+[91311] = {
+  "9131118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90480] = {
-  "9048018080NPCUnknown0NPCUnknown00",
+[91312] = {
+  "9131218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90481] = {
-  "9048118080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91314] = {
+  "9131418080NPCUnknown0NPCUnknown00",
+  "Wowhead050Adds are inside the cave at 56.78, 24.11. Phase dive first then jump off the side of the hill and you will see cave entrance. Last edited by Crazytotz on 2025/08/06 (Patch 11.2.0)",
+  "Wowhead050You need to exit Phase Diving using the extra action button at the conduit. If you exited by right clicking the buff, go back in and exit at the conduit.",
+  "Wowhead050To do this quest: 1. Activate the Phase Conduit Shan'dorah (it is opposite of the Shan'dorah flight master) 2. Teleport to Fracture of Laacuna 3. Once there, go to the cave under the hill at / way 56.78 24.11 Once done just exit the cave, remove phase buff and fly back to the questgiver, it is much faster. Last edited by Keyastalarin on 2025/08/08 (Patch 11.2.0)",
+  "Wowhead050If you get back to the Quest giver after you are done collecting, but they are showing you as incomplete: Use the Phase Conduit right there to go to Phase space Use the Phase Conduit to leave phase space Do not use the Phase Regulator. I used it 3 times and only when I used the Phase Conduit could I then satisfy the last step of the Quest and turn it in. Last edited by rainsford23 on 2025/09/24 (Patch 11.2.0)",
+  "Wowhead050If you don't have coordinates like me and spent 20 mins looking for the cave entrance, it's below the uppermost Phase Conduit. There's a collection of hills and an S-shaped fissure on the map-- the entrance is at the top part of the S tucked under a hill. It's a wild description but I hope it helps anyone! :)",
+  "Wowhead050You have to enter Voidscar Cavern which is BENEATH the area marked on the map. In other words go to the cave entrance around 56.24 (south-west corner of area highlighted) Kill the Phase-Lost Creeper for the Phase-Altered Essence . Warglaive of the Audacious Hunter is also located in the cave for the Treasures of K'aresh achievement. Last edited by WARBOSZ on 2025/09/23 (Patch 11.2.0)",
+  "Wowhead050The first step of the quest just don't work for me, i tried to phase dive at every spot and it does not work",
+  "Wowhead050Maybe stupid but ... to finish the quest, you can not right click on your \"Phase Diving\" buff, because you can't turn in the quest. You really have to use the Phase Conduit.",
+  "Wowhead050In case you have elvui windtools (addon), it adds an additional phase exit button at the top. Use the extra action button instead. The extra button from windtools will just cancel the buff and not give you credit. The option to turn it off is under elvui > windtools > misc > exit phase diving. Last edited by Langmans on 2025/08/24 (Patch 11.2.0)",
+  "Wowhead050Make sure you have Reshii Wraps equipped, otherwise the quest will not show up",
+  "Wowhead050If you're like me and didn't notice the first step (\"Use the phase conduit to enter untethered space\") never advanced, but went into the cave and got the Phase-Altered Essence , then exited correctly via phase conduit, you CAN in fact go back to Researcher Essarae and turn in the quest as normal. I didn't need to relog, it was a purely visual bug.",
+  "Wowhead050вход в пещеру / way 56.78 24.11",
+  "Wowhead050Wow. Get through the quest, come back to Researcher Essarae for them to tell you that they are surprised you are alive, then you get 23 gold when you turn in the quest... and that's it. Just done. OK. Glad to be of service. See ya.",
+  "Wowhead050Phase-Lost Adventurer can be done before this one if you loot the Half-Digested Journal . Last edited by Eillesthis on 2025/10/28 (Patch 11.2.5)",
+  "Wowhead050How do I start this quest? I can't find it :/",
 },
 
-[90482] = {
-  "9048218080NPCUnknown0NPCUnknown00",
+[91315] = {
+  "9131518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90483] = {
-  "9048318080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91328] = {
+  "9132818080NPCUnknown0NPCUnknown00",
+  "Wowhead050Belanise Blossom might be hard to see at first. It is small and looks like white Baby's Breath if that helps.",
 },
 
-[90484] = {
-  "9048418080NPCUnknown0NPCUnknown00",
+[91330] = {
+  "9133018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90485] = {
-  "9048518080NPCUnknown0NPCUnknown00",
+[91331] = {
+  "9133118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90486] = {
-  "9048618080NPCUnknown0NPCUnknown00",
+[91337] = {
+  "9133718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90488] = {
-  "9048818080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91339] = {
+  "9133918080NPCUnknown0NPCUnknown00",
+  "Wowhead050Don't go in the hole where the NPC is standing. These things are on the outside of the hole and in a couple of the surrounding caves(not the hole).",
+  "Wowhead050I rather appreciate the \"extra\" way to do the quest. While it may not really have any point or reward in it, it does give a bit of the missing roleplaying in wow that has been missing for a long time. And hey, maybe some of us would like the option to pass on murdering babies, monster or not.",
+  "Wowhead050There is a druid-specific change in the dialogue option if you choose not to kill the babies, something along the lines of \"We should maintain the balance.\" I liked that. :)",
+  "Wowhead050Picking the dialogue option \"I don't want to kill younglings\" also debuffs you for 30% of your maximum health. It's merciful, but at what cost?",
+  "Wowhead050If you try to do this quest before level 86 you may notice that the Reliquary of Darkness says it requires level 86 to use it. However, you can still click the young wildlife at a lower level and it seems to work fine for completing the quest.",
+  "Wowhead050Some of these guys are underground. Seems like they would be easier. But when you try to get to them, you have to be ables to see a dark black-purple cave against a dark black-purple background. Fly around a look for the guys outside.",
+  "Wowhead050I took the option not to kill the babies. But some of them are in caves and the debuff disappears in the cave so I ended up killing them nevertheless. How cruel!",
 },
 
-[90489] = {
-  "9048918080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91340] = {
+  "9134018080NPCUnknown0NPCUnknown00",
+  "Wowhead050Don't go down right away like I did. Mobs are on ground level.",
 },
 
-[90490] = {
-  "9049018080NPCUnknown0NPCUnknown00",
+[91341] = {
+  "9134118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90491] = {
-  "9049118080NPCUnknown0NPCUnknown00",
+[91342] = {
+  "9134218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90492] = {
-  "9049218080NPCUnknown0NPCUnknown00",
+[91343] = {
+  "9134318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90493] = {
-  "9049318080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91345] = {
+  "9134518080NPCUnknown0NPCUnknown00",
+  "Wowhead050Storyline on the right side is missing To the Central Tower , you will need to do this also to get to See a mana 'bout a wyrm it is picked up from the same NPC as this quest",
 },
 
-[90494] = {
-  "9049418080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91346] = {
+  "9134618080NPCUnknown0NPCUnknown00",
+  "Wowhead050Quest appeared on my alt once i completed Watch The Den from the compaign",
+  "Wowhead050Does this require advancing the campaign first? There's no quest here for me, but currently I've only done a little bit of the campaign on this char (did it all with first char, skipping with alts) - but Hagar is phased until advancing the campaign (for another quest hub) so i only did the minimum for that one lol.",
+  "Wowhead050I've completed the Harandar campaign on my mail, almost done the full Sojouner on an alt, but this quest is not appearing for the alt.",
+  "Wowhead050If you're like me and did the campaign on one character and are doing Sojourner on another, you can go to the Silvermoon Inn and talk to Soridormi to skip the campaign and this quest will appear on your map. I did this as my final chapter in Harandar at level 90. There may be other prerequisites I'm forgetting.",
+  "Wowhead050If you dont see this quest, you just need progress some quests in location :)",
 },
 
-[90495] = {
-  "9049518080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91347] = {
+  "9134718080NPCUnknown0NPCUnknown00",
+  "Wowhead050if you are unable to dismount (like I was), just run yourself into the tree behind him and relog. Should be dismounted then.",
+  "Wowhead050Mount the Hawkstrider and run over the glittering dirt mounds.",
+  "Wowhead050As of 12.0.5, there is a dismount vehicle button (red arrow) which appears. Click it and you are dismounted.",
 },
 
-[90496] = {
-  "9049618080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91348] = {
+  "9134818080NPCUnknown0NPCUnknown00",
+  "Wowhead050You are looking for a translucent, interactive green lotus-type flower next to the quest giver. (I translocated a few times before actually seeing the interactive flower)",
 },
 
-[90497] = {
-  "9049718080NPCUnknown0NPCUnknown00",
-  "Wowhead050No comments scraped yet.",
+[91349] = {
+  "9134918080NPCUnknown0NPCUnknown00",
+  "Wowhead050Currently, it seems like you can just test the same animal eight times in a row to get it done quicker.",
 },
 
-[90498] = {
-  "9049818080NPCUnknown0NPCUnknown00",
+[91350] = {
+  "9135018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90499] = {
-  "9049918080NPCUnknown0NPCUnknown00",
+[91352] = {
+  "9135218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90500] = {
-  "9050018080NPCUnknown0NPCUnknown00",
+[91353] = {
+  "9135318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90501] = {
-  "9050118080NPCUnknown0NPCUnknown00",
+[91358] = {
+  "9135818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
+},
+
+[91359] = {
+  "9135918080NPCUnknown0NPCUnknown00",
+  "Wowhead050If you run into an issue where you don't see the Feasting Lashrooms anymore, just log out then back in. A few spawned as I logged back in for me to complete the quest. Unless it was just luck of the respawn timer.",
+  "Wowhead050Spawn rate is quite low for the mobs; expect to fly around a bit to find them as they spawn. I found the best place was at 59.50, 29.60, around which two packs spawn occasionally. Took me about 12 minutes to complete. Last edited by Dramaq on 2026/03/08 (Patch 12.0.1)",
+},
+
+[91360] = {
+  "9136018080NPCUnknown0NPCUnknown00",
+  "Wowhead050When you pick up the quest it will show the far eastern part of the map as a place where you can pull weeds. This area is NOT where you want to be. head west. Weeds will show up on your minimap. Pull them there.",
+  "Wowhead050They'll show up as yellow dots on your mini-map.",
+  "Wowhead050When I pull the weeds, I don't get credit. Seems broken?",
+  "Wowhead050More weeds around the river western side (if you somehow only look in the eastern side)",
 },
 
-[90502] = {
-  "9050218080NPCUnknown0NPCUnknown00",
+[91361] = {
+  "9136118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90503] = {
-  "9050318080NPCUnknown0NPCUnknown00",
+[91362] = {
+  "9136218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90504] = {
-  "9050418080NPCUnknown0NPCUnknown00",
+[91363] = {
+  "9136318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90505] = {
-  "9050518080NPCUnknown0NPCUnknown00",
+[91364] = {
+  "9136418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90509] = {
-  "9050918080NPCUnknown0NPCUnknown00",
+[91365] = {
+  "9136518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90510] = {
-  "9051018080NPCUnknown0NPCUnknown00",
+[91366] = {
+  "9136618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90511] = {
-  "9051118080NPCUnknown0NPCUnknown00",
+[91367] = {
+  "9136718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90512] = {
-  "9051218080NPCUnknown0NPCUnknown00",
+[91368] = {
+  "9136818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90514] = {
-  "9051418080NPCUnknown0NPCUnknown00",
+[91369] = {
+  "9136918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90515] = {
-  "9051518080NPCUnknown0NPCUnknown00",
+[91370] = {
+  "9137018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90517] = {
-  "9051718080NPCUnknown0NPCUnknown00",
+[91371] = {
+  "9137118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90518] = {
-  "9051818080NPCUnknown0NPCUnknown00",
+[91372] = {
+  "9137218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90519] = {
-  "9051918080NPCUnknown0NPCUnknown00",
+[91373] = {
+  "9137318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90520] = {
-  "9052018080NPCUnknown0NPCUnknown00",
+[91374] = {
+  "9137418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90521] = {
-  "9052118080NPCUnknown0NPCUnknown00",
+[91375] = {
+  "9137518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90522] = {
-  "9052218080NPCUnknown0NPCUnknown00",
+[91376] = {
+  "9137618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90523] = {
-  "9052318080NPCUnknown0NPCUnknown00",
+[91377] = {
+  "9137718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90524] = {
-  "9052418080NPCUnknown0NPCUnknown00",
+[91378] = {
+  "9137818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90525] = {
-  "9052518080NPCUnknown0NPCUnknown00",
+[91379] = {
+  "9137918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90526] = {
-  "9052618080NPCUnknown0NPCUnknown00",
+[91380] = {
+  "9138018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90527] = {
-  "9052718080NPCUnknown0NPCUnknown00",
+[91381] = {
+  "9138118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90528] = {
-  "9052818080NPCUnknown0NPCUnknown00",
+[91382] = {
+  "9138218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90529] = {
-  "9052918080NPCUnknown0NPCUnknown00",
+[91383] = {
+  "9138318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90530] = {
-  "9053018080NPCUnknown0NPCUnknown00",
+[91384] = {
+  "9138418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90531] = {
-  "9053118080NPCUnknown0NPCUnknown00",
+[91385] = {
+  "9138518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90532] = {
-  "9053218080NPCUnknown0NPCUnknown00",
+[91386] = {
+  "9138618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90533] = {
-  "9053318080NPCUnknown0NPCUnknown00",
+[91388] = {
+  "9138818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90534] = {
-  "9053418080NPCUnknown0NPCUnknown00",
+[91389] = {
+  "9138918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90535] = {
-  "9053518080NPCUnknown0NPCUnknown00",
+[91390] = {
+  "9139018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90536] = {
-  "9053618080NPCUnknown0NPCUnknown00",
+[91391] = {
+  "9139118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90537] = {
-  "9053718080NPCUnknown0NPCUnknown00",
+[91395] = {
+  "9139518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90538] = {
-  "9053818080NPCUnknown0NPCUnknown00",
+[91396] = {
+  "9139618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90540] = {
-  "9054018080NPCUnknown0NPCUnknown00",
+[91398] = {
+  "9139818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90544] = {
-  "9054418080NPCUnknown0NPCUnknown00",
+[91399] = {
+  "9139918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90545] = {
-  "9054518080NPCUnknown0NPCUnknown00",
+[91400] = {
+  "9140018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90546] = {
-  "9054618080NPCUnknown0NPCUnknown00",
+[91401] = {
+  "9140118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90547] = {
-  "9054718080NPCUnknown0NPCUnknown00",
+[91402] = {
+  "9140218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90548] = {
-  "9054818080NPCUnknown0NPCUnknown00",
+[91403] = {
+  "9140318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90549] = {
-  "9054918080NPCUnknown0NPCUnknown00",
+[91404] = {
+  "9140418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90550] = {
-  "9055018080NPCUnknown0NPCUnknown00",
+[91405] = {
+  "9140518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90551] = {
-  "9055118080NPCUnknown0NPCUnknown00",
+[91406] = {
+  "9140618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90552] = {
-  "9055218080NPCUnknown0NPCUnknown00",
+[91407] = {
+  "9140718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90553] = {
-  "9055318080NPCUnknown0NPCUnknown00",
+[91408] = {
+  "9140818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90554] = {
-  "9055418080NPCUnknown0NPCUnknown00",
+[91409] = {
+  "9140918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90555] = {
-  "9055518080NPCUnknown0NPCUnknown00",
+[91410] = {
+  "9141018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90556] = {
-  "9055618080NPCUnknown0NPCUnknown00",
+[91411] = {
+  "9141118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90557] = {
-  "9055718080NPCUnknown0NPCUnknown00",
+[91412] = {
+  "9141218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90560] = {
-  "9056018080NPCUnknown0NPCUnknown00",
+[91413] = {
+  "9141318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90566] = {
-  "9056618080NPCUnknown0NPCUnknown00",
+[91414] = {
+  "9141418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90567] = {
-  "9056718080NPCUnknown0NPCUnknown00",
+[91415] = {
+  "9141518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90568] = {
-  "9056818080NPCUnknown0NPCUnknown00",
+[91417] = {
+  "9141718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90569] = {
-  "9056918080NPCUnknown0NPCUnknown00",
+[91419] = {
+  "9141918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90570] = {
-  "9057018080NPCUnknown0NPCUnknown00",
+[91420] = {
+  "9142018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90571] = {
-  "9057118080NPCUnknown0NPCUnknown00",
+[91421] = {
+  "9142118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90572] = {
-  "9057218080NPCUnknown0NPCUnknown00",
+[91422] = {
+  "9142218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90573] = {
-  "9057318080NPCUnknown0NPCUnknown00",
+[91423] = {
+  "9142318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90574] = {
-  "9057418080NPCUnknown0NPCUnknown00",
+[91426] = {
+  "9142618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90575] = {
-  "9057518080NPCUnknown0NPCUnknown00",
+[91429] = {
+  "9142918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90576] = {
-  "9057618080NPCUnknown0NPCUnknown00",
+[91430] = {
+  "9143018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90577] = {
-  "9057718080NPCUnknown0NPCUnknown00",
+[91431] = {
+  "9143118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90578] = {
-  "9057818080NPCUnknown0NPCUnknown00",
+[91432] = {
+  "9143218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90579] = {
-  "9057918080NPCUnknown0NPCUnknown00",
+[91433] = {
+  "9143318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90580] = {
-  "9058018080NPCUnknown0NPCUnknown00",
+[91434] = {
+  "9143418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90581] = {
-  "9058118080NPCUnknown0NPCUnknown00",
+[91435] = {
+  "9143518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90582] = {
-  "9058218080NPCUnknown0NPCUnknown00",
+[91436] = {
+  "9143618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90583] = {
-  "9058318080NPCUnknown0NPCUnknown00",
+[91437] = {
+  "9143718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90584] = {
-  "9058418080NPCUnknown0NPCUnknown00",
+[91438] = {
+  "9143818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90585] = {
-  "9058518080NPCUnknown0NPCUnknown00",
+[91439] = {
+  "9143918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90586] = {
-  "9058618080NPCUnknown0NPCUnknown00",
+[91440] = {
+  "9144018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90587] = {
-  "9058718080NPCUnknown0NPCUnknown00",
+[91441] = {
+  "9144118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90588] = {
-  "9058818080NPCUnknown0NPCUnknown00",
+[91442] = {
+  "9144218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90589] = {
-  "9058918080NPCUnknown0NPCUnknown00",
+[91443] = {
+  "9144318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90590] = {
-  "9059018080NPCUnknown0NPCUnknown00",
+[91444] = {
+  "9144418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90591] = {
-  "9059118080NPCUnknown0NPCUnknown00",
+[91446] = {
+  "9144618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90592] = {
-  "9059218080NPCUnknown0NPCUnknown00",
+[91447] = {
+  "9144718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90593] = {
-  "9059318080NPCUnknown0NPCUnknown00",
+[91448] = {
+  "9144818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90594] = {
-  "9059418080NPCUnknown0NPCUnknown00",
+[91449] = {
+  "9144918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90595] = {
-  "9059518080NPCUnknown0NPCUnknown00",
+[91450] = {
+  "9145018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90596] = {
-  "9059618080NPCUnknown0NPCUnknown00",
+[91451] = {
+  "9145118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90597] = {
-  "9059718080NPCUnknown0NPCUnknown00",
+[91452] = {
+  "9145218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90598] = {
-  "9059818080NPCUnknown0NPCUnknown00",
+[91453] = {
+  "9145318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90599] = {
-  "9059918080NPCUnknown0NPCUnknown00",
+[91454] = {
+  "9145418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90600] = {
-  "9060018080NPCUnknown0NPCUnknown00",
+[91455] = {
+  "9145518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90601] = {
-  "9060118080NPCUnknown0NPCUnknown00",
+[91456] = {
+  "9145618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90602] = {
-  "9060218080NPCUnknown0NPCUnknown00",
+[91457] = {
+  "9145718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90607] = {
-  "9060718080NPCUnknown0NPCUnknown00",
+[91458] = {
+  "9145818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90608] = {
-  "9060818080NPCUnknown0NPCUnknown00",
+[91459] = {
+  "9145918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90609] = {
-  "9060918080NPCUnknown0NPCUnknown00",
+[91460] = {
+  "9146018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90610] = {
-  "9061018080NPCUnknown0NPCUnknown00",
+[91461] = {
+  "9146118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90614] = {
-  "9061418080NPCUnknown0NPCUnknown00",
+[91462] = {
+  "9146218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90615] = {
-  "9061518080NPCUnknown0NPCUnknown00",
+[91463] = {
+  "9146318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90616] = {
-  "9061618080NPCUnknown0NPCUnknown00",
+[91464] = {
+  "9146418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90617] = {
-  "9061718080NPCUnknown0NPCUnknown00",
+[91465] = {
+  "9146518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90618] = {
-  "9061818080NPCUnknown0NPCUnknown00",
+[91466] = {
+  "9146618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90619] = {
-  "9061918080NPCUnknown0NPCUnknown00",
+[91467] = {
+  "9146718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90620] = {
-  "9062018080NPCUnknown0NPCUnknown00",
+[91468] = {
+  "9146818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90621] = {
-  "9062118080NPCUnknown0NPCUnknown00",
+[91469] = {
+  "9146918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90622] = {
-  "9062218080NPCUnknown0NPCUnknown00",
+[91470] = {
+  "9147018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90623] = {
-  "9062318080NPCUnknown0NPCUnknown00",
+[91471] = {
+  "9147118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90625] = {
-  "9062518080NPCUnknown0NPCUnknown00",
+[91472] = {
+  "9147218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90626] = {
-  "9062618080NPCUnknown0NPCUnknown00",
+[91473] = {
+  "9147318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90627] = {
-  "9062718080NPCUnknown0NPCUnknown00",
+[91474] = {
+  "9147418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90628] = {
-  "9062818080NPCUnknown0NPCUnknown00",
+[91475] = {
+  "9147518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90630] = {
-  "9063018080NPCUnknown0NPCUnknown00",
+[91476] = {
+  "9147618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90631] = {
-  "9063118080NPCUnknown0NPCUnknown00",
+[91477] = {
+  "9147718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90632] = {
-  "9063218080NPCUnknown0NPCUnknown00",
+[91478] = {
+  "9147818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90633] = {
-  "9063318080NPCUnknown0NPCUnknown00",
+[91479] = {
+  "9147918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90634] = {
-  "9063418080NPCUnknown0NPCUnknown00",
+[91480] = {
+  "9148018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90635] = {
-  "9063518080NPCUnknown0NPCUnknown00",
+[91481] = {
+  "9148118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90636] = {
-  "9063618080NPCUnknown0NPCUnknown00",
+[91482] = {
+  "9148218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90637] = {
-  "9063718080NPCUnknown0NPCUnknown00",
+[91483] = {
+  "9148318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90638] = {
-  "9063818080NPCUnknown0NPCUnknown00",
+[91484] = {
+  "9148418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90639] = {
-  "9063918080NPCUnknown0NPCUnknown00",
+[91485] = {
+  "9148518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90640] = {
-  "9064018080NPCUnknown0NPCUnknown00",
+[91486] = {
+  "9148618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90641] = {
-  "9064118080NPCUnknown0NPCUnknown00",
+[91487] = {
+  "9148718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90642] = {
-  "9064218080NPCUnknown0NPCUnknown00",
+[91489] = {
+  "9148918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90643] = {
-  "9064318080NPCUnknown0NPCUnknown00",
+[91490] = {
+  "9149018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90644] = {
-  "9064418080NPCUnknown0NPCUnknown00",
+[91492] = {
+  "9149218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90645] = {
-  "9064518080NPCUnknown0NPCUnknown00",
+[91493] = {
+  "9149318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90646] = {
-  "9064618080NPCUnknown0NPCUnknown00",
+[91494] = {
+  "9149418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90648] = {
-  "9064818080NPCUnknown0NPCUnknown00",
+[91495] = {
+  "9149518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90649] = {
-  "9064918080NPCUnknown0NPCUnknown00",
+[91496] = {
+  "9149618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90650] = {
-  "9065018080NPCUnknown0NPCUnknown00",
+[91504] = {
+  "9150418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90651] = {
-  "9065118080NPCUnknown0NPCUnknown00",
+[91505] = {
+  "9150518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90652] = {
-  "9065218080NPCUnknown0NPCUnknown00",
+[91506] = {
+  "9150618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90653] = {
-  "9065318080NPCUnknown0NPCUnknown00",
+[91507] = {
+  "9150718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90654] = {
-  "9065418080NPCUnknown0NPCUnknown00",
+[91508] = {
+  "9150818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90655] = {
-  "9065518080NPCUnknown0NPCUnknown00",
+[91509] = {
+  "9150918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90656] = {
-  "9065618080NPCUnknown0NPCUnknown00",
+[91510] = {
+  "9151018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90657] = {
-  "9065718080NPCUnknown0NPCUnknown00",
+[91511] = {
+  "9151118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90658] = {
-  "9065818080NPCUnknown0NPCUnknown00",
+[91512] = {
+  "9151218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90659] = {
-  "9065918080NPCUnknown0NPCUnknown00",
+[91513] = {
+  "9151318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90660] = {
-  "9066018080NPCUnknown0NPCUnknown00",
+[91514] = {
+  "9151418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90661] = {
-  "9066118080NPCUnknown0NPCUnknown00",
+[91515] = {
+  "9151518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90663] = {
-  "9066318080NPCUnknown0NPCUnknown00",
+[91516] = {
+  "9151618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90664] = {
-  "9066418080NPCUnknown0NPCUnknown00",
+[91517] = {
+  "9151718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90665] = {
-  "9066518080NPCUnknown0NPCUnknown00",
+[91518] = {
+  "9151818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90666] = {
-  "9066618080NPCUnknown0NPCUnknown00",
+[91519] = {
+  "9151918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90667] = {
-  "9066718080NPCUnknown0NPCUnknown00",
+[91520] = {
+  "9152018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90668] = {
-  "9066818080NPCUnknown0NPCUnknown00",
+[91521] = {
+  "9152118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90669] = {
-  "9066918080NPCUnknown0NPCUnknown00",
+[91522] = {
+  "9152218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90670] = {
-  "9067018080NPCUnknown0NPCUnknown00",
+[91523] = {
+  "9152318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90671] = {
-  "9067118080NPCUnknown0NPCUnknown00",
+[91524] = {
+  "9152418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90672] = {
-  "9067218080NPCUnknown0NPCUnknown00",
+[91525] = {
+  "9152518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90673] = {
-  "9067318080NPCUnknown0NPCUnknown00",
+[91526] = {
+  "9152618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90674] = {
-  "9067418080NPCUnknown0NPCUnknown00",
+[91527] = {
+  "9152718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90675] = {
-  "9067518080NPCUnknown0NPCUnknown00",
+[91528] = {
+  "9152818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90676] = {
-  "9067618080NPCUnknown0NPCUnknown00",
+[91529] = {
+  "9152918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90677] = {
-  "9067718080NPCUnknown0NPCUnknown00",
+[91530] = {
+  "9153018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90678] = {
-  "9067818080NPCUnknown0NPCUnknown00",
+[91532] = {
+  "9153218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90679] = {
-  "9067918080NPCUnknown0NPCUnknown00",
+[91533] = {
+  "9153318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90680] = {
-  "9068018080NPCUnknown0NPCUnknown00",
+[91534] = {
+  "9153418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90681] = {
-  "9068118080NPCUnknown0NPCUnknown00",
+[91535] = {
+  "9153518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90682] = {
-  "9068218080NPCUnknown0NPCUnknown00",
+[91536] = {
+  "9153618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90683] = {
-  "9068318080NPCUnknown0NPCUnknown00",
+[91537] = {
+  "9153718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90684] = {
-  "9068418080NPCUnknown0NPCUnknown00",
+[91539] = {
+  "9153918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90685] = {
-  "9068518080NPCUnknown0NPCUnknown00",
+[91541] = {
+  "9154118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90686] = {
-  "9068618080NPCUnknown0NPCUnknown00",
+[91542] = {
+  "9154218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90687] = {
-  "9068718080NPCUnknown0NPCUnknown00",
+[91543] = {
+  "9154318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90688] = {
-  "9068818080NPCUnknown0NPCUnknown00",
+[91544] = {
+  "9154418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90689] = {
-  "9068918080NPCUnknown0NPCUnknown00",
+[91545] = {
+  "9154518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90690] = {
-  "9069018080NPCUnknown0NPCUnknown00",
+[91546] = {
+  "9154618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90691] = {
-  "9069118080NPCUnknown0NPCUnknown00",
+[91550] = {
+  "9155018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90692] = {
-  "9069218080NPCUnknown0NPCUnknown00",
+[91551] = {
+  "9155118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90693] = {
-  "9069318080NPCUnknown0NPCUnknown00",
+[91552] = {
+  "9155218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90694] = {
-  "9069418080NPCUnknown0NPCUnknown00",
+[91553] = {
+  "9155318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90695] = {
-  "9069518080NPCUnknown0NPCUnknown00",
+[91555] = {
+  "9155518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90696] = {
-  "9069618080NPCUnknown0NPCUnknown00",
+[91556] = {
+  "9155618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90697] = {
-  "9069718080NPCUnknown0NPCUnknown00",
+[91557] = {
+  "9155718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90698] = {
-  "9069818080NPCUnknown0NPCUnknown00",
+[91558] = {
+  "9155818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90699] = {
-  "9069918080NPCUnknown0NPCUnknown00",
+[91559] = {
+  "9155918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90701] = {
-  "9070118080NPCUnknown0NPCUnknown00",
+[91560] = {
+  "9156018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90703] = {
-  "9070318080NPCUnknown0NPCUnknown00",
+[91561] = {
+  "9156118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90704] = {
-  "9070418080NPCUnknown0NPCUnknown00",
+[91562] = {
+  "9156218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90705] = {
-  "9070518080NPCUnknown0NPCUnknown00",
+[91563] = {
+  "9156318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90708] = {
-  "9070818080NPCUnknown0NPCUnknown00",
+[91565] = {
+  "9156518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90709] = {
-  "9070918080NPCUnknown0NPCUnknown00",
+[91566] = {
+  "9156618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90710] = {
-  "9071018080NPCUnknown0NPCUnknown00",
+[91570] = {
+  "9157018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90711] = {
-  "9071118080NPCUnknown0NPCUnknown00",
+[91571] = {
+  "9157118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90713] = {
-  "9071318080NPCUnknown0NPCUnknown00",
+[91579] = {
+  "9157918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90714] = {
-  "9071418080NPCUnknown0NPCUnknown00",
+[91581] = {
+  "9158118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90716] = {
-  "9071618080NPCUnknown0NPCUnknown00",
+[91582] = {
+  "9158218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90718] = {
-  "9071818080NPCUnknown0NPCUnknown00",
+[91583] = {
+  "9158318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90719] = {
-  "9071918080NPCUnknown0NPCUnknown00",
+[91584] = {
+  "9158418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90720] = {
-  "9072018080NPCUnknown0NPCUnknown00",
+[91585] = {
+  "9158518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90721] = {
-  "9072118080NPCUnknown0NPCUnknown00",
+[91586] = {
+  "9158618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90722] = {
-  "9072218080NPCUnknown0NPCUnknown00",
+[91587] = {
+  "9158718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90723] = {
-  "9072318080NPCUnknown0NPCUnknown00",
+[91588] = {
+  "9158818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90724] = {
-  "9072418080NPCUnknown0NPCUnknown00",
+[91589] = {
+  "9158918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90725] = {
-  "9072518080NPCUnknown0NPCUnknown00",
+[91590] = {
+  "9159018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90729] = {
-  "9072918080NPCUnknown0NPCUnknown00",
+[91591] = {
+  "9159118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90731] = {
-  "9073118080NPCUnknown0NPCUnknown00",
+[91592] = {
+  "9159218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90732] = {
-  "9073218080NPCUnknown0NPCUnknown00",
+[91594] = {
+  "9159418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90733] = {
-  "9073318080NPCUnknown0NPCUnknown00",
+[91595] = {
+  "9159518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90734] = {
-  "9073418080NPCUnknown0NPCUnknown00",
+[91596] = {
+  "9159618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90735] = {
-  "9073518080NPCUnknown0NPCUnknown00",
+[91597] = {
+  "9159718080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90736] = {
-  "9073618080NPCUnknown0NPCUnknown00",
+[91598] = {
+  "9159818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90737] = {
-  "9073718080NPCUnknown0NPCUnknown00",
+[91599] = {
+  "9159918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90738] = {
-  "9073818080NPCUnknown0NPCUnknown00",
+[91600] = {
+  "9160018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90739] = {
-  "9073918080NPCUnknown0NPCUnknown00",
+[91601] = {
+  "9160118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90740] = {
-  "9074018080NPCUnknown0NPCUnknown00",
+[91602] = {
+  "9160218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90741] = {
-  "9074118080NPCUnknown0NPCUnknown00",
+[91603] = {
+  "9160318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90742] = {
-  "9074218080NPCUnknown0NPCUnknown00",
+[91604] = {
+  "9160418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90743] = {
-  "9074318080NPCUnknown0NPCUnknown00",
+[91605] = {
+  "9160518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90744] = {
-  "9074418080NPCUnknown0NPCUnknown00",
+[91606] = {
+  "9160618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90745] = {
-  "9074518080NPCUnknown0NPCUnknown00",
+[91612] = {
+  "9161218080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90746] = {
-  "9074618080NPCUnknown0NPCUnknown00",
+[91613] = {
+  "9161318080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90747] = {
-  "9074718080NPCUnknown0NPCUnknown00",
+[91614] = {
+  "9161418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90748] = {
-  "9074818080NPCUnknown0NPCUnknown00",
+[91615] = {
+  "9161518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90749] = {
-  "9074918080NPCUnknown0NPCUnknown00",
+[91616] = {
+  "9161618080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90751] = {
-  "9075118080NPCUnknown0NPCUnknown00",
+[91618] = {
+  "9161818080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90752] = {
-  "9075218080NPCUnknown0NPCUnknown00",
+[91619] = {
+  "9161918080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90753] = {
-  "9075318080NPCUnknown0NPCUnknown00",
+[91620] = {
+  "9162018080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90754] = {
-  "9075418080NPCUnknown0NPCUnknown00",
+[91621] = {
+  "9162118080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90755] = {
-  "9075518080NPCUnknown0NPCUnknown00",
+[91624] = {
+  "9162418080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
-[90757] = {
-  "9075718080NPCUnknown0NPCUnknown00",
+[91625] = {
+  "9162518080NPCUnknown0NPCUnknown00",
   "Wowhead050No comments scraped yet.",
 },
 
