@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 
 import html
-import json
+import os
 import re
-import time
 from pathlib import Path
 
 from bs4 import BeautifulSoup
@@ -17,6 +16,9 @@ OUTFILE = ROOT / 'LightHeaded' / 'Data' / 'LH_Data_Midnight.lua'
 COMMENT_SEP = '\031'
 ENTRY_SEP = '\030'
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/125 Safari/537.36'
+
+MAX_QUESTS = int(os.environ.get('LH_MAX_QUESTS', '750'))
+START_INDEX = int(os.environ.get('LH_START_INDEX', '0'))
 
 
 def clean(text: str) -> str:
@@ -42,7 +44,16 @@ def load_ids():
         if line.isdigit():
             ids.append(int(line))
 
-    return sorted(set(ids))
+    ids = sorted(set(ids))
+
+    end_index = START_INDEX + MAX_QUESTS
+    sliced = ids[START_INDEX:end_index]
+
+    print(f'[+] Total quest IDs available: {len(ids)}')
+    print(f'[+] Processing range: {START_INDEX} -> {end_index}')
+    print(f'[+] Selected quest IDs: {len(sliced)}')
+
+    return sliced
 
 
 def dump_globals(page):
@@ -55,7 +66,7 @@ def dump_globals(page):
                 for (const key of keys) {
                     try {
                         if (window[key]) {
-                            chunks.push(JSON.stringify(window[key]).slice(0, 1000000));
+                            chunks.push(JSON.stringify(window[key]).slice(0, 400000));
                         }
                     } catch (e) {}
                 }
@@ -87,7 +98,7 @@ def extract_comments_from_globals(blob):
     except Exception:
         pass
 
-    return comments[:50]
+    return comments[:15]
 
 
 def scrape_quest(page, qid):
@@ -95,13 +106,8 @@ def scrape_quest(page, qid):
     print(f'[+] Scraping {url}')
 
     try:
-        page.goto(url, wait_until='domcontentloaded', timeout=60000)
-        page.wait_for_timeout(3000)
-
-        try:
-            page.wait_for_selector('h1', timeout=10000)
-        except PlaywrightTimeoutError:
-            pass
+        page.goto(url, wait_until='domcontentloaded', timeout=15000)
+        page.wait_for_timeout(750)
 
         html_text = page.content()
         globals_blob = dump_globals(page)
@@ -120,12 +126,11 @@ def scrape_quest(page, qid):
                 title = clean(match.group(1))
 
         if not title:
-            print(f'[-] No title for {qid}')
             return None
 
         comments = []
 
-        for node in soup.select('.comment-body')[:50]:
+        for node in soup.select('.comment-body')[:15]:
             body = clean(node.get_text('\n'))
 
             if len(body) < 25:
@@ -144,9 +149,10 @@ def scrape_quest(page, qid):
             'id': qid,
             'title': title,
             'comments': comments,
-            'url': url,
         }
 
+    except PlaywrightTimeoutError:
+        return None
     except Exception as e:
         print(f'[!] Failed {qid}: {e}')
         return None
@@ -201,8 +207,6 @@ def write_pack(entries):
 
 def main():
     ids = load_ids()
-    print(f'[+] Loaded {len(ids)} quest IDs')
-
     entries = []
 
     with sync_playwright() as p:
@@ -211,19 +215,27 @@ def main():
         context = browser.new_context(
             user_agent=USER_AGENT,
             locale='en-US',
-            timezone_id='America/Denver',
-            viewport={'width': 1600, 'height': 1200},
+            viewport={'width': 1280, 'height': 720},
         )
 
         page = context.new_page()
 
-        for qid in ids:
+        page.route(
+            '**/*',
+            lambda route: route.abort()
+            if route.request.resource_type in ['image', 'media', 'font']
+            else route.continue_()
+        )
+
+        for index, qid in enumerate(ids, start=1):
             result = scrape_quest(page, qid)
 
             if result:
                 entries.append(result)
 
-            time.sleep(1)
+            if index % 50 == 0:
+                print(f'[+] Progress: {index}/{len(ids)}')
+                write_pack(entries)
 
         page.close()
         context.close()
