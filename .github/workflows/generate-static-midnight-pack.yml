@@ -1,0 +1,45 @@
+name: Generate Static Midnight Pack
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-pack:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate static Midnight data pack
+        run: |
+          python tools/generate_static_midnight_pack.py
+
+      - name: Show generated file info
+        run: |
+          ls -lah LightHeaded/Data/
+          wc -l LightHeaded/Data/LH_Data_Midnight_Static.lua
+
+      - name: Commit generated data pack
+        run: |
+          if git diff --quiet -- LightHeaded/Data/LH_Data_Midnight_Static.lua; then
+            echo "No data pack changes generated."
+            exit 0
+          fi
+
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add LightHeaded/Data/LH_Data_Midnight_Static.lua
+          git commit -m "Generate static Midnight data pack"
+          git push
