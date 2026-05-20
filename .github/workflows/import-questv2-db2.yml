@@ -1,0 +1,54 @@
+name: Import QuestV2 DB2
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  import-db2:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Verify DB2 file exists
+        run: |
+          ls -lah tools/
+
+          if [ ! -f tools/QuestV2.db2 ]; then
+            echo "Missing tools/QuestV2.db2"
+            exit 1
+          fi
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Import QuestV2 DB2 IDs
+        run: |
+          python tools/import_questv2_db2.py
+
+      - name: Show results
+        run: |
+          wc -l tools/midnight_quest_ids.txt
+          tail -n 25 tools/midnight_quest_ids.txt || true
+
+      - name: Commit updated quest ID list
+        run: |
+          if git diff --quiet -- tools/midnight_quest_ids.txt; then
+            echo "No quest ID changes discovered."
+            exit 0
+          fi
+
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add tools/midnight_quest_ids.txt
+          git commit -m "Import QuestV2 DB2 quest IDs"
+          git push
