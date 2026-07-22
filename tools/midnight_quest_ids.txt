@@ -1,5 +1,5 @@
 # Midnight quest IDs
-# Includes Wago metadata-derived quest IDs
+# Includes Wago.tools-derived quest IDs
 
 88018
 88051
@@ -4632,6 +4632,18 @@
 98507
 98508
 98509
+98515
+98525
+98526
+98532
+98535
+98538
+98541
+98547
+98548
+98549
+98550
+98551
 98560
 98563
 98599
